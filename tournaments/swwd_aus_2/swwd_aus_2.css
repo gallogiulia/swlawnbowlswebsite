@@ -1,0 +1,60 @@
+.image_box
+{
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+    margin-right: 80px;
+    float: right;
+    width: 266px;
+}
+
+.img_box_2014
+{
+    float: right;
+    width: 400px;
+    margin-right: 50px;
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+}
+
+.img_box_2015
+{
+    float: right;
+    width: 400px;
+    margin-right: 50px;
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+}
+
+.payment
+{
+	width: 40%;
+}
+
+.res2
+{
+margin-left: auto;
+margin-right: auto;
+margin-top: 30px;
+margin-bottom: 30px;
+font-size: 14px;
+border: 1px;
+}
+
+.res2 tr td
+{
+text-align: center;
+width: 22%;
+
+}
+
+.res2 tr th
+{
+text-align: center;
+font-size: 16px;
+font-weight: bold;
+width: 5%;
+}
+

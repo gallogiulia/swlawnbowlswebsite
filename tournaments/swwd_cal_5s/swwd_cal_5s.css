@@ -1,0 +1,62 @@
+.photo_table
+{
+    clear: both;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 20px;
+    font-style: italic;
+    text-align: center;
+}
+.photo_table tr td 
+{
+    font-style: italic;
+    text-align: center;
+}
+
+.winner_pic
+{
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+    clear: both;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 20px;
+}
+
+.replace
+{
+ margin-top: -10px;
+ padding-top: -10px;
+ text-align: center;
+ color: #FF0004;
+ font-weight: bold;
+ font-style: italic;
+ font-size: 18px;
+}
+
+.res2
+{
+margin-left: auto;
+margin-right: auto;
+margin-top: 30px;
+margin-bottom: 30px;
+font-size: 14px;
+border: 1px;
+}
+
+.res2 tr td
+{
+text-align: center;
+width: 18%;
+
+}
+
+.res2 tr th
+{
+text-align: center;
+font-size: 16px;
+font-weight: bold;
+width: 5%;
+}
+

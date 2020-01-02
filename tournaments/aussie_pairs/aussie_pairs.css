@@ -1,0 +1,41 @@
+@charset "utf-8";
+#announce
+{
+    clear: both;
+    width: 800px;
+    margin-left: auto;
+    margin-bottom: 20px;
+    margin-right: auto;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+/* CSS Document */
+
+#pay_pal
+{
+    float: left;
+    width: 205
+\;
+    margin-left: 35px;
+    text-align: center;
+    background-color: #EFEFEF;
+    margin-right: 30px;
+    border: 1px solid #000;
+    width: 205px;
+    margin-left: 40px;
+}
+
+.details_table
+{
+    clear: both;
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+tr td img {
+ margin-top: 6px;
+ border: none;
+ }
+ 

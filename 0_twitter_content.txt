@@ -1,0 +1,44 @@
+<?php
+
+//this script provides the twitter box and content IF a controlling file ("twitter.txt") exists - the script is bypassed without that file
+//a simple way to turn it on or off is to rename the file - I easily do it by adding or removing a character at the end of the filename
+
+$data = file('twitter.txt');
+
+if($data)
+    {
+     echo  "<div class=\"twitter_box\">
+
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 20,
+  interval: 30000,
+  width: 260,
+  height: 150,
+  theme: {
+    shell: {
+      background: '#55fa76',
+      color: '#55fa76'
+    },
+    tweets: {
+      background: '#c5fcc7',
+      color: '#000000',
+      links: '#a3a3a3'
+    }
+  },
+  features: {
+    scrollbar: true,
+    loop: false,
+    live: true,
+    behavior: 'all'
+  }
+}).render().setUser('sclbcsc').start();
+</script>
+
+<!-- end twitter_box --></div>"
+;
+    }
+
+?>

@@ -1,0 +1,72 @@
+@charset "utf-8";
+.team_sw
+{
+    clear: both;
+    width: 95%;
+    margin-right: auto;
+    margin-left: auto;
+}
+.team_sw tr th
+{
+    font-size: 24px;
+    font-weight: bold;
+    text-align: left;
+    vertical-align: middle;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+.team_sw tr td.rank
+{
+    text-align: right;
+    vertical-align: middle;
+    padding-right: 4px;
+    font-size: 12px;
+}
+
+.team_sw tr td.name
+{
+    text-align: left;
+    font-size: 12px;
+    width: 16%;
+}
+.team_sw tr td
+{
+    font-size: 12px;
+}
+
+
+.team_sw tr td.name_women
+{
+    text-align: left;
+    font-size: 12px;
+    width: 16%;
+    padding-left: 3px;
+    color: #F00;
+}
+
+.team_sw tr td.name_men
+{
+    text-align: left;
+    font-size: 12px;
+    width: 14%;
+    padding-left: 3px;
+    color: #00F;
+}
+
+.photo_box
+{
+    float: right;
+    width: 50px;
+    margin-right: 30px;
+    font-size: 12px;
+    text-align: center;
+    font-style: italic;
+}
+
+.photo_box tr td
+{
+    font-size: 12px;
+    font-style: italic;
+}

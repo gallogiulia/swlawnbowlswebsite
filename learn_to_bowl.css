@@ -1,0 +1,22 @@
+@charset "utf-8";
+.flt_rt_img
+{
+    margin-right: 40px;
+    float: right;
+    margin-left: 15px;
+    margin-bottom: 10px;
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+    line-height: 1.2em;
+}
+
+.flt_rt_img img
+{
+    margin-bottom: -10px;
+}
+
+p
+{
+ margin-bottom: 8px;
+}

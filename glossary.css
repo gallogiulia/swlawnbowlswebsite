@@ -1,0 +1,68 @@
+#glossary
+{
+    float: none;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+#glossary
+tr th
+{
+    font-weight: bold;
+    margin-left: 5px;
+    text-align: left;
+    padding-left: 5px;
+    vertical-align: top;
+    width: 140px;
+    font-size: 14px;
+}
+
+#glossary tr td
+{
+    padding-left: 8px;
+    text-align: left;
+    vertical-align: top;
+    line-height: 1.2em;
+    padding-bottom: 7px;
+    font-size: 14px;
+}
+
+
+.dicttable
+{
+    width: 88%;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #F9F9F9;
+    padding: 8px;
+    font-size: 14px;
+}
+
+.dicttable tr th
+{
+    text-align: left;
+    width: 15%;
+    vertical-align: top;
+    padding-bottom: 5px;
+    font-weight: bold;
+}
+.dicttable tr td
+{
+    padding-left: 10px;
+    padding-bottom: 5px;
+    text-align: left;
+    vertical-align: top;
+}
+
+
+h1.terms
+{
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 25px;
+    font-style: italic;
+    clear: both;
+}

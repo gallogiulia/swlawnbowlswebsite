@@ -1,0 +1,23 @@
+@charset "utf-8";
+.payment
+{
+    clear: both;
+    width: 300px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 20px;
+}
+
+.payment h6
+{
+ width: 300;
+}
+
+.fltrt_winner_img
+{
+    float: right;
+    margin-right: 50px;
+    font-size: 14px;
+    font-style: italic;
+    text-align: center;
+}

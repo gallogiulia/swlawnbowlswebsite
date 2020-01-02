@@ -1,0 +1,71 @@
+@charset "utf-8";
+
+.payment_old
+{
+    width: 80%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    clear: both;
+    margin-right: auto;
+    margin-left: auto;
+    color: #006600;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-align: center;
+}
+
+.payment_old form table
+{
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #DFFFDF;
+    margin-bottom: 10px;
+}
+.payment_old form table tr td
+{
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-bottom: 5px;
+}
+
+.payment_old h4
+{
+    text-align: left;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.payment_old h2
+{
+    text-align: left;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.res2
+{
+margin-left: auto;
+margin-right: auto;
+margin-top: 30px;
+margin-bottom: 30px;
+font-size: 14px;
+border: 1px;
+}
+
+.res2 tr td
+{
+text-align: center;
+width: 23%;
+
+}
+
+.res2 tr th
+{
+text-align: center;
+font-size: 16px;
+font-weight: bold;
+width: 5%;
+}

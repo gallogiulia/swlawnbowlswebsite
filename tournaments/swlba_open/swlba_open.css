@@ -1,0 +1,282 @@
+@charset "utf-8";
+
+#photos_2015
+{
+    width: 940px;
+}
+
+#photos_2015 tr td.photo_sing
+{
+    width: 200px;
+    padding-left: 20px;
+    text-align: center;
+    vertical-align: top;
+    font-size: 12px;
+    font-style: italic;
+}
+
+#photos_2015 tr td.photo_pairs
+{
+    width: 200px;
+    padding-right: 30px;
+    text-align: center;
+    vertical-align: top;
+    font-size: 12px;
+    font-style: italic;
+    line-height: 1.2em;
+}
+
+#photos_2015 tr td.photo_fours
+{
+    width: 450px;
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+    vertical-align: top;
+}
+
+.results_pairs_one_class
+{
+    width: 350px;
+    text-align: center;
+    font-size: 14px;
+    margin-bottom: 20px;
+    float: right;
+    margin-right: 50px;
+}
+.results_pairs_one_class table
+{
+    width: 100%;
+    font-size: 14px;
+}
+.results_pairs_one_class tr td
+{
+    font-size: 14px;
+    color: #000;
+    text-align: center;
+    vertical-align: middle;
+    padding-right: 8px;
+}
+.results_pairs_one_class tr th
+{
+    font-size: 18px;
+    font-weight: bold;
+    color: #03F;
+    text-align: center;
+    vertical-align: middle;
+}
+.results_pairs_one_class tr td h4
+{
+    font-size: 18px;
+    font-weight: bold;
+    color: #03F;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#pay
+{
+    clear: both;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-align: center;
+    vertical-align: top;
+    background-color: rgba(213,248,221,1);
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 85%;
+}
+
+#pay tr td
+{
+    clear: both;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-align: center;
+    vertical-align: top;
+    line-height: 1.2em;
+}
+#pay tbody tr td form table tr td
+{
+}
+
+
+#pay tbody tr td form table tr td input
+{
+    text-align: center;
+    vertical-align: top;
+    margin-right: auto;
+    margin-left: auto;
+}
+.center
+{
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+#announce
+h6{
+    font-size: 16px;
+    text-align: center;
+    color: #000;
+    margin-top: 15px;
+    width: 70%;
+    margin-bottom: 10px;
+}
+
+#announce h5
+{
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#google_2013
+{
+    width: 85%;
+    text-align: center;
+    clear: both;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.charts_2011
+{
+    clear: both;
+    width: 360px;
+    margin-left: 280px;
+    margin-bottom: 20px;
+}
+.charts_2011 tr td
+{
+    text-align: center;
+    width: 50%;
+}
+.charts_2011 tr th
+{
+    text-align: center;
+    font-weight: bold;
+    color: #00F;
+    width: 50%;
+}
+.charts_2012
+{
+    clear: both;
+    width: 560px;
+    margin-left: 200px;
+    margin-bottom: 20px;
+}
+.charts_2012 tr td
+{
+    text-align: center;
+    width: 20%;
+}
+.charts_2012 tr th
+{
+    text-align: center;
+    font-weight: bold;
+    color: #00F;
+    width: 22%;
+}
+.charts_2014
+{
+    clear: both;
+    width: 560px;
+    margin-left: 200px;
+    margin-bottom: 20px;
+}
+
+
+.charts_2014 tr td
+{
+    text-align: center;
+    width: 20%;
+}
+
+
+.charts_2014 tr th
+{
+    text-align: center;
+    font-weight: bold;
+    color: #00F;
+    width: 22%;
+}
+
+.charts_2015
+{
+    clear: both;
+    width: 660px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    background-color: #FF9;
+    border: 2px solid #000;
+    margin-top: 10px;
+}
+.charts_2015 tr td
+{
+    text-align: center;
+    width: 15%;
+}
+.charts_2015 tr th
+{
+    text-align: center;
+    font-weight: bold;
+    color: #00F;
+    width: 20%;
+}
+
+
+.charts_2016
+{
+    clear: both;
+    width: 660px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    background-color: #FF9;
+    border: 2px solid #000;
+    margin-top: 10px;
+}
+.charts_2016 tr td
+{
+ text-align: center;
+ width: 13%;
+ line-height: 1.2em;
+}
+.charts_2016 tr th
+{
+ text-align: center;
+ font-weight: bold;
+ color: #00F;
+ width: 18%;
+}
+
+
+
+#rules_ref
+{
+    clear: both;
+    width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 10px;
+}
+
+#rules_ref tr td
+{
+    text-align: center;
+}
+.container .charts_2012 {
+}

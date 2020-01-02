@@ -1,0 +1,28 @@
+p
+{
+    margin-left: 45px;
+    line-height: 1.2em;
+    margin-bottom: 4px;
+}
+
+.photos
+{
+    float: right;
+    width: 300px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+    line-height: 1.2em;
+}
+.players_pic_2015 {
+  width: 860;
+	font-size: 12px;
+	font-style: italic;
+  text-align: center;
+	clear: both;
+	margin-right: auto;
+	margin-left: auto;
+}

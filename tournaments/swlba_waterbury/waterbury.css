@@ -1,0 +1,89 @@
+table tr td.winner_place
+{
+    width: 2%;
+}
+table tr td.winner_club
+{
+    width: 22%;
+}
+
+
+table tr td.winner_person
+{
+    width: 24%;
+}
+.results_fours_one_class table tr th
+{
+    height: 8px;
+}
+
+#hist_by_year
+{
+    width: 80%;
+}
+
+
+div #hist_by_year tr th
+{
+    font-weight: bold;
+    width: 8%;
+}
+#hist_by_year tr td.winner_year
+{
+    width: 8%;
+    font-weight: bold;
+}
+
+#hist_by_year tr td.winner_club
+{
+    padding-left: 10px;
+}
+#hist_by_year tr td.winner_district
+{
+    padding-left: 10px;
+}
+
+div #hist_by_year tr td.club
+{
+    padding-left: 10px;
+}
+
+#hist_by_wins
+{
+    clear: both;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    width: 680px;
+    font-size: 14px;
+    background-color: #F5F5F5;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 140px;
+}
+#hist_by_wins tr td
+{
+    text-align: left;
+    padding-left: 5px;
+    padding-right: 10px;
+    width: 25%;
+}
+
+.payment
+{
+ width: 40%;
+ margin-top: 10px;
+ margin-bottom: 10px;
+ clear: both;
+ margin-right: auto;
+ margin-left: auto;
+ color: #006600;
+ font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+ font-size: 14px;
+ text-align: center;
+}
+.payment table tr td
+ 
+{
+ text-align: center;
+ width: 20px;
+}

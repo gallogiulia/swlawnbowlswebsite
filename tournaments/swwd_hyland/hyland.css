@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.picture_box
+{
+    width: 320px;
+    margin-right: 35px;
+    float: right;
+    margin-bottom: 20px;
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+}

@@ -1,0 +1,5 @@
+<div id="banner_club">
+<h1>A Club Event</h1>
+<p><br><a href="../../index.php">home</a></p>
+<!-- banner end --></div>
+

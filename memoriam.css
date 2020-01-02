@@ -1,0 +1,164 @@
+#departed
+{
+    width: 740px;
+    float: left;
+    font-size: 14px;
+    background-color: #FFF;
+    margin-left: 35px;
+    margin-bottom: 5px;
+    clear: left;
+    margin-top: 5px;
+    padding: 3px;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-color: #000;
+    border-right-color: #000;
+    border-bottom-color: #000;
+    border-left-color: #000;
+}
+
+.explain
+{
+    width: 72%;
+}
+
+
+#departed tr td.date
+{
+    color: #000000;
+    font-weight: bold;
+    text-align: center;
+    width: 20%;
+}
+
+
+#departed tr td.list
+{
+    color: #000000;
+    font-size: 12px;
+    font-weight: normal;
+    text-align: center;
+    width: 20%;
+}
+
+
+#departed tr td.man 
+{
+    color: #00F;
+    font-weight: bold;
+    text-align: left;
+    padding-left: 10px;
+    width: 40%;
+}
+
+#departed tr td.man a:link
+{
+    color: #00F;
+    font-weight: bold;
+    text-align: left;
+}
+
+#departed tr td.man a:visited
+{
+    color: #00F;
+    font-weight: bold;
+    text-align: left;
+}
+
+#departed tr td.man a:active
+{
+    color: #00F;
+    font-weight: bold;
+    text-align: left;
+}
+
+#departed tr td.man a:hover
+{
+    color: #00F;
+    font-weight: bold;
+    text-align: left;
+    background-color: #D2F4C2;
+}
+
+
+#departed tr td.woman
+{
+    color: #F00;
+    font-weight: bold;
+    text-align: left;
+    padding-left: 120px;
+    width: 40%;
+}
+
+#departed tr td.woman a:link
+{
+    color: #F00;
+    font-weight: bold;
+    text-align: left;
+}
+
+#departed tr td.woman a:visited
+{
+    color: #F00;
+    font-weight: bold;
+    text-align: left;
+}
+
+#departed tr td.woman a:active
+{
+    color: #F00;
+    font-weight: bold;
+    text-align: left;
+}
+
+#departed tr td.woman a:hover
+{
+    color: #F00;
+    font-weight: bold;
+    text-align: left;
+    background-color: #D2F4C2;
+}
+
+
+
+#departed tr td.club 
+{
+    text-align: left;
+    padding-left: 10px;
+}
+
+
+#departed thead tr th button
+{
+    font-size: 16px;
+    width: 100%;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    color: #060;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.font_green_060
+{
+    color: #060;
+}
+
+
+th
+{
+    font-size: 20px;
+    font-weight: normal;
+    font-style: italic;
+    padding-bottom: 10px;
+}
+
+

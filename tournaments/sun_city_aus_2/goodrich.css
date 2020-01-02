@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+.payment
+{
+    width: 40%;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    clear: both;
+    margin-right: auto;
+    margin-left: auto;
+    color: #006600;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-align: center;
+}
+.payment form table tr td
+{
+    text-align: left;
+}

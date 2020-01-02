@@ -1,0 +1,37 @@
+<div class="menu_main">
+  
+  <ul class="nav">
+   <li><a href="index.php">              Home                    </a></li>
+   <li><a href="about_us.php">           About Us                </a></li>
+   <li><a href="calendar.php">           Calendar                </a></li>
+   <li><a href="clubs.php">              Clubs                   </a></li>
+   <li><a href="coach.php">              Coaches                 </a></li>
+   <li><a href="documents.php">          Documents               </a></li>
+   <li><a href="etiquette.php">          Etiquette               </a></li>
+   <li><a href="memoriam.php">           Friends we<br>have lost </a></li>
+   <li><a href="glossary.php">           Glossary                </a></li>
+   <li><a href="green_jack.php">         Green Jack              </a></li>
+   <li><a href="history.php">            History                 </a></li>
+   <li><a href="ladies_day.php">         Ladies' Day             </a></li>
+   <li><a href="learn_to_bowl.php">      Learn to Bowl           </a></li>
+   <li><a href="links.php">              Links                   </a></li>
+   <li><a href="markers.php">            Markers                 </a></li>
+   <li><a href="mem_fund.php">           Memorial Fund           </a></li>
+   <li><a href="playdowns.php">          Playdowns               </a></li>
+   <li><a href="laws.php">               Rules                   </a></li>
+   <li><a href="sw_stuff.php">           SW Stuff                </a></li>
+   <li><a href="standings_m.php">        Standings (M)           </a></li>
+   <li><a href="standings_w.php">        Standings (W)           </a></li>
+   <li><a href="team_sw.php">            Team SW                 </a></li>
+   <li><a href="tournaments.php">        Tournaments             </a></li>
+   <li><a href="results.php">            Tourn. Results          </a></li>
+   <li><a href="umpires.php">            Umpires                 </a></li>
+   <li><a href="http://usedlawnbowlsforsale.weebly.com/">            Used Bowls              </a></li>
+   <li><a href="videos.php">             Videos                  </a></li>
+   <li><a href="waterbury.php">          Waterbury               </a></li>
+   <li><a href="winter_league.php">      Winter League           </a></li>
+   <li>  </li>
+   <li><em><a href="mailto:webmaster@swlawnbowls.org">Contact the<br>webmaster</a></em></li>
+  </ul>
+		
+<!-- end .menu_main --></div>

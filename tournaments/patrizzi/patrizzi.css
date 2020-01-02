@@ -1,0 +1,26 @@
+@charset "utf-8";
+.results_pairs_two_classes
+{
+    clear: both;
+    margin-left: 50px;
+    width: 650px;
+    margin-bottom: 20px;
+}
+
+.results_pairs_one_class
+{
+    clear: left;
+    width: 350px;
+    text-align: center;
+    font-size: 14px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+
+.floatRight_pic
+{
+    margin-right: 30px;
+    width: 500px;
+    float: right;
+    margin-bottom: 15px;
+}

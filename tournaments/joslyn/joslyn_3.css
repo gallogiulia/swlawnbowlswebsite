@@ -1,0 +1,40 @@
+@charset "utf-8";
+.picture_group
+{
+    font-size: 12px;
+    font-style: italic;
+    clear: both;
+    margin-right: auto;
+    margin-bottom: 20px;
+    margin-left: auto;
+    text-align: center;
+}
+.picture_trophy
+{
+    float: right;
+    margin-right: 50px;
+    margin-bottom: 15px;
+}
+#table_prior_winners
+{
+    clear: both;
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 20px;
+}
+#table_prior_winners tr td
+{
+    text-align: center;
+}
+
+#table_recap
+{
+    width: 540px;
+    margin-left: 100px;
+}
+
+#table_recap tr td
+{
+    height: 8px;
+}

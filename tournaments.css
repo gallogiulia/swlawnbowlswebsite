@@ -1,0 +1,32 @@
+.content
+{
+    width: 900px;
+    margin-top: -10px;
+}
+.content_top
+{
+    height: 50px;
+    width: 835px;
+}
+.content_top h1
+{
+    font-size: 22px;
+    font-weight: bold;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+}
+.tourn_sponsor
+{
+    list-style-type: circle;
+    margin-left: 40px;
+    list-style-position: outside;
+    margin-right: 55px;
+    margin-bottom: 8px;
+}
+
+ .floatRight_40
+ { float: right;
+ margin-right: 40px;
+ }
+

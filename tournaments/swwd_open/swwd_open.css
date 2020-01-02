@@ -1,0 +1,187 @@
+@charset "utf-8";
+.charts_2015
+{
+    clear: both;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    background-color: #FF9;
+    border: 2px solid #000;
+    margin-top: 20px;
+}
+.charts_2015 tr td
+{
+    text-align: center;
+}
+.charts_2015 tr th
+{
+    text-align: center;
+    font-weight: bold;
+    color: #00F;
+    width: 20%;
+}
+#announce
+h6{
+    font-size: 16px;
+    text-align: center;
+    color: #000;
+    margin-top: 15px;
+    width: 70%;
+    margin-bottom: 10px;
+}
+
+.chart
+{
+    clear: both;
+    width: 800px;
+    margin-left: 80px;
+    margin-right: 80px;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.chart tr td
+{
+    text-align: center;
+}
+
+.chart tr th
+{
+    text-align: center;
+    font-weight: bold;
+    color: #00F;
+}
+
+#photos_2015
+{
+    width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#photos_2015 tr td.photo_sing
+{
+    width: 100%;
+    text-align: center;
+    font-size: 12px;
+    font-style: italic;
+    padding-bottom: 10px;
+}
+
+#photos_2015 tr td.photo_pairs
+{
+    width: 200px;
+    padding-right: 30px;
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+#photos_2015 tr td.photo_fours
+{
+    width: 450px;
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+#pay
+{
+    clear: both;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-align: center;
+    vertical-align: top;
+    background-color: rgba(213,248,221,1);
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 85%;
+}
+
+#pay tr td
+{
+    clear: both;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-align: center;
+    vertical-align: top;
+    line-height: 1.2em;
+}
+#pay tbody tr td form table tr td
+{
+}
+
+
+#pay tbody tr td form table tr td input
+{
+    text-align: center;
+    vertical-align: top;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.center {
+ text-align: center;
+}
+
+.charts_2016
+{
+    clear: both;
+    width: 660px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    background-color: #FF9;
+    border: 2px solid #000;
+    margin-top: 10px;
+    font-size: 16px;
+}
+.charts_2016 tr td
+{
+ text-align: center;
+ width: 13%;
+ line-height: 1.2em;
+}
+.charts_2016 tr th
+{
+ text-align: center;
+ font-weight: bold;
+ color: #00F;
+ width: 18%;
+}
+
+
+.charts
+{
+    clear: both;
+    width: 660px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    background-color: #FF9;
+    border: 2px solid #000;
+    margin-top: 10px;
+    font-size: 16px;
+}
+.charts tr td
+{
+ text-align: center;
+ width: 13%;
+ line-height: 1.2em;
+}
+.charts tr th
+{
+ text-align: center;
+ font-weight: bold;
+ color: #00F;
+ width: 18%;
+}
+
+

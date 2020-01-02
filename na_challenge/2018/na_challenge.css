@@ -1,0 +1,215 @@
+@charset "utf-8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    line-height: 1.2em;
+    padding: 0px;
+    background-image: none;
+    background-repeat: repeat;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.container {
+    width: 960px;
+    background: #FFF;
+    margin-top: 0;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 10px;
+}
+
+.container #contact {
+}
+
+
+h1 
+{
+    font-size: 24px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    line-height: 1.1em;
+    margin-bottom: 5px;
+    padding-top: 25px;
+}
+
+h2 
+{
+    text-align: left;
+    font-size: 18px;
+    line-height: 1.2em;
+    font-weight: bold;
+    margin-left: 30px;
+    color: #66C;
+}
+
+p
+{
+    margin-top: 0;
+    margin-bottom: 10px;
+    text-align: left;
+    font-size: 16px;
+    padding-top: 0px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+p.nac_intro
+{
+    font-size: 16px;
+    margin-right: 50px;
+    margin-left: 50px;
+    text-align: justify;
+    line-height: 1.2em;
+}
+
+a img {
+    border: none;
+    display: block;
+}
+
+a:link {
+    color: #60C;
+    text-decoration: none;
+}
+
+a:visited {
+	color: #953397;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+    color: #FFF;
+	background-color: #090;
+	list-style-type: none;
+}
+
+a:active {
+	text-decoration: underline;
+	color: #953397;
+}
+
+a:focus {
+	text-decoration: underline;
+	color: #953397;
+}
+
+.fltrt {
+    float: right;
+    margin-left: 8px;
+    margin-right: 10px;
+}
+
+.clearfloat {
+	clear:both;
+	height:0;
+	font-size: 1px;
+	line-height: 0px;
+}
+
+.txt_10
+{
+    font-size: 10px;
+}
+
+.txt_12
+{
+    font-size: 12px;
+}
+
+.txt_14
+{
+    font-size: 14px;
+}
+
+.txt_16
+{
+    font-size: 16px;
+}
+
+.spacer_5 {
+	clear: both;
+	margin-bottom: 5px;
+}
+
+.spacer_10 {
+	clear: both;
+	margin-bottom: 10px;
+}
+
+.spacer_15 {
+	clear: both;
+	margin-bottom: 15px;
+}
+
+h1 
+{
+    font-size: 24px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    line-height: 1.1em;
+    margin-bottom: 5px;
+    padding-top: 5px;
+    margin-top: 0px;
+}
+
+.iframe
+{
+    clear: both;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+#menu
+{
+    width: 86%;
+    clear: both;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    background-color: #E7E7E7;
+    line-height: 1.1em;
+}
+
+#menu tr td
+{
+    width: 20%;
+}
+
+
+.footer
+{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 18ppx;
+    font-weight: bold;
+}
+
+.align_center
+{
+    text-align: center;
+}
+
+.align_top
+{
+
+}
+
+.bg_canada
+{
+background-color: #FCC6C6
+}
+
+.bg_us
+{
+background-color: #C8CDF9
+}
+
+
+

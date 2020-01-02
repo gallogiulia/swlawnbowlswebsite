@@ -1,0 +1,211 @@
+.font_16_bold_bg_yellow
+{
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #FF6;
+}
+/* ~~ miscellaneous float/clear classes ~~ */
+.trophy {  /* this class can be used to float an element right in your page. The floated element must precede the element it should be next to on the page. */
+    float: right;
+    margin-left: 12px;
+    margin-bottom: 10px;
+    margin-right: 30px;
+    margin-top: 10px;
+}
+.champ_2012
+{
+    font-weight: bold;
+    font-style: italic;
+}
+.champ_2013
+{
+    font-weight: bold;
+    color: #000;
+    font-style: normal;
+    text-decoration: underline;
+}
+.league_champ
+{
+    font-weight: bold;
+    color: #000;
+    font-style: normal;
+    text-decoration: underline;
+    background-color: #FF9;
+}
+
+.champ_2012_and_2013
+{
+    font-weight: bold;
+    color: #00F;
+    text-decoration: underline;
+}
+
+
+
+table.waterbury
+{
+    float: none;
+    width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+    clear: both;
+    border: 1px solid #000;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.waterbury tr th
+{
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 5px;
+    margin-top: 0px;
+    font-weight: bold;
+    padding-bottom: 5px;
+    background-color: #F0F0F0;
+    padding-right: 4px;
+    padding-left: 4px;
+}
+.waterbury tr td
+{
+    height: 8px;
+}
+.waterbury tr td.schedule
+{
+    height: 8px;
+    text-align: center;
+    color: #00F;
+    font-weight: bold;
+    width: 20%;
+    vertical-align: middle;
+}
+.container .content .waterbury .water_club .water_club div strong em
+{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+
+
+.waterbury tr th.water_league
+{
+    line-height: 1.2em;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    vertical-align: middle;
+    width: 5%;
+    text-align: center;
+    margin-top: 5px;
+    margin-right: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.waterbury tr td.water_club
+{
+    line-height: 1.2em;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    vertical-align: top;
+    width: 60%;
+    padding-right: 4px;
+    padding-left: 10px;
+    height: 10px;
+}
+.waterbury tr.water_column_head
+{
+    line-height: 1.2em;
+    padding-bottom: 8px;
+    padding-top: 5px;
+    vertical-align: middle;
+    width: 60%;
+    padding-right: 4px;
+    padding-left: 4px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #CFF;
+    font-size: 18px;
+}
+
+
+.waterbury tr td.water_sched
+{
+    line-height: 1.2em;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    vertical-align: middle;
+    width: 15%;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    padding-left: 5px;
+    text-align: center;
+}
+
+.winners
+{
+    width: 700px;
+    font-size: 14px;
+    margin-bottom: 15px;
+    clear: both;
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px solid #000;
+    background-color: #E9E9E9;
+}
+
+.winners 
+tr td.winners_year
+
+{
+    padding-left: 20px;
+    padding-right: 8px;
+}
+.winners tr
+td{
+    height: 8px;
+}
+
+
+
+.winners tr td.winners_club
+{
+    padding-left: 0px;
+    padding-right: 5px;
+}
+
+
+.winners tr td.winners_league
+{
+    padding-left: 0px;
+    padding-right: 50px;
+}
+
+.repeats
+{
+    width: 700px;
+    font-size: 14px;
+    margin-bottom: 15px;
+    clear: both;
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px solid #000;
+    background-color: #E9E9E9;
+}
+
+.repeats tr td
+{
+    height: 8px;
+}
+.repeats tr td.repeats_club
+{
+    padding-left: 0px;
+    padding-right: 5px;
+    width: 28%;
+}
+
+.repeats tr td.repeats_number
+{
+    padding-left: 15px;
+    padding-right: 5px;
+}

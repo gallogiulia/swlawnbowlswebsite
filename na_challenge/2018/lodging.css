@@ -1,0 +1,15 @@
+.hotel {
+    float: right;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 570px;
+}
+
+.map
+{
+    clear: both;
+    margin-right: auto;
+    margin-left: auto;
+    width: 800px;
+    margin-top: 20px;
+}

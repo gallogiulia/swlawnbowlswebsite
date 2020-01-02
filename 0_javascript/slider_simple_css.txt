@@ -1,0 +1,28 @@
+/* usual control elements */
+.control-container {
+    /* as far as controls are displayed as inline-block this puts them to center */
+    /* choose left or right to put it to left/right */
+    text-align: center; 
+    
+    /* margin from the bottom of slider */
+    /* see demo to learn how to put panel over the slider */
+    margin-top: 10px;
+}
+
+.control-element, .control-element-active {
+    /* this displays element as inline-block; zoom and *display is a hack for ie7 which does not support inline-block */
+    display: inline-block;
+    zoom: 1;
+    *display: inline;
+    
+    /* change this to the values you need */
+    width: 7px;
+    height: 7px;
+    background: #d7f1ab;
+    margin: 0 5px;
+    cursor: pointer;
+}
+
+.control-element-active {
+    background: #819462;
+}     

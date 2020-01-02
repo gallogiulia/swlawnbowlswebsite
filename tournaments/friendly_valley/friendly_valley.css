@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.photo_2014
+{
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+    width: 300px;
+    margin-right: 100px;
+    float: right;
+    margin-bottom: 20px;
+}

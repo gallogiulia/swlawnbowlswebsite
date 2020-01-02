@@ -1,0 +1,110 @@
+.payment
+{
+    width: 300px;
+}
+
+#history
+{
+    width: 250px;
+    margin-left: 100px;
+    margin-bottom: 300px;
+}
+
+#history tr td 
+{
+    text-align: center;
+    height: 8px;
+    font-size: 14px;
+}
+
+#history tr th
+{
+    text-align: center;
+    font-size: 24px;
+}
+
+#history tr td.hist_year
+{
+    font-weight: bold;
+    padding-right: 10px;
+}
+
+#history tr td.hist_rank
+{
+    font-weight: bold;
+    padding-right: 10px;
+}
+
+.results_pairs_one_class
+{
+    clear: left;
+    width: 450px;
+    text-align: center;
+    font-size: 14px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+
+.image_box
+{
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+    width: 350px;
+    margin-right: 20px;
+    float: right;
+}
+
+.image_box table tr td
+{
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+}
+
+#winners
+{
+    clear: both;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+#winners tr th
+{
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+    padding-bottom: 6px;
+}
+
+#winners tr th.st_title
+{
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+    padding-bottom: 6px;
+    font-size: 24px;
+}
+
+#winners tr td
+{
+    text-align: center;
+    vertical-align: middle;
+    padding-bottom: 6px;
+}
+
+#winners tr td.st_r
+{
+    text-align: right;
+    vertical-align: middle;
+    padding-left: 5px;
+}
+
+#winners tr td.st_l
+{
+    text-align: left;
+    vertical-align: middle;
+    padding-left: 2px;
+}

@@ -1,0 +1,25 @@
+#documents
+{
+    float: none;
+    width: 80%;
+    margin-top: 10px;
+    margin-right: 50px;
+    font-size: 14px;
+    margin-left: 60px;
+}
+#documents tr th 
+{
+    font-weight: bold;
+    text-align: left;
+    width: 40%;
+    line-height: 1.2em;
+    vertical-align: top;
+}
+
+#documents tr td
+{
+    text-align: left;
+    line-height: 1.2em;
+    vertical-align: top;
+    padding-top: 2px;
+}

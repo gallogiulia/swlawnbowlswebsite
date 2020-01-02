@@ -1,0 +1,96 @@
+@charset "utf-8";
+#pix {
+ clear: both;
+ width: 808px;
+ margin-top: 20px;
+ margin-right: auto;
+ margin-bottom: 20px;
+ margin-left: auto;
+}
+
+#pix tbody tr td {
+ font-size: 14px;
+ font-style: italic;
+ text-align: center;
+ padding-right: 2px;
+ padding-left: 2px;
+ vertical-align: top;
+}
+
+.results_trips_one_class
+{
+    clear: left;
+    width: 470px;
+    text-align: center;
+    font-size: 14px;
+    margin-left: 80px;
+    margin-bottom: 20px;
+}
+
+.results_trips_one_class table
+{
+    width: 100%;
+    font-size: 12px;
+}
+
+.results_trips_one_class tr td
+{
+    font-size: 12px;
+    color: #000;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.results_trips_one_class tr th
+{
+    font-size: 18px;
+    font-weight: bold;
+    color: #03F;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.results_trips_one_class tr td h4
+{
+    font-size: 18px;
+    font-weight: bold;
+    color: #03F;
+    text-align: center;
+    vertical-align: middle;
+}
+
+
+.winner_photo {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
+    font-size: 10px;
+    font-style: italic;
+    width: 340px;
+    float: right;
+    margin-right: 30px;
+    text-align: center;
+}
+
+.res2
+{
+margin-left: auto;
+margin-right: auto;
+margin-top: 30px;
+margin-bottom: 30px;
+font-size: 14px;
+border: 1px;
+}
+
+.res2 tr td
+{
+text-align: center;
+width: 30%;
+}
+
+.res2 tr th
+{
+text-align: center;
+font-size: 16px;
+font-weight: bold;
+width: 5%;
+}
+

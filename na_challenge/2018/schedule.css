@@ -1,0 +1,213 @@
+.header
+{
+    background-image: url(0_banner_index.png);
+    height: 140px;
+    text-align: center;
+    vertical-align: middle;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 24px;
+    color: #FFF;
+    padding-top: 10px;
+    background-repeat: no-repeat;
+    font-weight: bold;
+    font-style: italic;
+    line-height: 1.1em;
+}
+.fltrt_print {
+    float: right;
+    margin-left: 8px;
+    margin-right: 80px;
+    font-size: 16px;
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+    background-color: #FFC;
+}
+.sched
+{
+    width: 80%;
+    clear: both;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 30px;
+}
+.bg_men
+{
+    background-color: #0FF;
+}
+.sched tr th
+{
+    font-size: 12px;
+    text-align: center;
+    line-height: 1.1em;
+    height: 8px;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.sched tr td 
+{
+    font-size: 12px;
+    text-align: center;
+    line-height: 1.1em;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    height: 10px;
+    font-weight: bold;
+}
+
+.sched tr td.vs
+{
+    font-size: 10px;
+    text-align: center;
+    line-height: .8em;
+    height: 6px;
+    font-weight: bold;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.bg_sc  
+{
+    background-color: #ffb971;
+}
+.bg_ne
+{
+    background-color: #7f7f7f;
+    color: #FFF;
+}
+.bg_ce
+{
+    background-color: #14ffbc;
+    color: #000;
+}
+.bg_se
+{
+    background-color: #ffff0b;
+    color: #000;
+}
+
+.bg_nw
+{
+    background-color: #0026ff;
+    color: #FFF;
+}
+.bg_sw_star
+{
+    background-color: #ff1a21;
+    color: #FFF;
+}
+.bg_sw_stripe
+{
+    background-color: #FF8083;
+    color: #000;
+}
+
+
+.bg_pi
+{
+    background-color: #0094fe;
+    color: #FFF;
+}
+
+#schedule
+{
+    clear: both;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+#schedule tr td
+{
+    text-align: right;
+    vertical-align: top;
+    padding-bottom: 8px;
+}
+#schedule tr td.sched_day
+{
+    text-align: center;
+    margin-right: 10px;
+    vertical-align: top;
+}
+
+
+#schedule tr td.sched_date
+{
+    text-align: left;
+    padding-left: 10px;
+    vertical-align: top;
+}
+
+#schedule tr td.sched_time
+{
+    text-align: left;
+    padding-left: 10px;
+    line-height: 1.2em;
+}
+
+#schedule tr td.sched_detail
+{
+    text-align: left;
+    padding-left: 10px;
+    line-height: 1.2em;
+}
+
+#matchups
+{
+    clear: both;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    border: 2px solid #D5D5D5;
+    margin-bottom: 5px;
+    margin-top: 15px;
+    background-color: #FFFFEC;
+}
+#matchups tr th
+{
+    font-size: 16px;
+    width: 25%;
+    height: 25px;
+}
+
+#matchups tr td
+{
+    width: 5%;
+    text-align: center;
+    height: 8px;
+    font-weight: bold;
+}
+#matchups tr td.round_blank
+{
+    background-color: #D6D6D6;
+}
+
+.container #matchups tr td.round_title
+{
+    font-size: 14px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+#table_matchups
+{
+    clear: both;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+#schedule tr .sched_day h4
+{
+    font-size: 14px;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+}

@@ -1,0 +1,152 @@
+@charset "utf-8";
+.content_new
+{
+    float: right;
+    width: 940px;
+}
+
+h3
+{
+    margin-top: 15px;
+    clear: none;
+}
+
+#history
+{
+	width: 770px;
+	margin-left: 30px;
+}
+
+#history tr th
+{
+    font-weight: bold;
+    font-size: 14px;
+}
+#history tr td
+{
+    font-size: 12px;
+    height: 10px;
+    text-align: center;
+}
+
+#history tr td.win_cat
+{
+    text-align: center;
+    font-weight: bold;
+    padding-right: 5px;
+    padding-left: 5px;
+    background-color: #E2FECF;
+}
+
+
+#history tr td.win_year
+{
+    font-size: 14px;
+    height: 4px;
+    text-align: left;
+    vertical-align: middle;
+    font-weight: bold;
+}
+
+#history tr td.win_nat_champ
+{
+    font-size: 12px;
+    font-weight:bold;
+    background-color:#FFFEB5;
+    }
+
+.highlighted_winners
+{
+font-size: 14px;
+background-color: #FFFEB5;
+font-style: italic;
+text-align: center;
+width: 65%;
+clear: both;
+margin-right: auto;
+margin-left: auto;
+margin-bottom: 8px;
+}
+
+.champs
+{
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.champs tr th
+{
+    font-size: 18px;
+    font-weight: bold;
+    color: #00F;
+}
+
+.champs tr td
+{
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+}
+
+.champs tr td.title
+{
+    font-size: 14px;
+    font-style: italic;
+    text-align: center;
+    font-weight: bold;
+    padding-bottom: 3px;
+}
+
+.champs tr td.cat
+{
+    font-size: 12px;
+    font-weight: normal;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.champs tr td.former_st_st
+{
+    font-size: 12px;
+    font-weight: normal;
+    text-align: center;
+    margin-top: -10px;
+    padding-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.former_right {
+	float: right;
+	margin-right: 40px;
+}
+
+.former_left {
+		margin-left: -70px;
+}
+
+.current {
+	float: right;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.prior_years {
+ width: 920px;
+ margin-right: auto;
+ margin-left: auto;
+}
+
+.fltrt {
+	float: right;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.fltlft {
+	float: left;
+	margin-left: 0px;
+	margin-right: 0px;
+}

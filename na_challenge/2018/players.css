@@ -1,0 +1,330 @@
+@charset "utf-8";
+
+.header
+{
+    background-image: url(images/banner/0_banner_players.png);
+    height: 140px;
+    text-align: center;
+    vertical-align: middle;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 24px;
+    color: #FFF;
+    padding-top: 10px;
+    background-repeat: no-repeat;
+    font-weight: bold;
+    font-style: italic;
+    line-height: 1.1em;
+}
+
+
+.players_01{
+    clear: both;
+    margin-right: auto;
+    margin-left: auto;
+    width: 750px;
+}
+
+
+.players_01 tr td
+{
+    text-align: center;
+    height: 6px;
+    font-size: 14px;
+    vertical-align: middle;
+    line-height: 1.3em;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.players_02{
+    clear: both;
+    margin-right: auto;
+    margin-left: auto;
+    width: 800px;
+}
+
+.players_02 tr th
+{
+    text-align: right;
+    height: 6px;
+    font-size: 14px;
+    vertical-align: middle;
+    line-height: 1.1em;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.players_02 tr td
+{
+    text-align: center;
+    height: 6px;
+    font-size: 14px;
+    vertical-align: middle;
+    line-height: 1.3em;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+
+
+
+.play_highlight
+{
+    background-color: #FF0;
+}
+
+#competitors tr td.note
+{
+    text-align: left;
+}
+
+#competitors
+{
+    clear: both;
+    width: 95%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 5px;
+    border: 2px solid #999;
+    background-color: #F5F5F5;
+    padding: 0px;
+    margin-top: 0px;
+}
+
+#competitors tr td
+{
+    text-align: center;
+    height: 8px;
+    font-size: 12px;
+    vertical-align: middle;
+    line-height: 1.3em;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#competitors tr td.due
+
+{
+    text-align: center;
+    height: 8px;
+    font-size: 14px;
+    vertical-align: middle;
+    padding-bottom: 10px;
+    line-height: 1.3em;
+    font-weight: bold;
+    font-style: italic;
+    color: #999;
+}
+
+#competitors tr th
+{
+    text-align: center;
+    height: 8px;
+    font-size: 16px;
+    vertical-align: middle;
+    font-weight: bold;
+    padding-left: 5px;
+    background-color: #d6d6d6;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+p.table_caption
+{
+    font-size: 14px;
+    text-align: center;
+    width: 100%;
+    clear: both;
+    margin-right: auto;
+    margin-left: auto;
+    font-style: italic;
+}
+
+#players
+{
+    clear: both;
+    width: 920px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 30px;
+}
+
+#players tr th 
+{
+    font-size: 12px;
+    font-weight: bold;
+    width: 150px;
+    padding-bottom: 15px;
+    font-style: italic;
+    line-height: 1.1em;
+    vertical-align: top;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+#players tr th img
+{
+    margin-bottom: 3px;
+    vertical-align: top;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    width: 150px;
+}
+
+#players tr td 
+{
+    width: 280px;
+    font-size: 14px;
+    vertical-align: top;
+    padding-top: 0px;
+    padding-right: 25px;
+    padding-left: 10px;
+    line-height: 1.2em;
+    padding-bottom: 10px;
+}
+
+#players tr td .player_name
+{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#players tr td p
+{
+    margin-top: 3px;
+    margin-right: 0px;
+    margin-bottom: 3px;
+    margin-left: 0px;
+    font-size: 12px;
+}
+
+#players tr td .player_pos
+{
+    font-size: 16px;
+    font-style: italic;
+    font-weight: bold;
+    float: right;
+}
+
+#players tr td .player_club
+{
+    font-size: 10px;
+    font-style: italic;
+    font-weight: bold;
+    float: right;
+    margin-right: 15px;
+}
+
+.players
+{
+	width: 460px;
+	margin-left: 5px;
+	margin-top: 30px;
+}
+
+.players tr th 
+{
+    font-size: 12px;
+    font-weight: bold;
+    width: 150px;
+    padding-bottom: 15px;
+    font-style: italic;
+    line-height: 1.1em;
+    vertical-align: top;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-bottom: 15px;
+}
+
+.players tr th img
+{
+    margin-bottom: 3px;
+    vertical-align: top;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    width: 150px;
+}
+
+.players tr td 
+{
+    width: 280px;
+    font-size: 14px;
+    vertical-align: top;
+    padding-top: 0px;
+    padding-right: 25px;
+    padding-left: 10px;
+    line-height: 1.2em;
+    padding-bottom: 10px;
+}
+
+.players tr td .player_name
+{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.players tr td p
+{
+    margin-top: 3px;
+    margin-right: 0px;
+    margin-bottom: 3px;
+    margin-left: 0px;
+    font-size: 12px;
+}
+
+.players tr td .player_pos
+{
+    font-size: 16px;
+    font-style: italic;
+    font-weight: bold;
+    float: right;
+}
+
+.players tr td .player_club
+{
+    font-size: 10px;
+    font-style: italic;
+    font-weight: bold;
+    float: right;
+    margin-right: 10px;
+}
+
+.notes
+{
+    font-size: 12px;
+    background-color: #6F0;
+    vertical-align: middle;
+    line-height: 1.2em;
+}
+
+p.defending
+{
+    background-color: #FF6;
+    text-align: center;
+    font-weight: bold;
+    display: inline;
+}
+
+.header
+{
+    background-image: url(images/banner/0_banner_players.png);
+    height: 140px;
+    text-align: center;
+    vertical-align: middle;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 24px;
+    color: #FFF;
+    padding-top: 10px;
+    background-repeat: no-repeat;
+    font-weight: bold;
+    font-style: italic;
+    line-height: 1.1em;
+}

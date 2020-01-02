@@ -1,0 +1,13 @@
+<?php
+
+//this script provides a highlighted box and content IF a controlling file ("ann00.txt") exists - the script is bypassed without that file
+//a simple way to turn it on or off is to rename the file - I easily do it by adding or removing a character at the end of the filename
+
+$data = file_get_contents('http://bowlsusa.us/glossary/terms.html');     // searches for the file in the uslba directory and captures its contents
+
+// if($data)                                        if the above operation found the file with data, the remaining steps are followed
+//    {
+     echo   $data;                              // print the data in the file
+//    }
+
+?>

@@ -1,0 +1,95 @@
+<table id="departed">
+
+<thead>
+<tr>
+<th><button>Date of Passing<br><span class="font_12">(yyyy-mm-dd)</span></button></th>
+<th><button>Date Listed<br>&nbsp;</button></th>
+<th><button>Name<br>&nbsp;</button></th>
+<th><button>Club<br>&nbsp;</button></th>
+</tr>
+</thead>
+
+<tr>
+<td class="date">2018-02-18</td>
+<td class="list">2018-02-26</td>
+<td  class="man">
+<a href="memoriam/kramer.pdf">Kramer, Reinie</a>
+</td>
+<td class="club">Laguna Beach</td>
+</tr>
+
+<tr>
+<td class="date">2017-12-31</td>
+<td class="list">2018-02-26</td>
+<td class="man">Goring, Bill</td>
+<td class="club">Sun City</td>
+</tr>
+
+<tr>
+<td class="date">2017-03-29</td>
+<td class="list">2018-02-26</td>
+<td class="man">Ott, Clair</td>
+<td class="club">Hemet</td>
+</tr>
+
+<tr>
+<td class="date">2016-11-28</td>
+<td class="list">2018-02-26</td>
+<td class="man">Collins, Patrick</td>
+<td class="club">Hemet</td>
+</tr>
+
+<tr>
+<td class="date">2015-08-27</td>
+<td class="list">2018-02-26</td>
+<td class="woman">Plunkett, Gayle
+</td>
+<td class="club">Santa Anita</td>
+</tr>
+
+<tr>
+<td class="date">2013-08-06</td>
+<td class="list">2018-02-26</td>
+<td class="woman">Fossati, Carrie
+</td>
+<td class="club">Newport Harbor</td>
+</tr>
+
+<tr>
+<td class="date">2013-06-13</td>
+<td class="list">2018-02-26</td>
+<td class="woman">Forbes, Isabella
+</td>
+<td class="club">Long Beach</td>
+</tr>
+
+
+</table>
+
+
+<!-- man
+<tr>
+<td class="date">__passed__</td>
+<td class="list">__added__</td>
+<td  class="man">
+<a href="memoriam/__xxxxxxxxxx__">__Last Name, First Name__</a>
+</td>
+<td class="club">__xxxxxxxxxx__</td>
+</tr>
+-->
+
+<!-- woman
+<tr>
+<td class="date">__passed__</td>
+<td class="list">__added__</td>
+<td  class="woman">
+<a href="memoriam/__xxxxxxxxxx__">__Last Name, First Name__</a>
+</td>
+<td class="club">__xxxxxxxxxx__</td>
+</tr>
+-->
+
+
+
+
+

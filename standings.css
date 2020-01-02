@@ -1,0 +1,50 @@
+@charset "utf-8";
+.tsw_link {
+    float: left;
+    margin-right: 40px;
+    border: 1px solid #000;
+    margin-top: 10px;
+}
+.vert_text
+{
+    font-weight: bold;
+    transform: rotate(-90deg);
+}
+#standings_current
+{
+    clear: both;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+.standings_former
+{
+    clear: both;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.standings_former img
+{
+    clear: both;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+#menu_m
+{
+    clear: both;
+    margin-left: 45px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+#menu_m tr td
+{
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    padding-right: 5px;
+    padding-left: 5px;
+}

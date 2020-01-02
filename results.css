@@ -1,0 +1,212 @@
+@charset "utf-8";
+
+.tour_results
+{
+    clear: both;
+    width: 95%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 5px;
+    font-size: 12px;
+}
+.tour_results table
+{
+    margin-bottom: 5px;
+
+}
+.entry
+{
+    width: 100%;
+    clear: both;
+    margin-top: 10px;
+}
+hr
+{
+    clear: both;
+    width: 95%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    border-top-style: solid;
+    border-top-color: #C6C6C6;
+    border-top-width: 1px;
+}
+
+
+.name
+{
+    width: 170px;
+}
+.number  
+{
+    font-weight: bold;
+    margin-left: 25px;
+    font-size: 12px;
+    font-style: italic;
+    color: #066;
+    margin-bottom: 0px;
+    line-height: 1.2em;
+    padding-bottom: 0px;
+}
+.details table tr td
+{
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+.details table tr td.open_bowler
+{
+    padding-top: 1px;
+    padding-bottom: 1px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+    height: 25px;
+}
+
+.details table tr td.open_category
+{
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+}
+.details table tr td.open_flight
+{
+    font-size: 12px;
+    font-weight: bold;
+    text-align: left;
+}
+.details table tr td.open_pairs
+{
+    background-color: #EFEFEF;
+}
+
+
+
+.font_color_women
+{
+    color: #F00;
+}
+
+.font_color_men
+{
+    color: #00F;
+}
+
+.details
+{
+    float: right;
+    text-align: left;
+    width: 740px;
+}
+.details img
+{
+    margin-bottom: 10px;
+}
+
+
+
+.tour_results table tr td
+{
+    margin-left: 6%;
+    text-align: left;
+    line-height: 1.4em;
+}
+.tour_results table tr th
+{
+    font-weight: bold;
+    text-align: right;
+    padding-right: 12px;
+    padding-left: 10px;
+    line-height: 1.3em;
+}
+.tour_results table tr th h4
+{
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 4px;
+}
+.tour_results table tr th h5
+{
+    font-size: 12px;
+    font-weight: bold;
+    text-align: left;
+    margin-left: 15px;
+}
+
+
+
+
+h2
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 1.2em;
+    color: #906;
+}
+.type_club
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 1.2em;
+    color: #000;
+}
+
+
+h3
+{
+    font-size: 14px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    line-height: 1.2em;
+    margin-left: 15px;
+    color: #8F8F8F;
+}
+.web_page
+{
+    font-size: 12px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    line-height: 1.2em;
+    margin-left: 30px;
+    color: #000;
+    font-style: italic;
+}
+
+
+.title
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 0px;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+
+.consol
+{
+    font-size: 20px;
+    font-weight: bold;
+    vertical-align: middle;
+}
+
+.year {
+ font-size: 24px;
+ font-style: italic;
+ font-weight: bold;
+ background-color: #F2F80B;
+ text-align: center;
+ vertical-align: middle;
+ margin-top: 10px;
+ margin-bottom: 10px;
+}

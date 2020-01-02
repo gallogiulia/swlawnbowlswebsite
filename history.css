@@ -1,0 +1,20 @@
+ .floatRight {
+    float: right;
+    margin-left: 20px;
+    margin-right: 0px;
+}
+.fltlft 
+{
+    padding-right: 15px;
+}
+
+.item
+{
+    margin-bottom: 20px;
+    clear: both;
+}
+
+.item img
+{
+    margin-bottom: 20px;
+}

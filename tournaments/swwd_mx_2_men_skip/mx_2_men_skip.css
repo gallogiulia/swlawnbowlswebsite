@@ -1,0 +1,58 @@
+#announce
+{
+    clear: both;
+    width: 800px;
+    margin-left: auto;
+    margin-bottom: 20px;
+    margin-right: auto;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.table_photo
+{
+    width: 85%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    text-align: center;
+    clear: both;
+    margin-right: auto;
+    float: none;
+}
+
+.fltlft_names
+{
+    float: left;
+    margin-left: 30px;
+}
+
+.fltrt_names
+{
+    float: right;
+    margin-right: 30px;
+}
+
+.res2
+{
+margin-left: auto;
+margin-right: auto;
+margin-top: 30px;
+margin-bottom: 30px;
+font-size: 14px;
+border: 1px;
+}
+
+.res2 tr td
+{
+text-align: center;
+width: 23%;
+
+}
+
+.res2 tr th
+{
+text-align: center;
+font-size: 16px;
+font-weight: bold;
+width: 5%;
+}

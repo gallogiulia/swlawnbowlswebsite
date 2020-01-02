@@ -1,0 +1,87 @@
+@charset "utf-8";
+p {
+ margin-top: 10px;
+ margin-right: 60px;
+ margin-bottom: 10px;
+ margin-left: 60px;
+ font-size: 14px;
+}
+
+#pix_2_across {
+ clear: both;
+ margin-right: auto;
+ margin-left: auto;
+ width: 800px;
+ font-size: 12px;
+ font-style: italic;
+ text-align: center;
+}
+
+#pix_2_across tbody tr td {
+ font-size: 12px;
+ font-style: italic;
+ text-align: center;
+}
+
+.about
+{
+ clear: both;
+ width: 80%;
+ margin-right: auto;
+ margin-left: auto;
+ color: #FFF;
+ background-color: #360;
+ padding: 5px;
+ font-weight: bold;
+}
+
+.about p
+{
+ font-weight: bold;
+ padding-left: 20px;
+ padding-right: 10px;
+ margin-left: 20px;
+ margin-right: 10px;
+ margin-bottom: 10px;
+}
+
+.about p img
+{
+ padding-left: 20px;
+ padding-right: 0px;
+ margin-right: 0px;
+ margin-bottom: 15px;
+}
+
+.trophy {
+	float: right;
+	margin-left: 8px;
+ margin-right: 20px;
+ margin-bottom: 20px;
+}
+
+.res2
+{
+margin-left: auto;
+margin-right: auto;
+margin-top: 30px;
+margin-bottom: 30px;
+font-size: 14px;
+border: 1px;
+}
+
+.res2 tr td
+{
+text-align: center;
+width: 15%;
+
+}
+
+.res2 tr th
+{
+text-align: center;
+font-size: 16px;
+font-weight: bold;
+width: 5%;
+}
+

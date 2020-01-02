@@ -1,0 +1,33 @@
+@charset "utf-8";
+.pic_right {
+ text-align: center;
+ float: right;
+ margin-right: 45px;
+ margin-bottom: 20px;
+}
+
+.res2
+{
+margin-left: auto;
+margin-right: auto;
+margin-top: 30px;
+margin-bottom: 30px;
+font-size: 14px;
+border: 1px;
+}
+
+.res2 tr td
+{
+text-align: center;
+width: 15%;
+
+}
+
+.res2 tr th
+{
+text-align: center;
+font-size: 16px;
+font-weight: bold;
+width: 5%;
+}
+

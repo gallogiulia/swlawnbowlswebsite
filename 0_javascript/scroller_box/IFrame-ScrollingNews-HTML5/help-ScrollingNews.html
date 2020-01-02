@@ -1,0 +1,266 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+
+<title>HTML5 News IFrame Help</title>
+
+<style type="text/css">
+
+body	{
+	background-color: #FFFFFF;
+	margin: 10px 0px 0px 0px;
+	padding: 0;
+	border: 0;
+	}
+
+.helptable		{ width: 750px; }
+
+.helptable-td 		{ padding: 10px; }
+
+.helptable-leftside	{ width: 160px; }
+
+table, tr, td	{ border-collapse: collapse; border-spacing: 0; margin: 0; padding: 0; border: 0; }
+
+.td-right 	{ text-align: right; }
+
+.td-left 	{ text-align: left; }
+
+.td-center	{ text-align: center; }
+
+.td-top		{ vertical-align: top; }
+
+.center-div	{ margin-left: auto; margin-right: auto; }
+
+img		{ border: 0; }
+
+div, table 	{ color: #000000; font: 12px arial, sans-serif; font-weight: normal; }
+
+.title 		{ color: #000000; font: 14px arial, sans-serif; font-weight: bold; }
+
+.hilite2	{ color: #9933CC; font-weight: bold; }
+
+a:link		{ color: #0066FF; text-decoration: none; }
+
+a:visited	{ color: #0066FF; text-decoration: none; }
+
+a:active	{ color: #0066FF; text-decoration: none; }
+
+a:hover		{ color: #FF9900; text-decoration: none; }
+
+.textareacode	{ font: 11px arial, sans-serif; font-weight: normal; width: 490px; }
+
+</style>
+
+</head>
+
+<body>
+
+
+<script type="text/javascript" src="http://allwebcodesign.com/setup/templatehelptop.js"></script>
+
+
+<!-- MAIN -->
+<table class="helptable center-div"><tr><td class="td-left td-top helptable-td helptable-leftside">
+
+
+<a href="http://allwebcodesign.com"><img src="http://allwebcodesign.com/picts/logo-help-white.gif" alt="Allwebco Design"></a><br><br>
+
+[ <a href="SAMPLE-floating.htm">Floating Sample</a> ]<br>
+
+[ <a href="SAMPLE-news.htm">More Samples</a> ]<br>
+
+
+<br>
+
+
+[ <a href="http://allwebcodesign.com">Allwebco Design</a> ]<br>
+
+
+[ <a href="http://allwebcodesign.com/setup/index.htm">Allwebco Templates</a> ]<br>
+
+
+[ <a href="http://allwebco.com">Allwebco Hosting</a> ]<br><br>
+
+
+<script type="text/javascript" src="http://allwebcodesign.com/setup/templatehelp.js"></script>
+
+<br>
+
+
+
+</td><td class="printhelp td-left td-top helptable-td">
+
+
+
+<span class="title">News IFrame Setup (HTML5 Websites):<br></span>
+This script is provided free to all our template users. We do not however provide support for adding this feature to your template. This script is intended to be added to any HTML 5 Allwebco template or HTML 5 website. <b>NOTE:</b> Always make backup files and test after each edit before you go to another edit. You can always delete your backups later.
+
+<br><br>
+
+<a href="http://www.allwebco-templates.com/support/S_script_IFrame-NewsScroll.htm">Click here for the scrolling news IFrame help page</a>
+
+<br><br><br>
+
+<span class="title">STEP #1:</span><br>
+Copy the "news_win.htm" from this zip file download into your main template folder. This is the folder that contains your index.html and about.htm. The "news_win.htm" is the page that is displayed in the IFrame window.
+
+<br><br><br>
+
+<span class="title">STEP #2 Option A add IFrame Code for HTML Pages:</span><br>
+Select and copy the following code. Paste this into THE "MAIN" or "CONTENT" table on any of your HTML template pages.
+
+<br><br>
+
+<span class="hilite2">Code for an HTML page | </span> <a href="SAMPLE-news.htm">View Examples</a><br>
+
+<form name="selecting1" style="margin: 0px;">
+<textarea name="copyselect1" rows="13" cols="55" class="textareacode">
+&lt;!-- COPY THIS CODE TO PASTE INTO ANY HTML PAGE --&gt;
+&lt;div style="width: 158px; border: #000000 1px solid; background-color: #006699; text-align: center; padding: 0px 2px 7px 2px;"&gt;
+&lt;div style="color: #FFFFFF; font: 13px arial, sans-serif; font-weight: bold; text-align: center; padding: 3px;"&gt;
+News Window&lt;br&gt;
+&lt;/div&gt;
+&lt;iframe id="NewsWindow" seamless src="news_win.htm" width="150" height="204" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" style="display: block; margin: 0 auto; padding: 0; border: #000000 1px solid;"&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;!-- END CODE --&gt;
+</textarea>
+</form>
+
+<br><br>
+
+You can optionally view the source and copy the code from the <a href="SAMPLE-news.htm">news frame samples page.</a><br>
+
+<br><br>
+
+<span class="title">STEP #2 Option B add IFrame Code for .js Files:</span><br>
+
+To optionally globally add this to your website you can paste the following code into your "sidebar.js" or "menu.js".
+
+<br><br>
+
+See also the <span class="hilite2">"SAMPLE-js-file.js"</span> in this download.
+
+<br><br>
+
+In a <span class="hilite2">sidebar.js</span> One option would be to add the code below just before the "SMALL PICTURE AREA" note. Make a copy of your sidebar.js for backup and try pasting in the code and test your pages in a web browser.
+
+<br><br>
+
+In a <span class="hilite2">menu.js</span> If you have a vertical menu style you can probably add this to your menu.js. Make a backup of your menu.js. Open the menu.js and try pasting the code below near the bottom of this file. Most likely you will add this just before some &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt; or &lt;/div&gt; code. This may not work in some template models see the step above for HTML page options instead.
+
+<br><br>
+
+<span class="hilite2">Code for a sidebar.js or menu.js | </span> <a href="SAMPLE-news.htm">View Examples</a><br>
+
+<form name="selecting1" style="margin: 0px;">
+<textarea name="copyselect1" rows="13" cols="55" class="textareacode">
+// SAMPLE SCROLLING NEWS FOR A .JS FILE - NON-FLOATING
+document.write('&lt;div style="width: 158px; border: #000000 1px solid; background-color: #006699; text-align: center; padding: 0px 2px 7px 2px;"&gt;');
+document.write('&lt;div style="color: #FFFFFF; font: 13px arial, sans-serif; font-weight: bold; text-align: center; padding: 3px;"&gt;');
+document.write('News Window&lt;br&gt;');
+document.write('&lt;/div&gt;');
+document.write('&lt;iframe id="NewsWindow" seamless src="news_win.htm" width="150" height="204" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" style="display: block; margin: 0 auto; padding: 0; border: #000000 1px solid;"&gt;&lt;/iframe&gt;');
+document.write('&lt;/div&gt;');
+// END NEWS SCROLLER
+</textarea>
+</form>
+
+<br><br>
+
+<span class="title">STEP #3:</span><br>
+Test your webpages in a web browser. The news scroller should now be working.
+
+<br><br><br>
+
+<span class="title">STEP #4:</span><br>
+Edit the "news_win.htm" with your text and images or with your choice of news feeds. To use another news feed service see options below.
+
+
+<br><br><br>
+
+
+
+<span class="title">OPTIONS:</span><br>
+
+
+<br>
+
+<b>MORE OPTIONS:</b> | <a href="http://www.allwebco-templates.com/support/S_script_IFrame-NewsScroll.htm">Click for details</a><br>
+
+See the <a href="http://www.allwebco-templates.com/support/S_script_IFrame-NewsScroll.htm">Simple News Scroller</a> and also the <a href="http://www.allwebco-templates.com/support/S_script_newsfeed.htm">RSS and Javascript Newsfeeds</a> for more options and news window details.
+
+<br><br>
+
+
+<b>USING A DIFFERENT NEWS SERVICE:</b> | <a href="http://www.allwebco-templates.com/support/S_script_newsfeed.htm">Click for more feeds and help</a><br>
+You can use any HTML or Javascript news feed in the "news_win.htm". Paste your news feed code between the "SCROLLER CONTENT STARTS HERE" notes in the "news_win.htm". Most news feed websites include instructions to use their code. Also, always check the news feed "Terms of Use" before you use their code.
+
+<br><br>
+
+<b>RSS FEEDS:</b><br>
+This download is setup for HTML or Javascript feeds. For RSS feeds you would need to convert the code. <a href="http://www.allwebco-templates.com/support/S_script_newsfeed.htm">Please see the RSS support page for more info on this.</a>
+
+<br><br>
+
+<b>COLORS:</b> | <a href="http://www.allwebco-templates.com/support/S_background_colors.htm">Click for color help</a><br>
+This IFrame is NOT linked to a CSS file. All color code will be inside either the "news_win.htm" or in the IFrame code you added in step #2. The colors include border, text, background and scrollbar colors.
+
+<br><br>
+
+<b>NEWS IFRAME WINDOW SIZE:</b><br>
+The news frame can be any size you require, however you need to edit 2 areas.
+
+<ol>
+
+<li> The code you added in step #2 is the IFrame window overall size code. Edit the width="150" and height="204".
+
+<li> Edit the "var frameheight" = "204" in the "news_win.htm" on about line #52 with the news window height.
+
+</ol>
+
+<br>
+
+<b>FLOATING DIV CODE:</b><br>
+
+See the <a href="SAMPLE-floating.htm">Floating Sample</a> and view the page source to copy the floating code.
+
+You can locate the floating window anywhere on your webpage. Edit the code you copied and pasted. Edit the "left: 100px; top: 100px" area. You can make these "left", "right", "top" or "bottom".
+
+<br><br><br><br>
+
+<span class="title">TROUBLESHOOTING:</span><br>
+If you do the steps above and the IFrame is not working:
+
+<ol>
+<li> Try doing the above steps again from the start.
+<li> You are testing the wrong HTML page that you added the News IFrame code to.
+<li> You are editing on-line files instead of files on your hard drive.
+<li> You have not used ALL the code from the sample pages in this download. Redo step #2.
+<li> You have an error in the sidebar.js or menu.js file. <a href="http://www.allwebco-templates.com/support/S_menu_disappears.htm">Click for help.</a>
+<li> If you have uploaded: Remember that hosting areas are case sensitive. Be sure all file, folder names and link names match exactly.
+<li> NOTE: Always make backup files and test after each edit before you go to another edit. You can always delete your backups later.
+</ol>
+
+
+
+
+<br><br><br>
+Best of luck with your news feed setup and your website!<br>
+-Allwebco Design-<br>
+
+<br><br><br><br>
+
+
+<b>COPYRIGHT &copy; Allwebco Design Corporation</b><br>
+Unauthorized use or sale of this script is strictly prohibited by law. You are authorized to use this on any Allwebco template, website or any template from another company and on as many websites as you would like. You are also authorized to modify all included files for this site use.
+
+<br>
+
+
+</td></tr></table>
+
+<!-- MAIN -->
+
+
+</body></html>

@@ -1,0 +1,28 @@
+<table class="main_menu">
+<tbody>
+
+<tr>
+<td><a href="index.php">                 Home                </a></td>
+<td><a href="schedule.php">              Schedule            </a></td>
+<td><a href="registration.php">          Registration        </a></td>
+<td><a href="entries_women.php">         Entries-Women       </a></td>
+<td><a href="entries_men.php">           Entries-Men         </a></td>
+<td><a href="conditions_of_play.php">    Conditions of Play  </a></td>
+<td><a href="merchandise.php">           Merchandise         </a></td>
+<td><a href="sponsors.php">              Sponsors            </a></td>
+</tr>
+
+<tr>
+<td><a href="sponsors">                  sponsors            </a></td>
+<td><a href="schedule.php">              Schedule            </a></td>
+<td><a href="registration.php">          Registration        </a></td>
+<td><a href="entries_women.php">         Entries-Women       </a></td>
+<td><a href="entries_men.php">           Entries-Men         </a></td>
+<td><a href="conditions_of_play.php">    Conditions of Play  </a></td>
+<td><a href="merchandise.php">           Merchandise         </a></td>
+<td><a href="sponsors.php">              Sponsors            </a></td>
+</tr>
+
+</tbody>
+</table>
+<br>

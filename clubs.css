@@ -1,0 +1,206 @@
+@charset "utf-8";
+
+.highlight
+{
+    font-size: 16px;
+    font-weight: normal;
+    background-color: #FF9;
+    font-style: italic;
+}
+
+#clubs 
+{
+    z-index: 100;
+    visibility: visible;
+    width: 800px;
+    font-size: 14px;
+    background-color: #FFF;
+    line-height: 1.2em;
+    clear: both;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+}
+
+#clubs table tr
+{
+    vertical-align: middle;
+    text-align: center;
+    margin-bottom: 3px;
+    margin-top: 3px;
+}
+
+#clubs tr td
+{
+    text-align: left;
+    vertical-align: middle;
+    height: 1px;
+    width: 2px;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    line-height: 1.1em;
+    padding-top: 1px;
+    padding-bottom: 2px;
+}
+
+#clubs tr td.no_sort
+{
+    text-align: center;
+    vertical-align: middle;
+    height: 10px;
+    font-weight: bold;
+    margin-right: 1px;
+    margin-left: 1px;
+    padding-right: 0px;
+    padding-left: 0px;
+    width: 2px;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    color: #000;
+    line-height: 1.2em;
+}
+
+#clubs tr th
+{
+    text-align: center;
+    vertical-align: middle;
+    height: 10px;
+    font-weight: bold;
+    margin-right: 1px;
+    margin-left: 1px;
+    padding-right: 0px;
+    padding-left: 0px;
+    width: 2px;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    color: #00F;
+    line-height: 1.2em;
+}
+
+#clubs tr td.club_district
+{
+    width: 10%;
+    padding-left: 5px;
+}
+
+#clubs tr th.club_name
+{
+    width: 10%;
+}
+
+#clubs tr td.club_name
+{
+    width: 10%;
+}
+
+#clubs tr td.club_address
+{
+    width: 25%;
+    padding-left: 5px;
+}
+
+#clubs tr th.club_city
+{
+    width: 15%;
+}
+
+#clubs tr th.club_zip
+{
+}
+
+#clubs tr td.club_zip
+{
+    width: 7%;
+}
+
+#clubs tr td.club_phone
+{
+    width: 15%;
+    text-align: center;
+    font-size: 12px;
+}
+
+#clubs tr td.club_e_mail
+{
+    width: 10%;
+    text-align: center;
+    font-size: 12px;
+}
+
+#intro 
+{
+    clear: both;
+    width: 860px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: -10px;
+}
+
+#intro tr td 
+{
+    width: 430px;
+    vertical-align: top;
+}
+
+.club_abbr     
+{
+    font-size: 10px;
+    font-style: italic;
+    font-weight: bold;
+    color: #03F;
+    text-align: right;
+}
+
+tr th button{
+    font-size: 12px;
+    font-weight: bold;
+    color: #093;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    background-color: #FFF;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    line-height: 1.1em;
+}
+
+.fltrt_facebook
+{
+    vertical-align: middle;
+    float: right;
+    margin-right: 5px;
+}
+
+.facebook    
+{
+    float: left;
+    margin: 0px;
+    padding: 0px;
+    height: 12px;
+}
+

@@ -1,0 +1,18 @@
+@charset "utf-8";
+#pix {
+ clear: both;
+ width: 808px;
+ margin-top: 20px;
+ margin-right: auto;
+ margin-bottom: 20px;
+ margin-left: auto;
+}
+
+#pix tbody tr td {
+ font-size: 14px;
+ font-style: italic;
+ text-align: center;
+ padding-right: 2px;
+ padding-left: 2px;
+ vertical-align: top;
+}

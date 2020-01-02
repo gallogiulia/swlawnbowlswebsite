@@ -1,0 +1,1 @@
+[14-Jun-2014 12:26:22] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '../_points_event_men.txt' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home3/swlawnb1/public_html/tournaments/swlba_5_man/swlba_5_man.php on line 27

@@ -1,0 +1,56 @@
+@charset "utf-8";
+.winner_pic
+{
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+    clear: both;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 20px;
+    width: 640px;
+}
+
+.pic_half_right
+{
+    width: 312px;
+    margin-left: 7px;
+    float: right;
+    margin-right: 0px;
+}
+
+.pic_half_left
+{
+    width: 312px;
+    margin-right: 7px;
+    margin-left: 0px;
+    padding-left: 0px;
+    float: left;
+    margin-bottom: 20px;
+}
+
+.res2
+{
+margin-left: auto;
+margin-right: auto;
+margin-top: 30px;
+margin-bottom: 30px;
+font-size: 14px;
+border: 1px;
+}
+
+.res2 tr td
+{
+text-align: center;
+width: 23%;
+
+}
+
+.res2 tr th
+{
+text-align: center;
+font-size: 16px;
+font-weight: bold;
+width: 5%;
+}
+

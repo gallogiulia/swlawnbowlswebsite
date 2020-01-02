@@ -1,0 +1,42 @@
+.payment
+{
+    width: 40%;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    clear: both;
+    margin-right: auto;
+    margin-left: auto;
+    color: #006600;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-align: center;
+}
+.payment form table tr td
+{
+    text-align: left;
+}
+
+.res2
+{
+margin-left: auto;
+margin-right: auto;
+margin-top: 30px;
+margin-bottom: 30px;
+font-size: 14px;
+border: 1px;
+}
+
+.res2 tr td
+{
+text-align: center;
+width: 15%;
+}
+
+.res2 tr th
+{
+text-align: center;
+font-size: 16px;
+font-weight: bold;
+width: 5%;
+}
+

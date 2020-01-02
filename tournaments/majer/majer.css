@@ -1,0 +1,46 @@
+@charset "utf-8";
+
+.payment
+{
+    width: 80%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    clear: both;
+    margin-right: auto;
+    margin-left: auto;
+    color: #006600;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-align: center;
+}
+
+.payment form table
+{
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #DFFFDF;
+    margin-bottom: 10px;
+}
+.payment form table tr td
+{
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-bottom: 5px;
+}
+
+.payment h4
+{
+    text-align: left;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.payment h2
+{
+    text-align: left;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+}

@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.spacer
+{
+    clear: both;
+    height: 15px;
+}
+
+.photo_2016
+{
+    float: right;
+    width: 350px;
+    margin-right: 40px;
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+}
+
+.more_info
+{
+    float: right;
+    margin-right: 80px;
+}

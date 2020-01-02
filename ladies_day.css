@@ -1,0 +1,202 @@
+/* ~~ miscellaneous float/clear classes ~~ */
+.fltrt {  /* this class can be used to float an element right in your page. The floated element must precede the element it should be next to on the page. */
+    float: right;
+    margin-left: 8px;
+    margin-right: 25px;
+}
+.fltrt_logo {  /* this class can be used to float an element right in your page. The floated element must precede the element it should be next to on the page. */
+    float: right;
+    margin-left: 8px;
+}
+table.table_ladies_day
+{
+ margin-right: 200px;
+ width: 720px;
+ margin-top: 15px;
+ margin-left: 40px;
+ margin-bottom: 30px;
+}
+
+
+
+
+.table_ladies_day tr td
+{
+    padding-left: 5px;
+    text-align: left;
+    vertical-align: top;
+    line-height: 1.2em;
+}
+
+
+.table_ladies_day tr th
+{
+    width: 15%;
+    text-align: right;
+    vertical-align: top;
+    line-height: 1.2em;
+}
+
+.caption
+{
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 14px;
+    font-style: italic;
+    text-align: center;
+    font-weight: normal;
+    margin-top: -4px;
+}
+
+hr
+{
+    margin-right: 70px;
+    margin-left: 70px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    height: 8px;
+    border-top-width: 3px;
+    border-top-style: solid;
+    border-bottom-style: none;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-right-style: none;
+    border-left-style: none;
+}
+
+.floatLeft_coord
+{
+ margin-right: 20px;
+ float: left;
+ margin-top: 10px;
+ margin-bottom: 20px;
+ margin-left: 50px;
+}
+img.group
+{
+    margin-top: 15px;
+}
+
+.get_flyer
+{
+    font-size: 14px;
+    font-style: italic;
+    text-align: center;
+    float: right;
+    width: 150px;
+    margin-right: 70px;
+    line-height: 1.2em;
+    font-weight: bold;
+}
+.get_flyer img
+{
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+}
+
+.content
+h2{
+    clear: left;
+}
+.results_2
+{
+    width: 450px;
+    margin-left: 70px;
+    margin-bottom: 20px;
+}
+.results_2
+tr th.results_tie
+{
+    font-style: italic;
+    color: #666;
+    text-align: center;
+}
+
+
+.results_2 tr th
+{
+    font-weight: bold;
+    text-align: left;
+    width: 18%;
+}
+
+.results_2 tr td
+{
+    width: 27%;
+}
+
+.results_3
+{
+    width: 620px;
+    margin-left: 70px;
+    margin-bottom: 20px;
+}
+
+.results_3 tr th
+{
+    font-weight: bold;
+    text-align: left;
+    width: 20%;
+}
+
+.results_3 tr th.results_tie
+{
+ font-style: italic;
+ color: #666;
+ text-align: right;
+ padding-right: 5px;
+}
+
+
+.results_3 tr td
+{
+    width: 27%;
+}
+
+
+.results_4
+{
+    width: 720px;
+    margin-left: 70px;
+    margin-bottom: 20px;
+}
+
+.results_4 tr th
+{
+    font-weight: bold;
+    text-align: left;
+    width: 16%;
+}
+
+.results_4 tr th.results_tie
+{
+ font-style: italic;
+ color: #666;
+ text-align: right;
+ padding-right: 5px;
+}
+
+
+.results_4 tr td
+{
+    width: 21%;
+}
+
+
+
+
+.coordinator {
+    float: right;
+    font-size:12px;
+    font-style:italic;
+}
+
+p
+    {margin-bottom: 10px;
+}

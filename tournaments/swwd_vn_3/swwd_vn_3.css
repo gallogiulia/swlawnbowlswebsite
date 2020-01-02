@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.results_pairs_two_classes
+{
+    margin-left: 100px;
+}
+.photo_2014
+{
+    float: right;
+    width: 310px;
+    margin-right: 50px;
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.photo_2013
+{
+    float: right;
+    width: 350px;
+    margin-right: 50px;
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+}
+
+.photo_2016
+{
+    float: right;
+    width: 350px;
+    margin-right: 50px;
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.res2
+{
+margin-left: auto;
+margin-right: auto;
+margin-top: 30px;
+margin-bottom: 30px;
+font-size: 14px;
+border: 1px;
+}
+
+.res2 tr td
+{
+text-align: center;
+width: 30%;
+}
+
+.res2 tr th
+{
+text-align: center;
+font-size: 16px;
+font-weight: bold;
+width: 5%;
+}
+

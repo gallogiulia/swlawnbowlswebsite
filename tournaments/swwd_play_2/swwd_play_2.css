@@ -1,0 +1,56 @@
+.image_box
+{
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+    width: 266px;
+    margin-right: 80px;
+    float: right;
+}
+
+#winners
+{
+    clear: both;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+}
+
+#winners tr th
+{
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+    padding-bottom: 6px;
+}
+#winners tr th.st_title
+{
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+    padding-bottom: 6px;
+    font-size: 24px;
+}
+
+
+#winners tr td
+{
+    text-align: center;
+    vertical-align: middle;
+    padding-bottom: 6px;
+}
+
+#winners tr td.st_r
+{
+    text-align: right;
+    vertical-align: middle;
+    padding-left: 5px;
+}
+
+#winners tr td.st_l
+{
+    text-align: left;
+    vertical-align: middle;
+    padding-left: 2px;
+}

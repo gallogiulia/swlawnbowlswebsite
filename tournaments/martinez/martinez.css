@@ -1,0 +1,93 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.photo_2012
+{
+    float: right;
+    width: 300px;
+    margin-right: 40px;
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+}
+.photo_2014
+{
+    float: right;
+    width: 350px;
+    margin-right: 40px;
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+}
+.spacer
+{
+    clear: both;
+    height: 15px;
+}
+
+.photo_2015
+{
+    float: right;
+    width: 350px;
+    margin-right: 40px;
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+}
+
+
+
+.more_info
+{
+    float: right;
+    margin-right: 80px;
+}
+
+#photo_2016
+{
+    float: right;
+    width: 860px;
+    margin-right: 40px;
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+}
+
+#photo_2017
+{
+    float: right;
+    width: 860px;
+    margin-right: 40px;
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+}
+
+.res2
+{
+margin-left: auto;
+margin-right: auto;
+margin-top: 30px;
+margin-bottom: 30px;
+font-size: 12px;
+border: 1px;
+}
+
+.res2 tr td
+{
+text-align: center;
+width: 15%;
+
+}
+
+.res2 tr th
+{
+text-align: center;
+font-size: 16px;
+font-weight: bold;
+width: 5%;
+}
+
+
+

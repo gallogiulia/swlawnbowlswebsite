@@ -1,0 +1,176 @@
+/* Global Defaults */
+ html, body {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    background-image: url(images/bg_05.png);
+    background-repeat: repeat;
+ }
+ body {
+ font: 1em/1.25 Helvetica, sans-serif;
+ }
+ 
+ /* Headlines */
+ h1, h2, h3, h4, h5, h6 {
+	margin: 0;
+	padding: 0;
+	font-weight: normal;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+ }
+ 
+ /* Text Styles */
+ p, th, td, li, dd, dt, ul, ol, blockquote, q, acronym, abbr, a, input, select, textarea {
+ margin: 0;
+ padding: 0;
+ font: normal normal normal 1em/1.25 Helvetica, sans-serif;
+ }
+ blockquote {
+ margin: 1.25em;
+ padding: 1.25em
+ }
+ q {
+ font-style: italic;
+ }
+ acronym, abbr {
+ cursor: help;
+ border-bottom: 1px dashed;
+ }
+ small {
+ font-size:.85em;
+ }
+ big {
+ font-size:1.2em;
+ }
+ 
+ /* Links and Images */
+ a, a:link, a:visited, a:active, a:hover {
+ text-decoration: underline;
+ }
+ 
+ img {
+ border: none;
+ }
+ 
+ /* Tables */
+ table {
+ margin-top: 10px;
+ margin-right: 10px;
+ margin-left: 10px;
+ margin-bottom: 10px;
+ padding: 0;
+ border: none;
+ }
+ 
+ /* Forms */
+ form {
+ margin: 0;
+ padding: 0;
+ display: inline;
+ }
+ label {
+ cursor: pointer;
+ }
+ 
+ /* Common Classes */
+ .clear { clear: both; }
+ .floatLeft { float: left; }
+ .floatRight { float: right; }
+ .textLeft { text-align: left; }
+ .textRight { text-align: right; }
+ .textCenter { text-align: center; }
+ .textJustify { text-align: justify; }
+ .blockCenter { display: block; margin-left: auto; margin-right: auto; } /* remember to set width */
+ .bold { font-weight: bold; }
+ .italic { font-style: italic; }
+ .underline { text-decoration: underline; }
+ .noindent { margin-left: 0; padding-left: 0; }
+ .nomargin { margin: 0; }
+ .nopadding { padding: 0; }
+ .nobullet { list-style: none; list-style-image: none; }
+.font_10
+{
+    font-size: 10px;
+    line-height: 1.2em;
+}
+
+.font_12
+{
+    font-size: 12px;
+    line-height: 1.2em;
+}
+
+
+.font_14
+{
+    font-size: 14px;
+    line-height: 1.2em;
+}
+
+.font_16
+{
+    font-size: 16px;
+    line-height: 1.2em;
+}
+
+.font_18
+{
+    font-size: 18px;
+    line-height: 1.2em;
+}
+.font_20
+{
+    font-size: 20px;
+    line-height: 1.2em;
+}
+
+.font_24
+{
+    font-size: 24px;
+    line-height: 1.2em;
+}
+
+
+.font_regular
+{
+    font-weight: normal;
+}
+
+.font_gray_333
+{
+    color: #333;
+}
+
+.font_black
+{
+    color: #000;
+}
+
+.align_center
+{
+    text-align: center;
+}
+
+.line_height_1_0em
+{
+    line-height: 1em;
+}
+
+.line_height_1_1em
+{
+    line-height: 1.1em;
+}
+
+.line_height_1_4em
+{
+    line-height: 1.4em;
+}
+
+.line_height_1_6em
+{
+    line-height: 1.6em;
+}
+
+td .center_cell
+{
+ text-align: center;
+}

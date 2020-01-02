@@ -1,0 +1,16 @@
+@charset "utf-8";
+#events
+{
+    clear: both;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 15px;
+}
+
+#events tr td
+{
+    font-size: 14px;
+    text-align: center;
+    width: 15%;
+}

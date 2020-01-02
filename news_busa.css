@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+.explain {
+ font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+ font-size: 12px;
+ background-color: #DCDCDC;
+ clear: both;
+ width: 80%;
+ margin-right: auto;
+ margin-left: auto;
+ margin-bottom: 15px;
+ padding-top: 10px;
+ padding-bottom: 10px;
+}
+
+.explain p {
+ font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+ font-size: 16px;
+}
+
+.describe {
+ border-right-width: 70px;
+ border-left-width: 50px;
+ margin-bottom: 200px;
+}

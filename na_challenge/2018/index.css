@@ -1,0 +1,94 @@
+@charset "utf-8";
+
+.header
+{
+    background-image: url(0_banner_index.png);
+    height: 140px;
+    text-align: center;
+    vertical-align: middle;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 24px;
+    color: #FFF;
+    padding-top: 10px;
+    background-repeat: no-repeat;
+    font-weight: bold;
+    font-style: italic;
+    line-height: 1.1em;
+}
+
+.news
+{
+    float: right;
+    width: 300px;
+    margin-right: 30px;
+    background-color: #FFFFF4;
+    border-left-width: 1px;
+    border-left-style: solid;
+    border-left-color: #CCC;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    border-bottom-width: 1px;
+    border-bottom-color: #CCC;
+    border-bottom-style: solid;
+    margin-top: 20px;
+}
+.news p 
+{
+    list-style-type: none;
+    padding-left: 10px;
+    line-height: 1.1em;
+    margin-bottom: 10px;
+    font-style: italic;
+    color: #03F;
+    clear: none;
+    margin-left: 65px;
+    font-size: 14px;
+    margin-right: 10px;
+}
+.news p .news_date
+{
+    font-size: 14px;
+    font-style: italic;
+    font-weight: bold;
+    color: #03F;
+    clear: none;
+    margin-left: -60px;
+}
+
+.news h5 
+{
+    font-size: 24px;
+    color: #DAC501;
+    font-style: italic;
+    padding-top: 8px;
+    padding-bottom: 3px;
+    margin-top: 0px;
+    text-align: center;
+    margin-bottom: 8px;
+}
+
+h1
+{
+    clear: none;
+}
+#2013_winners
+{
+    clear: both;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 10px;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 1.2em;
+    text-align: center;
+    vertical-align: top;
+}
+#2013_winners tr td
+{
+    font-size: 14px;
+    font-style: italic;
+    text-align: center;
+    line-height: 1.2em;
+    vertical-align: top;
+}

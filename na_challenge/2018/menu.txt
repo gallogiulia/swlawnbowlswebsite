@@ -1,0 +1,18 @@
+<table id="menu">
+<tr>
+
+
+<td><a href="players.php">Players</a></td>
+
+
+<td><a href="day_1.php">Day 1<br>Thu October 11</a></td>
+<td><a href="day_2.php">Day 2<br>Fri October 12</a></td>
+<td><a href="day_3.php">Day 3<br>Sat October 13</a></td>
+
+
+<td><a href="2018_NAC_master_results.pdf">Master<br>Results</a></td>
+
+
+</tr>
+</table>
+

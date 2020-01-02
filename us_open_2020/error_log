@@ -1,0 +1,64 @@
+[02-Oct-2019 14:09:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function nclude() in /home2/swlawnb1/public_html/us_open_2020/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/swlawnb1/public_html/us_open_2020/index.php on line 6
+[02-Oct-2019 14:10:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function nclude() in /home2/swlawnb1/public_html/us_open_2020/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/swlawnb1/public_html/us_open_2020/index.php on line 6
+[02-Oct-2019 14:10:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function nclude() in /home2/swlawnb1/public_html/us_open_2020/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/swlawnb1/public_html/us_open_2020/index.php on line 6
+[02-Oct-2019 14:12:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function nclude() in /home2/swlawnb1/public_html/us_open_2020/schedule.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/swlawnb1/public_html/us_open_2020/schedule.php on line 5
+[02-Oct-2019 14:18:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function nclude() in /home2/swlawnb1/public_html/us_open_2020/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/swlawnb1/public_html/us_open_2020/index.php on line 6
+[02-Oct-2019 14:19:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function nclude() in /home2/swlawnb1/public_html/us_open_2020/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/swlawnb1/public_html/us_open_2020/index.php on line 6
+[02-Oct-2019 14:19:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function nclude() in /home2/swlawnb1/public_html/us_open_2020/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/swlawnb1/public_html/us_open_2020/index.php on line 6
+[02-Oct-2019 14:22:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function nclude() in /home2/swlawnb1/public_html/us_open_2020/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/swlawnb1/public_html/us_open_2020/index.php on line 6
+[02-Oct-2019 14:22:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function nclude() in /home2/swlawnb1/public_html/us_open_2020/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/swlawnb1/public_html/us_open_2020/index.php on line 6
+[02-Oct-2019 14:23:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function nclude() in /home2/swlawnb1/public_html/us_open_2020/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/swlawnb1/public_html/us_open_2020/index.php on line 6
+[02-Oct-2019 14:23:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function nclude() in /home2/swlawnb1/public_html/us_open_2020/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/swlawnb1/public_html/us_open_2020/index.php on line 6
+[02-Oct-2019 14:24:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function nclude() in /home2/swlawnb1/public_html/us_open_2020/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/swlawnb1/public_html/us_open_2020/index.php on line 6
+[02-Oct-2019 14:24:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function nclude() in /home2/swlawnb1/public_html/us_open_2020/schedule.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/swlawnb1/public_html/us_open_2020/schedule.php on line 5
+[02-Oct-2019 14:25:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function nclude() in /home2/swlawnb1/public_html/us_open_2020/schedule.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/swlawnb1/public_html/us_open_2020/schedule.php on line 5
+[02-Oct-2019 14:25:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function nclude() in /home2/swlawnb1/public_html/us_open_2020/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/swlawnb1/public_html/us_open_2020/index.php on line 6
+[02-Oct-2019 14:27:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function nclude() in /home2/swlawnb1/public_html/us_open_2020/conditions_of_play.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/swlawnb1/public_html/us_open_2020/conditions_of_play.php on line 5

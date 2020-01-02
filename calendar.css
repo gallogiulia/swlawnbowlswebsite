@@ -1,0 +1,608 @@
+p
+{
+    line-height: 1.3em;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+#tourn
+
+{
+ float: right;
+ width: 800px;
+ margin-right: 20px;
+ padding-right: 0px;
+ padding-left: 0px;
+ margin-bottom: 30px;
+ margin-top: 10px;
+ font-size: 12px;
+}
+
+#tourn tr
+{
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    height: 10px;
+    vertical-align: middle;
+}
+
+#tourn tr.month
+{
+ text-align: left;
+ font-weight: bold;
+ background-color: #CFC;
+ left: -10px;
+ bottom: 0px;
+}
+
+#tourn tr td
+{
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    height: 10px;
+    vertical-align: top;
+    line-height: 1.3em;
+    font-size: 16px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+#tourn tr td.begin_end
+{
+ text-align: left;
+ font-size: 12px;
+ font-family: "Courier New", Courier, monospace;
+ font-weight: bold;
+ height: 18px;
+ vertical-align: top;
+ padding-top: 2px;
+ padding-left: 4px;
+ padding-right: 5px;
+ line-height: 1.3em;
+ width: 15%;
+}
+
+#tourn tr td.active
+{
+    text-align: left;
+    font-size: 12px;
+    font-family: "Courier New", Courier, monospace;
+    font-weight: bold;
+    vertical-align: top;
+    padding-left: 6px;
+    padding-right: 6px;
+    line-height: 1.2em;
+    background-color: #FF0;
+}
+
+#tourn td.points_cell
+{
+ width: 20px;
+}
+
+#tourn .points_button 
+{
+ margin-right: 2px;
+ clear: both;
+ padding-top: 4px;
+ float: left;
+ padding-left: 2px;
+}
+
+#tourn .tourn_name_club
+{
+    text-align: left;
+    padding-right: 5px;
+
+}
+
+#tourn .tourn_name_club a:link
+{
+    color: #000;
+    text-align: left;
+    background-color: #FFF;
+}
+#tourn .tourn_name_club a:visited
+{
+    color: #000;
+    text-decoration: none;
+    background-color: #FFF;
+}
+
+#tourn .tourn_name_club a:active
+{
+    color: #000;
+    text-decoration: none;
+    background-color: #FFF;
+}
+
+#tourn .tourn_name_club a:hover
+{
+ color: #FFF;
+ background-color: #090;
+ text-decoration: none;
+}
+
+
+
+#tourn .tourn_name_swwd
+{
+    color: #F00;
+    text-align: left;
+    padding-right: 5px;
+}
+#tourn .tourn_name_swwd a:link
+{
+    color: #F00;
+    text-align: left;
+    background-color: #FFF;
+}
+#tourn .tourn_name_swwd a:visited
+{
+    color: #F00;
+    text-decoration: none;
+    background-color: #FFF;
+}
+
+#tourn .tourn_name_swwd a:active
+{
+    color: #F00;
+    text-decoration: none;
+    background-color: #FFF;
+}
+
+#tourn .tourn_name_swwd a:hover
+{
+    color: #FFF;
+    background-color: #090;
+    text-decoration: none;
+}
+
+
+
+
+
+#tourn .tourn_name_swlba
+{
+    color: #33F;
+    text-align: left;
+    padding-right: 5px;
+    padding-left: 0px;
+}
+#tourn .tourn_name_swlba a:link
+{
+    color: #00F;
+    text-align: left;
+    background-color: #FFF;
+}
+
+#tourn .tourn_name_swlba a:visited
+{
+    color: #00F;
+    text-align: left;
+    background-color: #FFF;
+}
+
+#tourn .tourn_name_swlba a:active
+{
+    color: #00F;
+    text-align: left;
+    background-color: #FFF;
+}
+
+
+
+
+#tourn .tourn_name_swlba a:hover  
+{
+    color: #FFF;
+    background-color: #090;
+    text-decoration: none;
+}
+
+
+
+#tourn .tourn_name_other
+{
+ font-size: 14px;
+ font-style: italic;
+ color: #906;
+ text-align: left;
+ vertical-align: top;
+ padding-left: 10px;
+}
+
+#tourn .tourn_name_other a:link
+{
+    color: #906;
+    background-color: #FFF;
+    font-style: italic;
+}
+
+#tourn .tourn_name_other a:visited
+{
+    color: #906;
+    text-align: left;
+    background-color: #FFF;
+    font-style: italic;
+}
+
+#tourn .tourn_name_other a:active
+{
+    color: #906;
+    text-align: left;
+    background-color: #FFF;
+    font-style: italic;
+}
+
+#tourn .tourn_name_other a:hover
+{
+    color: #FFF;
+    background-color: #090;
+    text-decoration: none;
+    font-style: italic;
+}
+
+#tourn
+.tourn_name_clinic {
+    font-style: italic;
+    background-color: #FFC;
+    text-align: center;
+    color: #666;
+}
+#tourn .tourn_name_clinic a:link
+{
+    color: #666;
+    text-align: center;
+    background-color: #FFF;
+    font-style: italic;
+}
+#tourn .tourn_name_clinic a:visited
+{
+    color: #666;
+    text-align: center;
+    background-color: #FFF;
+    font-style: italic;
+}
+#tourn .tourn_name_clinic a:active
+{
+    color: #666;
+    text-align: center;
+    background-color: #FFF;
+    font-style: italic;
+}
+#tourn .tourn_name_clinic a:hover
+{
+    color: #FFF;
+    background-color: #090;
+    text-decoration: none;
+    font-style: italic;
+    text-align: center;
+}
+
+
+#tourn td.tourn_flyer
+{
+    padding-left: 5px;
+    text-align: center;
+    font-size: 12px;
+}
+#tourn th.tourn_flyer
+{
+    padding-left: 5px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: normal;
+}
+
+#tourn .tourn_players_results
+{
+    padding-left: 5px;
+    color: #C2C2C2;
+    text-align: right;
+    padding-right: 10px;
+}
+#tourn .tourn_players_details
+{
+    padding-left: 10px;
+    color: #C2C2C2;
+    text-align: left;
+    padding-right: 5px;
+    background-color: #FF6;
+}
+
+#tourn .tourn_players_results_new
+{
+    padding-left: 5px;
+    text-align: left;
+}
+
+
+
+#tourn .tourn_location
+{
+    padding-left: 5px;
+}
+
+#tourn tr td.tourn_location_other
+{
+    padding-left: 5px;
+    font-size: 12px;
+    text-align: center;
+    vertical-align: middle;
+    font-style: italic;
+    color: #906;
+}
+
+#tourn .month td 
+{
+ padding-left: 8px;
+ font-size: 16px;
+ vertical-align: top;
+}
+
+#tourn .back_to_top   
+{
+    background-color: #FFEDB5;
+    float: right;
+    width: 80px;
+    color: #903;
+    font-size: 12px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#tourn .month td table.calendar_months
+{
+    float: right;
+    width: 580px;
+    font-weight: normal;
+    vertical-align: top;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#tourn tr.col_head_row
+{
+    font-size: 10px;
+    text-align: left;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    vertical-align: top;
+    font-weight: normal;
+    height: 10px;
+}
+
+#tourn tr.col_head_row th.col_head_cell_left
+{
+    text-align: left;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    font-weight: normal;
+}
+
+#tourn tr.col_head_row th.col_head_cell_center
+{
+    text-align: center;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    font-weight: normal;
+}
+
+#tourn .month td .calendar_months tr td 
+{
+    font-size: 12px;
+}
+
+.tourn_men 
+{
+    background-color: #F0F8FF;
+}
+
+#tourn
+tr td.meeting_women
+{
+    font-size: 12px;
+    color: #F00;
+    padding-left: 40px;
+    font-style: italic;
+    padding-top: 3px;
+}
+
+#tourn tr td.meeting_men
+{
+    font-size: 12px;
+    color: #00F;
+    padding-left: 40px;
+    font-style: italic;
+    padding-top: 3px;
+}
+
+.tourn_other 
+{
+    font-size: 14px;
+    margin-top: 1px;
+    margin-bottom: 5px;
+    font-style: italic;
+    color: #906;
+    font-variant: normal;
+}
+
+.tourn_women 
+{
+    background-color: #FEE;
+    margin-top: 1px;
+    margin-bottom: 5px;
+}
+
+.tourn_holiday
+{
+ font-size: 12px;
+ font-style: italic;
+ color: #C6C;
+ font-weight: bold;
+ margin-left: 30px;
+ background-color: #F5FCA6;
+}
+
+.tourn_cxl
+{
+    background-color: #EEE;
+    margin-top: 1px;
+    margin-bottom: 5px;
+    color: #999;
+}
+
+.cancel
+{
+ font-size: 14px;
+ font-style: italic;
+ color: #F00;
+ float: right;
+ padding-right: 15px;
+ text-decoration: none;
+ background-color: #FBFBFB;
+ text-shadow: 0px 0px #F6FC24;
+ font-weight: bold;
+}
+
+.cancel_td
+{
+ color: gray;
+ text-decoration-color: dimgray;
+ text-decoration: line-through;
+ font-size: 12px;
+}
+
+.rescheduled
+{
+    font-size: 12px;
+    font-style: italic;
+    font-weight: bold;
+    text-align: right;
+    padding-right: 5px;
+    color: #C0C;
+}
+
+.standings_box
+{
+    font-family: "Times New Roman", Times, serif;
+    width: 220px;
+    margin-right: 25px;
+    margin-left: 20px;
+    line-height: 1.2em;
+    border: 1px solid #666;
+    padding: 8px;
+    margin-bottom: 20px;
+    float: right;
+    background-color: #E4E4E4;
+}
+
+.standings_box p
+{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 20px;
+    padding-left: 0px;
+    padding-top: 0px;
+    font-family: "Times New Roman", Times, serif;
+    line-height: 1.1em;
+    margin-right: 0px;
+    padding-right: 0px;
+    list-style-type: none;
+}
+
+.standings_box p.box_top
+{
+    margin-top: 0px;
+    margin-bottom: 4px;
+    margin-left: 5px;
+    padding-left: 0px;
+    padding-top: 0px;
+    font-family: "Times New Roman", Times, serif;
+    line-height: 1.1em;
+    margin-right: 5px;
+    padding-right: 0px;
+    list-style-type: none;
+}
+
+.rules
+{
+    float: right;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+
+.rules_txt
+{
+    float: right;
+    margin-right: 5px;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 12px;
+    vertical-align: middle;
+}
+
+#tourn tr td.results
+{
+    background-color: #FF9;
+    text-align: center;
+}
+/* ~~ Styling for your site's links must remain in this order - including the group of selectors that create the hover effect. ~~ */
+
+#tourn tr td.results a:link{
+    color: #C36; /* unless you style your links to look extremely unique, it's best to provide underlines for quick visual identification */
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 14px;
+    text-decoration: none;
+    vertical-align: top;
+}
+#tourn tr td.resultsa:visited {
+    color: #C0F;
+    text-decoration: underline;
+}
+
+#tourn tr td.results a:hover, a:active , a:focus{ /* this group of selectors will give a keyboard navigator the same hover experience as the person using a mouse. */
+    text-decoration: none;
+    color: #FFF;
+    background-color: #090;
+}
+
+#tourn tr td.rain_date
+{
+    font-size: 12px;
+    font-style: italic;
+    padding-left: 30px;
+    padding-top: 3px;
+}
+
+.fltrt_charts
+{
+    font-size: 12px;
+    float: right;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.fltrt_jump {
+	float: right;
+	margin-left: 8px;
+}
+
+.hilite_box {
+ font-size: 16px;
+ line-height: 1.2em;
+ font-weight: bold;
+ background-color: #F4F7B3;
+ width: 80%;
+ margin-top: 10px;
+ margin-right: auto;
+ margin-bottom: 10px;
+ margin-left: auto;
+ text-align: center;
+ padding-top: 5px;
+ padding-bottom: 5px;
+}

@@ -1,0 +1,676 @@
+/* Global Defaults */
+ html, body {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+ }
+
+body {
+ font: 1em/1.25 Arial, Helvetica, sans-serif;
+ }
+ 
+ /* Headlines */
+ h1, h2, h3, h4, h5, h6 {
+ margin: 0;
+ padding: 0;
+ font-weight: normal;
+ font-family: Arial, Helvetica, sans-serif;
+ }
+ 
+ /* Text Styles */
+ p, th, td, li, dd, dt, ul, ol, blockquote, q, acronym, abbr, a, input, select, textarea {
+ margin: 0;
+ padding: 0;
+ font: normal normal normal 1em/1.25 Arial, Helvetica, sans-serif;
+ }
+
+blockquote {
+ margin: 1.25em;
+ padding: 1.25em
+ }
+
+q {
+ font-style: italic;
+ }
+
+acronym, abbr {
+ cursor: help;
+ border-bottom: 1px dashed;
+ }
+
+small {
+ font-size:.85em;
+ }
+
+big {
+ font-size:1.2em;
+ }
+ 
+ /* Links and Images */
+ a, a:link, a:visited, a:active, a:hover {
+ text-decoration: underline;
+ }
+ 
+ img {
+ border: none;
+ }
+ 
+ /* Tables */
+ table {
+ margin-top: 10px;
+ margin-right: 10px;
+ margin-left: 10px;
+ margin-bottom: 10px;
+ padding: 0;
+ border: none;
+ }
+ 
+ /* Forms */
+ form {
+ margin: 0;
+ padding: 0;
+ display: inline;
+ }
+
+label {
+ cursor: pointer;
+ }
+ 
+ /* Common Classes */
+ .clear { clear: both; }
+ .floatLeft { float: left; }
+ .floatRight { float: right; }
+ .textLeft { text-align: left; }
+ .textRight { text-align: right; }
+ .textCenter { text-align: center; }
+ .textJustify { text-align: justify; }
+ .blockCenter { display: block; margin-left: auto; margin-right: auto; } /* remember to set width */
+ .bold { font-weight: bold; }
+ .italic { font-style: italic; }
+ .underline { text-decoration: underline; }
+ .noindent { margin-left: 0; padding-left: 0; }
+ .nomargin { margin: 0; }
+ .nopadding { padding: 0; }
+ .nobullet { list-style: none; list-style-image: none; }
+
+
+.font_10
+{
+    font-size: 10px;
+    line-height: 1.2em;
+}
+
+.font_12
+{
+    font-size: 12px;
+    line-height: 1.2em;
+}
+
+
+.font_14
+{
+    font-size: 14px;
+    line-height: 1.2em;
+}
+
+.font_16
+{
+    font-size: 16px;
+    line-height: 1.2em;
+}
+
+.font_18
+{
+    font-size: 18px;
+    line-height: 1.2em;
+}
+.font_20
+{
+    font-size: 20px;
+    line-height: 1.2em;
+}
+
+.font_24
+{
+    font-size: 24px;
+    line-height: 1.2em;
+}
+
+.font_regular
+{
+    font-weight: normal;
+}
+
+.font_gray_333
+{
+    color: #333;
+}
+
+.font_black
+{
+    color: #000;
+}
+
+.align_center
+{
+    text-align: center;
+}
+
+.line_height_1_0em
+{
+    line-height: 1em;
+}
+
+.line_height_1_1em
+{
+    line-height: 1.1em;
+}
+
+.line_height_1_4em
+{
+    line-height: 1.4em;
+}
+
+.line_height_1_6em
+{
+    line-height: 1.6em;
+}
+
+td .center_cell
+{
+ text-align: center;
+}
+
+.container
+{
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content_top
+{
+    width: 960px;
+    margin-bottom: 20px;
+}
+.content_top h1
+{
+    font-size: 22px;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 12px;
+}
+
+@charset "utf-8";
+
+
+
+body {
+    padding: 0;
+    color: #000;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    background-color: #CCC;
+    margin-top: 10px;
+}
+
+/* ~~ Element/tag selectors ~~ */
+ul, ol, dl { /* Due to variations between browsers, it's best practices to zero padding and margin on lists. For consistency, you can either specify the amounts you want here, or on the list items (LI, DT, DD) they contain. Remember that what you do here will cascade to the .nav list unless you write a more specific selector. */
+	padding: 0;
+	margin: 0;
+}
+
+h1, h2, h4, h5, h6    {
+	margin-top: 0;	 /* removing the top margin gets around an issue where margins can escape from their containing div. The remaining bottom margin will hold it away from any elements that follow. */
+	padding-right: 15px;
+	padding-left: 15px; /* adding the padding to the sides of the elements within the divs, instead of the divs themselves, gets rid of any box model math. A nested div with side padding can also be used as an alternate method. */
+}
+
+p
+{
+    margin-top: 0;	 /* removing the top margin gets around an issue where margins can escape from their containing div. The remaining bottom margin will hold it away from any elements that follow. */
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 9px;
+    margin-bottom: 8px;
+}
+
+h3
+{
+    /* [disabled]font-size: 20px; */
+    font-weight: bold;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-left: 15px;
+}
+
+.font_height
+{
+    line-height: 1.2em;
+}
+
+a img { /* this selector removes the default blue border displayed in some browsers around an image when it is surrounded by a link */
+    border: none;
+    display: block;
+}
+
+
+a:link {
+    color: #C0F; /* unless you style your links to look extremely unique, it's best to provide underlines for quick visual identification */
+}
+
+a:visited {
+    color: #C0F;
+    text-decoration: underline;
+}
+
+a:hover   , a:active, a:focus{ /* this group of selectors will give a keyboard navigator the same hover experience as the person using a mouse. */
+    text-decoration: none;
+    color: #FFF;
+    background-color: #090;
+}
+
+/* ~~ This grouped selector gives the lists in the .content area space ~~ */
+.content ul, .content ol { 
+	padding: 0 5px 5px 40px; 
+ 
+ /* this padding mirrors the right padding in the headings and paragraph rule above. Padding was placed on the bottom for space between other elements on the lists and on the left to create the indention. These may be adjusted as you wish. */
+}
+
+/* ~~ miscellaneous float/clear classes ~~ */
+
+.fltrt {
+	float: right;
+	margin-left: 8px;
+}
+
+.fltrt_10 {
+	float: right;
+	margin-left: 8px;
+ margin-right: 10px;
+}
+
+.fltrt_20 {
+	float: right;
+	margin-left: 8px;
+ margin-right: 20px;
+}
+
+.fltrt_30 {
+	float: right;
+	margin-left: 8px;
+ margin-right: 30px;
+}
+
+.fltrt_40 {
+	float: right;
+	margin-left: 8px;
+ margin-right: 40px;
+}
+
+.fltrt_50 {
+	float: right;
+	margin-left: 8px;
+ margin-right: 50px;
+}
+
+.fltrt_60 {
+	float: right;
+	margin-left: 8px;
+ margin-right: 60px;
+}
+
+.fltrt_70 {
+	float: right;
+	margin-left: 8px;
+ margin-right: 70px;
+}
+
+.fltlft {
+	float: left;
+	margin-right: 8px;
+}
+
+.clearfloat {
+	clear:both;
+	height:0;
+	font-size: 1px;
+	line-height: 0px;
+}
+
+.text_men
+{
+    color: #03F;
+}
+
+.text_black
+{
+    color: #000;
+}
+
+.text_red
+{
+    color: #F00;
+}
+
+.text_blue_00F
+{
+    color: #00F;
+}
+
+.text_green_093
+{
+    color: #093;
+}
+
+.text_red_bold
+{
+    color: #F00;
+    font-weight: bold;
+}
+
+.text_white
+{
+    color: #FFF;
+}
+
+.text_women
+{
+    color: #F36;
+}
+
+.text_smaller_italic
+{
+    font-size: 0.7em;
+    font-style: italic;
+}
+
+.footer
+{
+    clear: both;
+    float: none;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 10px;
+    padding-top: 30px;
+}
+
+.strikethrough
+{
+    text-decoration: line-through;
+}
+
+.content
+{
+    width: 920px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.content h1
+{
+    font-size: 22px;
+    font-weight: bold;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.content h2
+{
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 10px;
+    padding-left: 25px;
+}
+
+.content h3
+{
+ font-size: 18px;
+ font-weight: bold;
+ padding-bottom: 10px;
+ padding-left: 35px;
+ margin-left: 0px;
+ border-bottom: 3px solid #FFFFFF;
+}
+
+.content p
+{
+ font-size: 16px;
+ margin-top: 0;
+ padding-right: 50px;
+ padding-bottom: 5px;
+ padding-left: 45px;
+}
+
+.strikethrough
+{
+    text-decoration: line-through;
+}
+
+.font_18_bold_bg_yellow
+{
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #FF6;
+}
+
+.font_bold_bg_yellow
+{
+    font-weight: bold;
+    background-color: #FF6;
+}
+
+.background_yellow
+{
+    background-color: #FF0;
+}
+
+.background_light_yellow
+{
+    background-color: #FFFFBF;
+}
+
+.background_light_grey
+{
+    background-color: #ECEAEA;
+}
+
+.indent_20
+{
+    margin-left: 20px;
+}
+
+.indent_30
+{
+    margin-left: 30px;
+}
+
+.indent_40
+{
+    margin-left: 40px;
+}
+
+.indent_50
+{
+    margin-left: 50px;
+}
+
+.indent_60
+{
+    margin-left: 60px;
+}
+
+.indent_70 {
+ margin-left: 70px;
+}
+
+.indent_80 {
+ margin-left: 80px;
+}
+
+.indent_90 {
+ margin-left: 90px;
+}
+
+.indent_100 {
+ margin-left: 100px;
+}
+
+.indent_110 {
+ margin-left: 110px;
+}
+
+.spacer_1
+{
+ clear: both;
+ margin-bottom: 1px;
+ margin-left: 0px;
+}
+
+.spacer_10
+{
+    clear: both;
+    margin-bottom: 10px;
+}
+
+.spacer_15
+{
+    margin-bottom: 15px;
+}
+
+.spacer_20
+{
+    clear: both;
+    margin-bottom: 20px;
+}
+
+.blank_05 {
+ height: 5px;
+}
+
+.blank_10 {
+ height: 10px;
+}
+
+.blank_15 {
+ height: 15px;
+}
+
+.main_menu
+{
+    width: 850px;
+    margin-top: 15px;
+    margin-left: 40px;
+}
+
+.main_menu tr td
+{
+    font-size: 14px;
+    padding-left: 10px; 
+}
+
+.main_menu a:link 
+{
+    /* display: block; this gives the link block properties causing it to fill the whole LI containing it. This causes the entire area to react to a mouse click. 
+    width: 90px;  this width makes the entire button clickable for IE6. If you don't need to support IE6, it can be removed. Calculate the proper width by subtracting the padding on this link from the width of your sidebar container. */
+    text-decoration: none;
+    color: #333;
+}
+
+.main_menu a:visited   { /* grouping these selectors makes sure that your links retain their button look even after being visited */
+    
+    /* display: block; this gives the link block properties causing it to fill the whole LI containing it. This causes the entire area to react to a mouse click. 
+    width: 90px;  this width makes the entire button clickable for IE6. If you don't need to support IE6, it can be removed. Calculate the proper width by subtracting the padding on this link from the width of your sidebar container. */
+    text-decoration: none;
+    color: #333;
+}
+
+.main_menu a:hover 
+{
+    color: #FFF;
+    background-color: #090;
+    text-decoration: none;
+}
+
+.main_menu a:active   
+{
+    color: #FFF;
+    background-color: #090;
+    text-decoration: none;
+}
+
+.main_menu a:focus      { /* this changes the background and text color for both mouse and keyboard navigators */
+    color: #FFF;
+    background-color: #090;
+    text-decoration: none;
+}
+
+
+.schedule h1
+{
+    font-size: 22px;
+    font-weight: bold;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.schedule h2
+{
+    font-size: 16px;
+    font-weight: bold;
+    padding-bottom: 10px;
+    padding-left: 40px;
+}
+
+.schedule h3
+{
+ font-size: 14px;
+ font-weight: bold;
+ padding-bottom: 10px;
+ padding-left: 80px;
+ margin-left: 0px;
+ border-bottom: 3px solid #FFFFFF;
+}
+
+.schedule_table
+{
+ margin-top: 10px;
+ margin-right: 0px;
+ margin-left: 0px;
+ margin-bottom: 10px;
+ padding: 0;
+ border: none;
+ font-size: 12px;
+ }
+
+.schedule_table tr td
+{
+text-align: center;
+border: #FFFFFF;
+height: 10px;
+}
+
+.schedule .margin_left
+{
+margin-left: 200px;
+}
+
+.venues_table
+{
+margin-left: 40px;
+width: 800px;
+}
+
+.venues_table tr th
+{
+text-align: left;
+}
+
+.venues_table tr td
+{
+text-align: left;
+width: 30%;
+height: 10px;
+}

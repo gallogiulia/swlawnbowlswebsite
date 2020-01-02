@@ -1,0 +1,4 @@
+<div class="footer">
+<strong>2020 <em class="text_blue_00F">Bowls</em><em class="text_red">USA</em> National Open</strong>
+<!-- footer end --></div>
+

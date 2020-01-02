@@ -1,0 +1,62 @@
+@charset "utf-8";
+tr td.titles
+{
+    width: 45%;
+}
+
+#history
+{
+    width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 30px;
+}
+#history tr td 
+{
+    text-align: center;
+    height: 8px;
+    font-size: 14px;
+}
+#history tr th
+{
+    text-align: center;
+    font-size: 24px;
+}
+
+
+#history tr td.hist_year
+{
+    font-weight: bold;
+    padding-right: 10px;
+}
+#history tr td.hist_rank
+{
+    font-weight: bold;
+    padding-right: 10px;
+}
+
+.res2
+{
+margin-left: auto;
+margin-right: auto;
+margin-top: 30px;
+margin-bottom: 30px;
+font-size: 14px;
+border: 1px;
+}
+
+.res2 tr td
+{
+text-align: center;
+width: 23%;
+
+}
+
+.res2 tr th
+{
+text-align: center;
+font-size: 16px;
+font-weight: bold;
+width: 5%;
+}
+

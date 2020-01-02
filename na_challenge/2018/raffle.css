@@ -1,0 +1,26 @@
+#raffle_items
+{
+    clear: both;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+}
+
+#raffle_items tr td img
+{
+    clear: both;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#raffle_items tr td
+{
+    text-align: center;
+    vertical-align: top;
+    font-size: 12px;
+    font-style: italic;
+    line-height: 1.2em;
+    padding-bottom: 20px;
+    width: 25%;
+}

@@ -1,0 +1,146 @@
+.payment
+{
+    width: 40%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    clear: both;
+    margin-right: auto;
+    margin-left: auto;
+    color: #006600;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-align: center;
+}
+.payment form table tr td
+{
+    text-align: left;
+}
+
+#entries
+{
+    float: none;
+    width: 845px;
+    margin-right: auto;
+    margin-bottom: 30px;
+    margin-left: auto;
+}
+h4
+{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 10px;
+    padding-left: 0px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #06F;
+    padding-right: 0px;
+    margin-right: 10px;
+}
+.results tr td
+{
+    height: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    width: 100px;
+    font-size: 14px;
+    vertical-align: top;
+}
+.results tr td.vn_vet
+{
+    height: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    text-align: right;
+    margin-right: 10px;
+    padding-right: 5px;
+}
+
+.results tr th
+{
+    height: 10px;
+    padding-right: 8px;
+    text-align: right;
+}
+.results th.rank
+{
+    font-size: 14px;
+    font-weight: bold;
+    width: 30px;
+    padding-left: 5px;
+    padding-right: 10px;
+}
+.results
+{
+    clear: both;
+    float: none;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    margin-right: 50px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+#announce #pay_pal table
+{
+    float: left;
+    background-color: #E5E5E5;
+    width: 200px;
+}
+
+#announce #pay_pal form table tr td
+{
+    height: 10px;
+}
+
+#announce ul
+{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+#announce h5
+{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+    clear: none;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+table tr td.tour_pix
+{
+    font-style: italic;
+    text-align: center;
+    vertical-align: top;
+    padding-top: 8px;
+}
+
+.res2
+{
+margin-left: auto;
+margin-right: auto;
+margin-top: 30px;
+margin-bottom: 30px;
+font-size: 12px;
+border: 1px;
+}
+
+.res2 tr td
+{
+text-align: center;
+width: 11%;
+
+}
+
+.res2 tr th
+{
+text-align: center;
+font-size: 14px;
+font-weight: bold;
+width: 5%;
+}

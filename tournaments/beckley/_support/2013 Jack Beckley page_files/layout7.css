@@ -1,0 +1,18 @@
+div#content1 {
+	padding: 5px 10px; width: 95%; margin-bottom: 15px;
+}
+div#content2 {
+	padding: 5px 10px; width: 95%; margin-bottom: 15px;
+}
+div#content3 {
+	padding: 5px 10px; width: 95%;
+}
+div#content1 {
+	padding: 5px 10px; overflow: hidden; position: relative;
+}
+div#content2 {
+	padding: 5px 10px; overflow: hidden; position: relative;
+}
+div#content3 {
+	padding: 5px 10px; overflow: hidden; position: relative;
+}

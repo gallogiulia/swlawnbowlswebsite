@@ -9,12 +9,7 @@
 <link href="0_css_master.css" rel="stylesheet" type="text/css">
 <link href="0_css_site_wide.css" rel="stylesheet" type="text/css">
 <link href="index.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-.container .content p {
-	font-family: Gotham, Helvetica Neue, Helvetica, Arial, sans-serif;
-	size: 14 px;
-}
-</style>
+
 <meta charset="utf-8">
 </head>
 
@@ -38,14 +33,14 @@
 
 <div style="width: 260px; border: #A9A9A9 1px solid; background-color: #FFFFFF; text-align: center; padding: 0px 0px 0px 0px;">
 
-<div style="color: #FFFFFF; /* [disabled]font-size: 12px; */ font-family: inherit; font-weight: bold; text-align: center; padding: 3px;"></div>
+<div style="color: #FFFFFF; font: 12px arial, sans-serif; font-weight: bold; text-align: center; padding: 3px;"></div>
 
 <iframe id="NewsWindow" seamless src="index_news.htm" width="260" height="100" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" style="display: block; margin: 0 auto 2px; padding: 0;"></iframe>
 </div>
 
 
 
-<h5><span class="font_18"><a href="tournaments.php">2020
+<h5><span class="font_18"><a href="tournaments.php">2020 
 SW Schedule</a><br>
 <a href="http://www.bowlsusa.us/tournament-calendar.html" class="font_16">BowlsUSA Calendar</a></span><br>
 <br>
@@ -89,7 +84,6 @@ are listed below <br>
 
 <!-- ------Begin Tournaments------- -->
 
-
 <!--
 <tr>
 <td width="12" valign="top" class="results_box"><a href="tournaments/swlba_waterbury/waterbury.php#results">R</a></td>
@@ -103,7 +97,6 @@ are listed below <br>
 
 
 
-
 <tr>
 <td width="12" valign="top"></td>
 <td class="updates_general"><strong>Feb 15 - Santa Anita<br>
@@ -111,14 +104,8 @@ are listed below <br>
 Meetings</span><br>
 <span class="indent_40">Men and Women - 1:00 PM</span></strong></td>
 </tr>
-<!--
 
-<tr>
-<td width="12" valign="top"class="results_box"><a href="tournaments/swlba_waterbury/waterbury.php#results">R</a></td>
-<td class="updates_women"><strong><a href="https://docs.google.com/spreadsheet/pub?key=0Aloq6hwfreAWdExfWDV2bE5QTkVHNWktbnFjdVI1aGc&output=html&widget=true"><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Sep 7 - Laguna Beach<br>
-<img class="fltrt" src="tournaments/images/points_women.png" alt="" width="10" height="10" title="women's point events">
-<span class="indent_40"><a href="tournaments/swwd_ca_bears/ca_bears.php">California Bears</a></span></strong></td>
-</tr>-->
+
 
 <!-- sample listing with points
 <tr>
@@ -174,11 +161,11 @@ e-mail alerts</a>
 </div>
 
 
-<p class="helvetica">Welcome to the home of bowls (<em>a.k.a., lawn bowling</em>) in Southern California. The Southwest is one of seven divisions of <a href="http://bowlsusa.us/"><em>Bowls USA</em></a>.</p>
+<p>Welcome to the home of bowls (<em>a.k.a., lawn bowling</em>) in Southern California. The Southwest is one of seven divisions of <a href="http://bowlsusa.us/"><em>Bowls USA</em></a>.</p>
 
-<p class="helvetica">New to the sport? Everything you'll need to know is contained in the <a href="documents/WorldBowlsIntroductionToLawnBowls.pdf">Introductory Manual to Lawn Bowls</a>. </p>
+<p>New to the sport? Everything you'll need to know is contained in the <a href="documents/WorldBowlsIntroductionToLawnBowls.pdf">Introductory Manual to Lawn Bowls</a>. </p>
 
-<p class="helvetica">Upcoming division tournaments and other events appear on the right as they are announced. Visit the <em><a href="calendar.php">Calendar</a></em> for complete details or the <em><a href="tournaments.php">Tournaments</a></em> page for just the schedule.</p>
+<p>Upcoming division tournaments and other events appear on the right as they are announced. Visit the <em><a href="calendar.php">Calendar</a></em> for complete details or the <em><a href="tournaments.php">Tournaments</a></em> page for just the schedule.<span class="font_12"></span></p>
 
 
 <div class="blank_10"></div>
@@ -237,7 +224,7 @@ e-mail alerts</a>
 
 <h3>2019 Champion of  Champions</h3>
 <p> <strong>Charlie Herbert</strong> and <strong>Sandy Wall</strong> (Southeast Div.) represent the U.S. in this worldwide competition at  Adelaide, Australia, October 28-Nov 3. <a href="http://www.bowlssa.com.au/2019/09/24/world-singles-champion-of-champions-adelaide-bc/">Details of the competition</a>.<br>
-<br>
+<br> 
 <a href="http://www.worldbowls.com/event/champion-of-champions-2019/">Follow the action here</a> (Charlie is in Men's Singles Section 2 - Sandy is in Women's Singles Section 2).<br>
 </p>
 

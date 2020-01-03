@@ -1,6 +1,4 @@
 <?php
-
 // $rightnow is the current timestamp in seconds since midnight Jan 1, 1970
 $current_month = date(m);
-
 ?>

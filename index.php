@@ -45,7 +45,7 @@
 
 
 
-<h5><span class="font_18"><a href="tournaments.php">2019
+<h5><span class="font_18"><a href="tournaments.php">2020
 SW Schedule</a><br>
 <a href="http://www.bowlsusa.us/tournament-calendar.html" class="font_16">BowlsUSA Calendar</a></span><br>
 <br>

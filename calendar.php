@@ -423,6 +423,14 @@ MARCH
 <td class="tourn_location">Cambria</td>
 <td class="tourn_flyer">new</td>
 </tr>
+<tr>
+<td class="begin_end">28 Sat</td>
+<td></td>
+<td class="tourn_name_club">Mix/Match Aussie Pairs</td>
+<td></td>
+<td class="tourn_location">Sun City</td>
+<td class="tourn_flyer"><a href="tournaments/sun_city_aus_2/sun_city_aus_2.php">former</a></td>
+</tr>
 
 <tr>
  <td></td>
@@ -561,22 +569,14 @@ Women's Cal 5's</td>
 <td class="tourn_location">Santa Ana</td>
 <td class="tourn_flyer"><a href="tournaments/stirrat/stirrat_triples.php">former</a></td>
 </tr>
-<tr>
-<td class="begin_end">26 Sun</td>
-<td></td>
-<td>Mix/Match Aus. Pair<em>s</em></td>
-<td></td>
-<td class="tourn_location">Sun City</td>
-<td class="tourn_flyer"><a href="tournaments/sun_city_aus_2/sun_city_aus_2.php">former</a></td>
-</tr>
 
 <tr>
- <td class="begin_end">14 Sun</td>
- <td></td>
- <td class="tourn_name_club"><span class="rules_txt"><a href="tournaments/martinez/2018_rules_Martinez.pdf">Rules</a></span>Amador Martinez Triples</td>
-<td>&nbsp;</td>
- <td class="tourn_location">Oxnard</td>
- <td class="tourn_flyer"><a href="tournaments/martinez/martinez.php">former</a></td>
+  <td class="begin_end">14 Sun</td>
+  <td></td>
+  <td class="tourn_name_club"><span class="rules_txt"><a href="tournaments/martinez/2018_rules_Martinez.pdf">Rules</a></span>Amador Martinez Triples</td>
+  <td>&nbsp;</td>
+  <td class="tourn_location">Oxnard</td>
+  <td class="tourn_flyer"><a href="tournaments/martinez/martinez.php">former</a></td>
 </tr>
 
 <tr>

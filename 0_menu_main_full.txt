@@ -22,6 +22,7 @@
    <li><a href="sw_stuff.php">           SW Stuff                </a></li>
    <li><a href="standings_m.php">        Standings (M)           </a></li>
    <li><a href="standings_w.php">        Standings (W)           </a></li>
+   <li><a href="support.php">        	 Support Lawn Bowls      </a></li>
    <li><a href="team_sw.php">            Team SW                 </a></li>
    <li><a href="tournaments.php">        Tournaments             </a></li>
    <li><a href="results.php">            Tourn. Results          </a></li>
@@ -31,7 +32,7 @@
    <li><a href="waterbury.php">          Waterbury               </a></li>
    <li><a href="winter_league.php">      Winter League           </a></li>
    <li>  </li>
-   <li><em><a href="mailto:webmaster@swlawnbowls.org">Contact the<br>webmaster</a></em></li>
+   <li><em><a href="mailto:sw.bowls@gmail.com">Contact the<br>webmaster</a></em></li>
   </ul>
 		
 <!-- end .menu_main --></div>

@@ -98,11 +98,8 @@ are listed below <br>
 
 
 <tr>
-<td width="12" valign="top"></td>
-<td class="updates_general"><strong>Feb 15 - Santa Anita<br>
-<span class="indent_40">Annual General
-Meetings</span><br>
-<span class="indent_40">Men and Women - 1:00 PM</span></strong></td>
+<td width="12" height="46" valign="top"></td>
+<td class="updates_general">&nbsp;</td>
 </tr>
 
 
@@ -184,114 +181,26 @@ e-mail alerts</a>
 
 
 
-<h3>Recent Winners
-
-<a href="tournaments/swlba_5_man/swlba_5_man.php"><img src="index/2019_winner_photos-52.png" alt="" width="500" height="443" /></a>
-
-
-<a href="tournaments/swlba_waterbury/waterbury.php"><img src="index/2019_winner_photos-51.png" alt="" width="500" height="449" /></a>
-
-
-<a href="https://www.lawnbowlingusopen.com/2019-results"><img src="index/2019_winner_photos-50.png" alt="" width="500" height="325" /></a>
-
-
-
-</h3>
-
-<div class="blank_10"></div>
-
-
-<h3>U.S. Open Charts</h3>
-<p> <a href="https://docs.google.com/spreadsheets/d/1yB3Q4_zNqWm7NF9P6xTCVtNwxbvxSCqpylmE2BdhTso/edit?ts=5d7ecd9d#gid=1511027944">Women's Singles</a>&nbsp;&nbsp;&nbsp;<a href="https://docs.google.com/spreadsheets/d/1L-mSCL9ti-LuGkDU5HD9maGzhGEvZx72hG4jNmefLaA/edit#gid=1511027944">Men's Singles</a><br>
-<a href="https://docs.google.com/spreadsheets/d/1TmO77--MSuUN5ptefo3A07Yv-nBowR3FjFDmz5YPcxI/edit?ts=5d7e696e#gid=0">Women's Pairs</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://docs.google.com/spreadsheets/d/1R9rAKmBsjOsoi21DqI3UnsyKqFPMKV6BvTNd1ssP2T4/edit?ts=5d7e5c6f&pli=1#gid=1511027944">Men's Pairs</a><br>
-<a href="https://docs.google.com/spreadsheets/d/1dlLo1VrEl3Hzo5keU1Hhoq25PYiml2_Wub11BmQz1-4/edit?ts=5d7e7a2e#gid=1511027944">Women's Fours</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://docs.google.com/spreadsheets/d/1XSla23rc7u3i5pnCTyDxjOQa1K81pkAJrHIYvRqUNNE/edit#gid=0">Men's Fours</a> </p>
 
 
 
 
-<div class="blank_10"></div>
-
-
-<h3>Annual General Meetings (women &amp; men)</h3>
-<p> The 2020 Annual General Meetings will be held in Santa&nbsp;Anita on Saturday February&nbsp;15th, 1:00-3:00 PM<br>
-</p>
 
 
 
 
-<div class="blank_10"></div>
-
-
-<h3>2019 Champion of  Champions</h3>
-<p> <strong>Charlie Herbert</strong> and <strong>Sandy Wall</strong> (Southeast Div.) represent the U.S. in this worldwide competition at  Adelaide, Australia, October 28-Nov 3. <a href="http://www.bowlssa.com.au/2019/09/24/world-singles-champion-of-champions-adelaide-bc/">Details of the competition</a>.<br>
-<br> 
-<a href="http://www.worldbowls.com/event/champion-of-champions-2019/">Follow the action here</a> (Charlie is in Men's Singles Section 2 - Sandy is in Women's Singles Section 2).<br>
-</p>
 
 
 
 
-<div class="blank_10"></div>
-
-
-<h3>Special Recognition for 2019 National Champions</h3>
-<p>We&rsquo;re  pleased to announce on November 19th ~4pm &nbsp;- The Director of Parks and  Family Services and The City Council of Newport Beach will be recognizing our  outstanding local National Champions <strong>Anne Nunes</strong>, <strong>Charlie Herbert</strong>, <strong>Robert  Busciglio</strong> and <strong>Matthew Bauchiero</strong>. Special recognition is first up on the  agenda.&nbsp; The meeting will be held in the <a href="https://www.newportbeachca.gov/home/showdocument?id=20700" target="_blank">City Council Chambers </a>at 100 Civic Center Drive,  Newport Beach.</p>
-<p>Meetings are televised live on NBTV on the local cable providers  Spectrum (Channel 3) and Cox Communications (Channel 852), and are rebroadcast  each Sunday following the meeting at 4:30 p.m. and the following Tuesday at 7  p.m. until the next meeting is aired.</p>
-<div class="blank_10"></div>
-
-
-<h3>The National Championships</h3>
-<p> Congratulations to the Southwest winners in the National Championships<br>
-<br>
-Women's Singles - <strong>Anne Nunes</strong><br>
-Men's Singles - <strong>Charlie Herbert</strong><br>
-Men's Pairs - <strong>Robert Busciglio &amp; Matt Bauchiero</strong><br>
-<br>
-<span class="indent_60"><a href="https://docs.google.com/spreadsheets/d/11NMYjBqX5SS6ggW7RPGFW9fDfglR8CTyopqacjERtKk/edit#gid=0">Daily Scorecards</a> - <a href="https://docs.google.com/spreadsheets/d/1WNMoMpDVT2UIOTJWXXvUVEl99BlJ9AWP_jbxBtD2Das/edit#gid=612506550">Event Results</a></span> - <a href="http://www.bowlsusa.us/national-championships.html">BUSA Summary</a></p>
 
 
 
 
-<div class="blank_10"></div>
-
-
-<h3>Improve Your Umpiring Skills</h3>
-<p>If you are an umpire and/or a bowler who wants to learn about and/or improve your measuring and umpiring skills, use the following link to World Bowls' website.  Once there, at the bottom right corner of the page, you will see a box, highlighted in blue.  There are several pages of recommended procedures, with videos, and the suggested equipment to use. </p>
-
-<p><a href="http://www.worldbowls.com/laws-umpiring/umpire-development/measure_procedures/">Find the details here.</a></p>
-
-
-<div class="blank_10"></div>
-
-<h1><a href="logos/SW_logo_2019_08.jpg"><img src="index/SW_logo.png" alt="" width="170" height="200" class="fltrt"/></a></h1>
-<h2>The Southwest Women's and Men's Divisions Have Adopted a Unified Logo</h2>
-
-<!--
-<h3>
-<a href="index/2019_07_SWD_Logo_Announcement.pdf">Read the letter describing the background and implementation of this action</a>
-</h3>
--->
-
-<h3>Click on the image to obtain a full-size version<br>
-<br><br>
-
-</h3>
-
-<div class="blank_10"></div>
 
 
 
-<h3>Asia Pacific Championships (June 18-28)</h3>
 
-<p><a href="http://www.bowlsusa.us/melanie-vizenor-blog">
-Follow Melanie's reporting of the events
-</a>
-...<br>
-<a href="https://www.bowls.com.au/events-page/international-events/2019-asia-pacific-championships/asia-pacific-champs-draws-results/">Draw and Results</a>
-</p>
-
-
-<div class="blank_10"></div>
 
 <!--
 <h1><a href="index/Wanted poster.pdf"><img src="index/2019_04_29_wanted_poster.png" alt="" width="250" height="323" border="2" class="fltrt"/></a></h1>
@@ -307,39 +216,6 @@ among the bowling community.<br>
 asap!</p>
 
 
-<div class="blank_10"></div>
-
-
-<h1><a href="index/2019_AARP_letter.pdf"><img src="index/Lawn Bowling_AARP_LTR_of_Support.png" alt="" width="200" height="263" border="2" class="fltrt"/></a></h1>
-<h2>AARP Provides Letter of Support to the Lawn Bowling Community.</h2>
-<p>Anne Nunes and Former SWLBA President Phil Dunn reached out to AARP to make the case for Bowls as a natural sport for its members.</p>
-<p>Nancy McPherson, AARP State Director, responded with the letter of support at right.</p>
-<p><a href="index/2019_AARP_letter.pdf">Get the letter here</a></p>
-
-<h2>Mayors Encouraged to Support Bowls </h2>
-<p>A letter was sent by the SWLBA to city mayors encouraging support for bowls. A copy of the letter and additional documentation is <a href="index/ltr_to_mayors.pdf">here</a>.</p>
-
-<div class="blank_10"></div>
-
-
-
-
-<h3>Thoughts about Sponsorship <em><span class="font_14 font_regular">(and how you can help)</span></em></h3>
-
-<p><a href="index/2018_sponsorship.pdf">Learn about it here</a>.</p>
-
-
-
-<div class="blank_15"></div>
-
-
-
-<h3>Used Bowls</h3>
-
-<p>Do you have bowls to sell? Are you looking for used bowls to buy? Randy&nbsp;Hatfield <em><span class="font_12">(Laguna Beach &amp; Newport)</span></em> created <a href="http://usedlawnbowlsforsale.weebly.com">this site</a> to bring buyers and sellers together.</p>
-
-
-<div class="blank_15"></div>
 
 
 <!-- end content -->

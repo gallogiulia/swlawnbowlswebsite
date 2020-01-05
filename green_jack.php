@@ -27,7 +27,7 @@
 <h1>GREEN JACK</h1>
 <p>The Green Jack was the Southwest Division's magazine until its termination in 2013.  Available editions are provided here for posterity. Joe Siegman <span class="font_12"><em>(Beverly Hills</em>)</span> was editor. His long list of contributions to our division and the sport includes serving as Southwest Men's Division President (1990-1991) and editor of the national magazine (1992-2002).</p>
 
-<p><span class="font_14">NOTE: If you possess editions that are not included, please consider making them available (<a href="mailto:webmaster@swlawnbowls.org">contact the webmaster</a>).</span></p>
+<p><span class="font_14">NOTE: If you possess editions that are not included, please consider making them available (<a href="mailto:sw.bowls@gmail.com">contact the webmaster</a>).</span></p>
 
 
 <span class="font_10">

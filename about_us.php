@@ -159,7 +159,7 @@ Dunn<br>
   </tr>
   <tr>
    <td class="office">Webmaster -</td>
-   <td class="officer">Jim Semanek <span class="officer_club">(Sun City)</span></td>
+   <td class="officer">Giulia Gallo <span class="officer_club">(Newport Harbor)</span></td>
   </tr>
  </tbody>
 </table>
@@ -391,7 +391,7 @@ Eric Furman <em class="font_12">(Holmby Park)</em><br>
 
 <div class="clearfloat"></div>
 
-<h2>2019 SWWD Club Delegates <span class="font_18"><em>(Club Presidents - please <a href="mailto:webmaster@swlawnbowls.org">e-mail updates to webmaster</a>)</em></span></h2>
+<h2>2019 SWWD Club Delegates <span class="font_18"><em>(Club Presidents - please <a href="mailto:sw.bowls@gmail.com">e-mail updates to webmaster</a>)</em></span></h2>
 
 
 

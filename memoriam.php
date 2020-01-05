@@ -37,7 +37,7 @@ Southwest<strong> <span class="text_men">men</span></strong> and  <strong class=
 Details are available by clicking on the names (when available). If the date of passing is unsure, the month and/or date are shown with question marks.</p>
 
 <p>
-To include a member or provide additional information, <a href="mailto:webmaster@swlawnbowls.org?subject=Friends_We_Have_Lost" target="_blank">e-mail the webmaster</a>.
+To include a member or provide additional information, <a href="mailto:sw.bowls@gmail.com?subject=Friends_We_Have_Lost" target="_blank">e-mail the webmaster</a>.
 </p>
 
 <p align="right"><a href="memoriam_print.php">(printer-friendly page)</a>

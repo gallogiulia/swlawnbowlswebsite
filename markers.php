@@ -38,7 +38,7 @@
 
 <h2>Southwest Division <span class="text_men">Men</span> &amp; <span class="text_red">Women</span> Certified Markers</h2>
 
-<p>The <span class="text_men">men</span> and <span class="text_red">women</span> division Markers and club affiliations listed below were certified under the lead of our National Umpire in Chief,  Melanie Vizenor. If your name should be on the list but isn't, <a href="mailto:webmaster@swlawnbowls.org?subject=Marker Page" target="_blank">let us know</a>.</p>
+<p>The <span class="text_men">men</span> and <span class="text_red">women</span> division Markers and club affiliations listed below were certified under the lead of our National Umpire in Chief,  Melanie Vizenor. If your name should be on the list but isn't, <a href="mailto:sw.bowls@gmail.com?subject=Marker Page" target="_blank">let us know</a>.</p>
 <p>Markers received classroon and practical training to earn the title. In recognition of their willingness to participate, Markers were awarded shirts with a distinctive logo to be worn while performing their duties (see shirt and logo at right).</p>
 
 <p align="right"><a href="markers_print.php">(printable page with just names and clubs)</a></p>

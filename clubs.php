@@ -78,7 +78,7 @@
 </p>
 
 <p align="center"><span class="highlight">
-Club Representatives: Please <a href="mailto:webmaster@swlawnbowls.org?subject=Club%20Info%20Update">send updates</a>.</span></p>
+Club Representatives: Please <a href="mailto:sw.bowls@gmail.com?subject=Club%20Info%20Update">send updates</a>.</span></p>
 
 </td>
 </tr>

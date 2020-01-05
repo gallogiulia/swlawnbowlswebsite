@@ -46,7 +46,7 @@ Head Umpire <br>
 
 <h2>Southwest Division <span class="text_men">Men</span> &amp; <span class="text_red">Women</span> Umpires</h2>
 
-<p>The <span class="text_men">men</span> and <span class="text_red">women</span> division umpires and club affiliations are shown below. If your name should be on the list but isn't, <a href="mailto:webmaster@swlawnbowls.org?subject=Umpire%20Page" target="_blank">let us know</a>.</p>
+<p>The <span class="text_men">men</span> and <span class="text_red">women</span> division umpires and club affiliations are shown below. If your name should be on the list but isn't, <a href="sw.bowls@gmail.com?subject=Umpire%20Page" target="_blank">let us know</a>.</p>
 
 <p align="right"><a href="umpires_print.php">(printable page with just names and clubs)</a></p>
 

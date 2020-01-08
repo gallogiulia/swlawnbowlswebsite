@@ -58,37 +58,37 @@ Get the flyer by clicking on the club name below</strong></span> <em><span class
 
 <table cellpadding="3" cellspacing="3" class="table_ladies_day">
 <tr>
- <td colspan="4"><h2 align="center">2019 schedule&nbsp;<em><span class="font_12"><a href="ladies_day/2019_schedule.pdf">(download printable version</a></span></em> <em><span class="font_10">(rev Oct 11,2019)</span></em></h2></td>
+ <td colspan="4"><h2 align="center">2020 schedule&nbsp;<em><span class="font_12"><a href="ladies_day/2019_schedule.pdf">(download printable version</a></span></em> <em><span class="font_10">(rev XXX)</span></em></h2></td>
  </tr>
 <tr>
-<th>Mar 20 - </th>
+<th>Mar 18 - </th>
 <td title="get the flyer">Santa Ana</td>
-<th>Aug 21 -</th>
-<td>Laguna Beach</td>
+<th>-</th>
+<td>&nbsp;</td>
 </tr>
 <tr>
-<th>Apr 17 -</th>
-<td>Holmby Park</td>
-<th>Sep 18 -</th>
-<td>The Groves</td>
+<th> -</th>
+<td>&nbsp;</td>
+<th>-</th>
+<td>&nbsp;</td>
 </tr>
 <tr>
-<th>May 15 -</th>
-<td>Long Beach</td>
-<th>Oct 16 -</th>
-<td>Casta del Sol</td>
+<th> -</th>
+<td>&nbsp;</td>
+<th> -</th>
+<td>&nbsp;</td>
 </tr>
 <tr>
-<th>Jun 19 -</th>
-<td>Newport</td>
-<th>Nov 20 -</th>
-<td>Sun City</td>
+<th> -</th>
+<td>&nbsp;</td>
+<th> -</th>
+<td>&nbsp;</td>
 </tr>
 <tr>
- <th>Jul 17 -</th>
- <td>Laguna Woods</td>
- <th>Dec 17<strong><em><span class="font_12"></span></em></strong> -</th>
- <td><div class="text_red_bold"><a href="ladies_day/2019_12.pdf">Laguna Woods Holiday Luncheon</a><!--
+ <th> -</th>
+ <td>&nbsp;</td>
+ <th><strong><em><span class="font_12"></span></em></strong> -</th>
+ <td><div class="text_red_bold"><!--
  <br>
 <a href="ladies_day/2017_12_Holiday_Luncheon.pdf">flyer &amp; sign-up sheet</a>
 -->
@@ -105,6 +105,54 @@ Get the flyer by clicking on the club name below</strong></span> <em><span class
 </td>
  </tr>
 </table>
+
+	
+<hr>
+
+
+<p><strong><u>December  17, 2019 Holiday Lunch at Laguna Woods</u></strong></p>
+<p><br>
+  The holidays went by much too fast and I just realized I didn&rsquo;t post anything about our terrific SWWD Ladies Day Holiday Lunch.   We had a terrific day with  80 lovely ladies attending.  We started bowling with a very special spider game and the winner was Linda Roberts – she was the closest to the Snowman target.  </p>
+<p><img src="ladies_day/2019_pic_12_19_ladies_day_laguna_snowman.jpg" width="700" height="560" alt=""/></p>
+<p align="center" class="caption">Who's going to draw a "Snowball" toucher? (<a href="ladies_day/2019_pic_12_19_ladies_day_laguna_snowman.jpg">full size</a>)</p>	
+	
+<p>&nbsp;</p>
+<p>Thank you Diana Wenzel for being so creative with our target.   Then we bowled and what a beautiful site to see everyone in their holiday attire.</p>
+<p><u><strong>The winners of the Holiday Bowling were:</strong></u></p>
+<table class="results_3">
+  <tr>
+    <th>1st Place:</th>
+    <td>Melanie Vizenor</td>
+    <td>Tina Larsen</td>
+    <td>Juanita Jones</td>
+  </tr>
+  <tr>
+    <th>2nd Place</th>
+    <td>Tracy Manzi</td>
+    <td>Erin Snyder</td>
+    <td>Judy Godvin</td>
+  </tr>
+  <tr>
+    <th>3rd Place</th>
+    <td>Sheila Conti</td>
+    <td>Leah Joya</td>
+    <td>Carol Kangas</td>
+  </tr>
+</table>
+<p><br>
+  Congratulations to all the winners!</p>
+<p>Bowling was followed by our terrific Holiday Luncheon, the menu was delicious and the room looked lovely.   A huge thank you to Helen Mathewson who worked endlessly to make our luncheon special.  Also thanks to Shirley Collins for all her hard work making sure the day ran smoothly.  <br>
+  We now have another year behind us and I want to give a big thank you to Diana Wenzel.  It is definitely a team effort to make Ladies Day work and Diana helps me with all the chaotic moments.  Diana also adds that special touch to our prize envelopes with her artsy decorations.  </p>
+<p><br>
+  Diana and I are looking forward to seeing everyone at our <strong>Ladies Day in 2020</strong>.  <strong>Our first one will be March 18th in Santa Ana.</strong>  Also, Heather Stewart is putting together a schedule to do 10-15 minute coaching instructions at some of our Ladies Days.  Everyone can benefit from this information.   </p>
+<p>Please look for the Ladies Day flyer when it is posted at your club and sign your name to attend.  </p>
+<p>SEE YOU ON THE GREENS.</p>
+<p>Shelley Cohen and Diana Wenzel<br>
+Ladies Day Coordinators</p>
+<p><br>
+  
+</p>
+
 
 
 <hr>

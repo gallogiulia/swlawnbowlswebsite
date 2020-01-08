@@ -150,7 +150,7 @@ end sample -->
 
 </div><!-- end sidebar_right -->
 
-<h1>HOME</h1>
+<h1><center>HOME</center></h1>
 <div class="alerts"> <a href="alerts_2016.php"><img src="index/alerts.png" width="80" height="80" alt="E-Mail Alerts">sign up for<br>
 e-mail alerts</a>
 <br><br>
@@ -169,15 +169,31 @@ e-mail alerts</a>
 
 
 
+<h2>&nbsp;</h2>
+<h1><center>
+RECENT NEWS
+</center></h1>
+<h3>Holiday Lunch at Laguna Woods</strong> for Ladies's Day </h3>
+<p>Do you know how to draw a <em>snowball toucher? </em>Read the article written by Diana and Shelley to find out how the Ladies's Day group celebrated the end of 2019 at Laguna Woods. Click here: <a href="https://swlawnbowls.org/ladies_day.php">https://swlawnbowls.org/ladies_day.php</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h1> OTHER NEWS</h1>
+<p>&nbsp;</p>
 <h3><span class="background_yellow">SWLBA Board Members needed</span></h3>
 <p>If you are interested in being on the SWLBA&nbsp;Executive  Board, we are looking for volunteers.&nbsp; Positions&nbsp;are located on the  website here:&nbsp;&nbsp;<a href="http://swlawnbowls.org/about_us.php">http://swlawnbowls.org/about_us.php</a>.&nbsp;  If interested, please contact Scott Roberts, <a href="mailto:scottroberts1269@gmail.com">scottroberts1269@gmail.com</a>, by  January 12th.</p>
+<p>&nbsp;</p>
 <h3><span class="background_yellow">2020 Tournament Schedule</span></h3>
 <p>The draft 2020 tournament schedule is available <a href="https://docs.google.com/document/d/1biNAi8hM1W7Uf3MRd30SyNRRm12IGzLMkePg2gxCP3g/edit?ts=5df17724">here</a>.</p>
+<p>&nbsp;</p>
 
 
 
 <h3>Team USA Selector Applications Being Accepted</h3>
 <p>Bowls USA announced that it is accepting applications for the position of Selector (those who determine who will represent the U.S. in international competition). For more information, <a href="documents/2020_BUSA Selection_Committee.pdf">click here</a>.</p>
+<p>&nbsp;</p>
 
 
 

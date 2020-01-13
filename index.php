@@ -174,7 +174,8 @@ e-mail alerts</a>
 RECENT NEWS
 </center></h1>
 <h3>Holiday Lunch at Laguna Woods</strong> for Ladies's Day </h3>
-<p>Do you know how to draw a <em>snowball toucher? </em>Read the article written by Diana and Shelley to find out how the Ladies's Day group celebrated the end of 2019 at Laguna Woods. Click here: <a href="https://swlawnbowls.org/ladies_day.php">https://swlawnbowls.org/ladies_day.php</a></p>
+<p>Do you know how to draw a <em>"Snowman" toucher? </em>Read the article written by Diana and Shelley to find out how the Ladies's Day group celebrated the end of 2019 at Laguna Woods. 
+Click <a href="https://swlawnbowls.org/ladies_day.php">here.</a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -183,7 +184,7 @@ RECENT NEWS
 <h1> OTHER NEWS</h1>
 <p>&nbsp;</p>
 <h3><span class="background_yellow">SWLBA Board Members needed</span></h3>
-<p>If you are interested in being on the SWLBA&nbsp;Executive  Board, we are looking for volunteers.&nbsp; Positions&nbsp;are located on the  website here:&nbsp;&nbsp;<a href="http://swlawnbowls.org/about_us.php">http://swlawnbowls.org/about_us.php</a>.&nbsp;  If interested, please contact Scott Roberts, <a href="mailto:scottroberts1269@gmail.com">scottroberts1269@gmail.com</a>, by  January 12th.</p>
+<p>If you are interested in being on the SWLBA&nbsp;Executive  Board, we are looking for volunteers.&nbsp; Positions&nbsp;are located on the website <a href="http://swlawnbowls.org/about_us.php">here.</a>&nbsp; If interested, please contact <a href="mailto:scottroberts1269@gmail.com">Scott Roberts</a> by  January 12th.</p>
 <p>&nbsp;</p>
 <h3><span class="background_yellow">2020 Tournament Schedule</span></h3>
 <p>The draft 2020 tournament schedule is available <a href="https://docs.google.com/document/d/1biNAi8hM1W7Uf3MRd30SyNRRm12IGzLMkePg2gxCP3g/edit?ts=5df17724">here</a>.</p>
@@ -192,7 +193,8 @@ RECENT NEWS
 
 
 <h3>Team USA Selector Applications Being Accepted</h3>
-<p>Bowls USA announced that it is accepting applications for the position of Selector (those who determine who will represent the U.S. in international competition). For more information, <a href="documents/2020_BUSA Selection_Committee.pdf">click here</a>.</p>
+<p>Bowls USA announced that it is accepting applications for the position of Selector (those who determine who will represent the U.S. in international competition). 
+For more information, <a href="documents/2020_BUSA Selection_Committee.pdf">click here</a>.</p>
 <p>&nbsp;</p>
 
 
@@ -226,9 +228,7 @@ RECENT NEWS
 <p>The Southwest Division needs a News Correspondent to report to the Bowls USA Newsletter. Willing to seek out division news and report to Editor for inclusion in newsletter.<br>
 <strong>Requirements</strong>: No experience necessary. Have desire to report, design, and submit news in a timely fashion. Provide complete,
 accurate information, and build good public relations
-among the bowling community.<br>
-<strong>If interested</strong>, submit email of interest to Division Presidents @<br>
-<a href="mailto:k519ss@sbcglobal.net">k519ss@sbcglobal.net</a> or <a href="mailto:mcmorris23@gmail.com">mcmorris23@gmail.com</a>. Need
+among the bowling community.<br><strong>If interested</strong>, submit email of interest to Division Presidents <br><a href="mailto:k519ss@sbcglobal.net">Kottia Spangler</a> or <a href="mailto:mcmorris23@gmail.com">Sean McMorris</a>. Need
 asap!</p>
 
 

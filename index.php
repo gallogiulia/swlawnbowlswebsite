@@ -177,11 +177,9 @@ RECENT NEWS
 <p>Do you know how to draw a <em>"Snowman" toucher? </em>Read the article written by Diana and Shelley to find out how the Ladies's Day group celebrated the end of 2019 at Laguna Woods. 
 Click <a href="https://swlawnbowls.org/ladies_day.php">here.</a></p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <h1> OTHER NEWS</h1>
+<h3>New Webmaster</h3>
+<p>Giulia Gallo is the new webmaster. To get in touch, use  <a href="mailto:sw.bowls@gmail.com">this</a> email address.</p>
 <p>&nbsp;</p>
 <h3><span class="background_yellow">SWLBA Board Members needed</span></h3>
 <p>If you are interested in being on the SWLBA&nbsp;Executive  Board, we are looking for volunteers.&nbsp; Positions&nbsp;are located on the website <a href="http://swlawnbowls.org/about_us.php">here.</a>&nbsp; If interested, please contact <a href="mailto:scottroberts1269@gmail.com">Scott Roberts</a> by  January 12th.</p>

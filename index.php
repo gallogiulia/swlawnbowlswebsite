@@ -28,20 +28,8 @@
 <div id="sidebar_right">
 
 <div class="updates_box">
-
-<div align="center"> <span class="font_10"> (move your mouse over the text to stop scrolling) </span></div>
-
-<div style="width: 260px; border: #A9A9A9 1px solid; background-color: #FFFFFF; text-align: center; padding: 0px 0px 0px 0px;">
-
-<div style="color: #FFFFFF; font: 12px arial, sans-serif; font-weight: bold; text-align: center; padding: 3px;"></div>
-
-<iframe id="NewsWindow" seamless src="index_news.htm" width="260" height="100" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" style="display: block; margin: 0 auto 2px; padding: 0;"></iframe>
-</div>
-
-
-
-<h5><span class="font_18"><a href="tournaments.php">2020 
-SW Schedule</a><br>
+  <h5><span class="font_18"><a href="tournaments.php">2020 
+    SW Schedule</a><br>
 <a href="http://www.bowlsusa.us/tournament-calendar.html" class="font_16">BowlsUSA Calendar</a></span><br>
 <br>
 Recent and Upcoming Events<br>
@@ -58,8 +46,8 @@ are listed below <br>
 
 </table>
 <table border="0" cellpadding="0" cellspacing="0" id="updates">
-
-<tr valign="top">
+  
+  <tr valign="top">
 <td width="12" class="updates_recent"></td>
 <td width="248" class="updates_legend">= recently added</td>
 </tr>
@@ -104,7 +92,8 @@ are listed below <br>
 
 
 
-<!-- sample listing with points
+<!-- sample listing with points -->
+<!--
 <tr>
 <td width="12" valign="top"></td>
 <td class="updates_women"><strong><a href="https://docs.google.com/spreadsheet/pub?key=0Aloq6hwfreAWdExfWDV2bE5QTkVHNWktbnFjdVI1aGc&output=html&widget=true"><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Sep 7 - Laguna Beach<br>
@@ -114,6 +103,12 @@ are listed below <br>
 end sample -->
 
 
+<tr>
+<td width="12" valign="top"></td>
+<td class="updates_mixed"><strong><a href=""><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Mar 1 - Oxnard<br>
+<span class="indent_40"><a href="tournaments/swwd_ca_bears/ca_bears.php">Amador Martinez Triples</a></span></strong></td>
+</tr>
+	
 
 </table>
 
@@ -122,6 +117,7 @@ end sample -->
 
 
 <h5><a href="calendar.php">&nbsp;go to the SW calendar for more info&nbsp;</a></h5>
+<p>&nbsp;</p>
 <table class="div_mtg">
 <tr>
 <th colspan="2"><strong>Next Division Meetings</strong></th>

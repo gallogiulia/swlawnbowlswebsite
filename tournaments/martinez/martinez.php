@@ -26,7 +26,7 @@
 
 
 
-<h4>Oxnard - Sunday, April 14, 2019</h4>
+<h4>Oxnard - Sunday, March 14, 2020</h4>
 
 
 <?php 
@@ -79,6 +79,16 @@ Amador Martinez Triples - RESULTS
 
 <table class="res2" width="790">
 <tbody>
+<tr>
+<th>2020</th>
+<td></td>
+<td></td>
+<td></td>
+<th>&nbsp;</th>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 <tr>
 <th>2019</th>
 <td>Kay Tong</td>
@@ -166,6 +176,41 @@ Amador Martinez Triples - RESULTS
 
 
 
+<p>&nbsp;</p>
+<div class="results_trips_one_class">
+  <div class="results_title">
+    <div class="place">Oxnard</div>
+    2020 - Mar 1 <a href="2020_flyer_martinez.pdf">(flyer)</a></div>
+  <table width="100%">
+    <tr>
+      <th class="rank">1</th>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <th class="rank">2</th>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <th class="rank">3</th>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <th class="rank">4</th>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+  </table>
+</div>
+<p>&nbsp;</p>
+<div class="spacer"></div>
+<p>&nbsp;</p>
 <div class="results_trips_one_class">
 <div class="results_title">
 <div class="place">Oxnard</div> 

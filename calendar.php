@@ -320,14 +320,14 @@ MARCH
  <td></td>
 </tr>
 
+
 <tr>
-<td class="begin_end">&nbsp;1 Sun</td>
-<td></td>
-<td class="tourn_name_club">Amador Martinez Triples</td>
-<span class="rules_txt"><a href="documents/rules_w/vn_3.pdf">Rules</a></span></td>
-<td></td>
-<td class="tourn_location">Oxnard</td>
-<td class="tourn_flyer"><a href="tournaments/martinez/martinez.php">former</a></td>
+  <td class="begin_end">&nbsp;1 Sun</td>
+  <td></td>
+  <td class="tourn_name_club"><span class="rules_txt"><a href="tournaments/martinez/2020_rules_Martinez.pdf">Rules</a></span>Amador Martinez Triples</td>
+  <td>&nbsp;</td>
+  <td class="tourn_location">Oxnard</td>
+  <td class="tourn_flyer"><a href="tournaments/martinez/martinez.php">former</a></td>
 </tr>
 <tr>
 <td class="begin_end">&nbsp;7 Sat</td>
@@ -569,15 +569,6 @@ Women's Cal 5's</td>
 <td></td>
 <td class="tourn_location">Santa Ana</td>
 <td class="tourn_flyer"><a href="tournaments/stirrat/stirrat_triples.php">former</a></td>
-</tr>
-
-<tr>
-  <td class="begin_end">14 Sun</td>
-  <td></td>
-  <td class="tourn_name_club"><span class="rules_txt"><a href="tournaments/martinez/2018_rules_Martinez.pdf">Rules</a></span>Amador Martinez Triples</td>
-  <td>&nbsp;</td>
-  <td class="tourn_location">Oxnard</td>
-  <td class="tourn_flyer"><a href="tournaments/martinez/martinez.php">former</a></td>
 </tr>
 
 <tr>

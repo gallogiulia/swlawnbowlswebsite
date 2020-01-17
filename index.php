@@ -106,9 +106,10 @@ end sample -->
 <tr>
 <td width="12" valign="top"></td>
 <td class="updates_mixed"><strong><a href=""><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Mar 1 - Oxnard<br>
-<span class="indent_40"><a href="tournaments/swwd_ca_bears/ca_bears.php">Amador Martinez Triples</a></span></strong></td>
+<span class="indent_40"><a href="tournaments/martinez/martinez.php">Amador Martinez Triples</a></span></strong></td>
 </tr>
-	
+
+
 
 </table>
 

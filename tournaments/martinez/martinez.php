@@ -177,6 +177,7 @@ Amador Martinez Triples - RESULTS
 
 
 <p>&nbsp;</p>
+<!--
 <div class="results_trips_one_class">
   <div class="results_title">
     <div class="place">Oxnard</div>
@@ -208,7 +209,10 @@ Amador Martinez Triples - RESULTS
     </tr>
   </table>
 </div>
+-->
+	
 <p>&nbsp;</p>
+	
 <div class="spacer"></div>
 <p>&nbsp;</p>
 <div class="results_trips_one_class">

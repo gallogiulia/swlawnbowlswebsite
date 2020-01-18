@@ -26,7 +26,7 @@
 
 
 
-<h4>Oxnard - Sunday, March 14, 2020</h4>
+<h4>Oxnard - Sunday, March 1, 2020</h4>
 
 
 <?php 

@@ -102,6 +102,12 @@ are listed below <br>
 </tr>
 end sample -->
 
+<tr>
+<td width="12" valign="top"></td>
+<td class="updates_women"><strong><a href="tournaments/swwd_mumma/2020_flyer_mumma.pdf"><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Feb 22 - Riverside<br>
+<img class="fltrt" src="tournaments/images/points_women.png" alt="" width="10" height="10" title="women's point events">
+<span class="indent_40"><a href="tournaments/swwd_mumma/mumma.php">SWWD Mumma Mixed Pairs</a></span></strong></td>
+</tr>
 
 <tr>
 <td width="12" valign="top"></td>

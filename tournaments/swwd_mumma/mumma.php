@@ -42,9 +42,7 @@
 <div id="announce">
 
 
-<h4>Riverside - Saturday, February 23, 2019</h4>
-
-
+<h4>Riverside - Saturday, February 22, 2020</h4>
 <div align="center">
 <?php 
 if (file_exists('2020_flyer_mumma.pdf')) 
@@ -124,6 +122,13 @@ click Pay Now
 <th colspan="2">A Green</th>
 <th>&nbsp;</th>
 <th colspan="2">B Green</th>
+</tr>
+<tr>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+  <th>2020</th>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
 </tr>
 <tr>
 <td>Linda Roberts</td>

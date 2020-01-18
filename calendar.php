@@ -273,7 +273,7 @@ FEBRUARY
 <tr>
 <td class="begin_end">22 Sat</td>
 <td></td>
-<td class="tourn_name_swwd"><span class="rules_txt"><a href="documents/rules_w/mumma.pdf">Rules</a></span>Mumma Mixed Pairs <em><span class="font_12 text_black">(women skip)</span></em></td>
+<td class="tourn_name_swwd"><span class="rules_txt"><a href="documents/rules_w/mumma.pdf">Rules</a></span><a href="tournaments/swwd_mumma/mumma.php">Mumma Mixed Pairs</a><em><span class="font_12 text_black">(women skip)</span></em></td>
 <td></td>
 <td class="tourn_location">Riverside</td>
 <td class="tourn_flyer"><a href="tournaments/swwd_mumma/mumma.php">former</a></td>
@@ -325,7 +325,8 @@ MARCH
   <td class="begin_end">&nbsp;1 Sun</td>
   <td></td>
 	
-  <td class="tourn_name_club"><span class="rules_txt"><a href="tournaments/martinez/2020_flyer_Martinez.pdf">Rules</a></span>Amador Martinez Triples</td>
+  <td class="tourn_name_club"><span class="rules_txt"><a href="tournaments/martinez/2020_flyer_Martinez.pdf">Rules</a></span></a></span>
+      <a href="tournaments/martinez/martinez.php">Amador Martinez Triples</td>
 	
   <td>&nbsp;</td>
   <td class="tourn_location">Oxnard</td>
@@ -335,7 +336,7 @@ MARCH
 <tr>
 <td class="begin_end">&nbsp;7 Sat</td>
 <td></td>
-<td class="tourn_name_club"><span class="rules_txt"><a href="tournaments/carnival/2020_flyer_carnival.pdf">Rules</a></span>Carnival</td>
+<td class="tourn_name_club"><span class="rules_txt"><a href="tournaments/carnival/2020_flyer_carnival.pdf">Rules</a></span><a href="tournaments/carnival/carnival.php">Carnival</td>
 <td>&nbsp;</td>
 <td class="tourn_location">Long Beach</td>
 <td class="tourn_flyer"><a href="tournaments/carnival/carnival.php">former</a></td>

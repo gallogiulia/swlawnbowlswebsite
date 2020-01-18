@@ -324,16 +324,19 @@ MARCH
 <tr>
   <td class="begin_end">&nbsp;1 Sun</td>
   <td></td>
-  <td class="tourn_name_club"><span class="rules_txt"><a href="tournaments/martinez/2020_rules_Martinez.pdf">Rules</a></span>Amador Martinez Triples</td>
+	
+  <td class="tourn_name_club"><span class="rules_txt"><a href="tournaments/martinez/2020_flyer_Martinez.pdf">Rules</a></span>Amador Martinez Triples</td>
+	
   <td>&nbsp;</td>
   <td class="tourn_location">Oxnard</td>
   <td class="tourn_flyer"><a href="tournaments/martinez/martinez.php">former</a></td>
 </tr>
+	
 <tr>
 <td class="begin_end">&nbsp;7 Sat</td>
 <td></td>
-<td class="tourn_name_club">Carnival</td>
-<td></td>
+<td class="tourn_name_club"><span class="rules_txt"><a href="tournaments/carnival/2020_flyer_carnival.pdf">Rules</a></span>Carnival</td>
+<td>&nbsp;</td>
 <td class="tourn_location">Long Beach</td>
 <td class="tourn_flyer"><a href="tournaments/carnival/carnival.php">former</a></td>
 </tr>

@@ -115,6 +115,11 @@ end sample -->
 <span class="indent_40"><a href="tournaments/martinez/martinez.php">Amador Martinez Triples</a></span></strong></td>
 </tr>
 
+	<tr>
+<td width="12" valign="top"></td>
+<td class="updates_mixed"><strong><a href=""><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Mar 7 - Long Beach<br>
+<span class="indent_40"><a href="tournaments/carnival/carnival.php">Carnival</a></span></strong></td>
+</tr>
 
 
 </table>

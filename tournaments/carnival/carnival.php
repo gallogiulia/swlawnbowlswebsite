@@ -27,7 +27,7 @@
 <div id="announce">
 
 
-<h4>Long Beach - Saturday, March 9, 2019</h4>
+<h4>Long Beach - Saturday, March 7, 2020</h4>
 
 
 <?php 
@@ -69,6 +69,13 @@ echo '<div id="get_the_flyer"><a href="2020_flyer_carnival.pdf">get the flyer fo
 <th>2</th>
 <th>3</th>
 <th>4</th>
+</tr>
+<tr>
+  <th>2020</th>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
 </tr>
 <tr>
 <th>2019</th>

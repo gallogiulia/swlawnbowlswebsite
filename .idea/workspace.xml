@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e56a396f-0854-475f-8bc9-c1954c82ac97" name="Default Changelist" comment="" />
+    <list default="true" id="e56a396f-0854-475f-8bc9-c1954c82ac97" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/tournaments/cambria/cambria.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tournaments/cambria/cambria.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tournaments/swwd_mumma/2020_cop_mumma.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calendar.php" beforeDir="false" afterPath="$PROJECT_DIR$/calendar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tournaments/swwd_mumma/mumma.php" beforeDir="false" afterPath="$PROJECT_DIR$/tournaments/swwd_mumma/mumma.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

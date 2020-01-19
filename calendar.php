@@ -273,8 +273,12 @@ FEBRUARY
 <tr>
 <td class="begin_end">22 Sat</td>
 <td></td>
+    <!--
 <td class="tourn_name_swwd"><span class="rules_txt"><a href="documents/rules_w/mumma.pdf">Rules</a></span>Mumma Mixed Pairs <em><span class="font_12 text_black">(women skip)</span></em></td>
-<td></td>
+ -->
+    <td class="tourn_name_swwd"><span class="rules_txt"><a href="tournaments/swwd_mumma/2020_cop_mumma.pdf">Rules</a></span><a href="tournaments/swwd_mumma/mumma.php">Mumma Mixed Pairs <em><span class="font_12 text_black">(women skip)</span></em></td>
+
+    <td></td>
 <td class="tourn_location">Riverside</td>
 <td class="tourn_flyer"><a href="tournaments/swwd_mumma/mumma.php">former</a></td>
 </tr>

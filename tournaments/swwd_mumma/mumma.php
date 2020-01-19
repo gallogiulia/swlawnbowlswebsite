@@ -30,12 +30,10 @@
 <div id="rules_ref_w">
 
 
-<!--
 <a href="../../documents/rules_w/mumma.pdf">SWWD Rules</a><br>
 
 
-<a href="2019_cop_mumma.pdf">2019 Conditions of Play</a> 
--->
+<a href="2020_cop_mumma.pdf">2020 Conditions of Play</a>
 
 </div>
 
@@ -52,22 +50,21 @@ echo '<div id="get_the_flyer"><a href="2020_flyer_mumma.pdf"> get the flyer for 
 ?>
 
 
-<!--
-<img src="2019_flyer_mumma.png" width="800" height="735" alt=""/>
--->
-
-<!--
-<img src="2019_cop_mumma.png" width="800" height="1885" alt=""/>
--->
+    <img src="2020_flyer_mumma_two.png" width="800" height="735" alt=""/>
 
 
-</div><!-- align="center" end -->
+    <!--
+        <img src="2019_cop_mumma.png" width="800" height="1885" alt=""/>
+    -->
+
+
+        </div><!-- align="center" end -->
 
 </div><!-- announce end -->
 
 
 
-<!--
+
 <div class="payment">
 
 <h6>
@@ -96,7 +93,7 @@ click Pay Now
 </form>
 
 </div>
--->
+
 
 <!--
 <p align="center"><span class="font_bold_bg_yellow">send corrections to</span>: <a href="mailto:heatherastewart78@gmail.com">heatherastewart78@gmail.com</a></p>

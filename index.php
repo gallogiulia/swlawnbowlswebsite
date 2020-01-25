@@ -121,6 +121,12 @@ end sample -->
 <span class="indent_40"><a href="tournaments/carnival/carnival.php">Carnival</a></span></strong></td>
 </tr>
 
+    <tr>
+        <td width="12" valign="top"></td>
+        <td class="updates_women"><strong><a href="tournaments/swwd_vnmm_3/2020_flyer_swwd_vnmm_3.pdf"><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Feb 29 - Santa Anita<br>
+                <img class="fltrt" src="tournaments/images/points_women.png" alt="" width="10" height="10" title="women's point events">
+                <span class="indent_40"><a href="tournaments/swwd_vnmm_3/swwd_vnmm_3.php">SWWD Mix/Match Vet-Novice Triples</a></span></strong></td>
+    </tr>
 
 </table>
 

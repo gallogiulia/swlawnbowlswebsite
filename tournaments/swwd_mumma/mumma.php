@@ -20,8 +20,6 @@
 
 <div class="container">
 
-
-
 <?php include("../0_banner_results_swwd.txt"); ?>
 
 <h3>Mumma Mixed Pairs<br>

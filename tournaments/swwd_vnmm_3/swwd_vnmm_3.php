@@ -22,18 +22,15 @@
 
 <?php include("../0_banner_results_swwd.txt"); ?>
 
-<h3>Veteran-Novice<br>
-Mix or Match Triples</h3>
+    <h3>Veteran-Novice Mix or Match Truples<br>
+        <span class="font_20"></h3>
 
 <div id="rules_ref_w">
 
-
-<!--
 <a href="../../documents/rules_w/vnmm_3.pdf">SWWD Rules</a><br>
 
 
-<a href="2019_cop.pdf">2019 Conditions of Play</a>
--->
+<a href="2020_swwd_vnmm_3_cop_two.pdf">2020 Conditions of Play</a>
 
 </div>
 
@@ -41,33 +38,31 @@ Mix or Match Triples</h3>
 <div id="announce">
 
 
-<h4><span class="strikethrough">Santa Anita - Saturday, March 2, 2019</span><br>
-<span class="background_yellow">Canceled due to weather</span></h4>
+    <h4>Santa Anita - Saturday, February 29, 2020</h4>
+    <div align="center">
+        <?php
+        if (file_exists('2020_flyer_swwd_vnmm_3.pdf'))
+        {
+            echo '<div id="get_the_flyer"><a href="2020_flyer_swwd_vnmm_3.pdf"> get the flyer for full tournament and entry details </a></div>';
+        }
+        ?>
 
 
-<div align="center">
-<?php 
-if (file_exists('2019_flyer_swwd_vnmm_3.pdf')) 
-{
-echo '<div id="get_the_flyer"><a href="2019_flyer_swwd_vnmm_3.pdf">get the flyer for full tournament and entry details</a></div>';
-}
-?>
+        <img src="2020_flyer_swwd_vnmm_3.png" width="800" height="735" alt=""/>
 
 
-<!--
-<img src="2020_flyer_swwd_vnmm_3.png" width="800" height="711" alt=""/>
+        <!--
+            <img src="2019_cop_mumma.png" width="800" height="1885" alt=""/>
+        -->
 
 
-<img src="2019_cop.png" width="800" height="1969" alt=""/>
--->
+    </div><!-- align="center" end -->
 
-</div>
-
-
-<!-- announce end --></div>
+</div><!-- announce end -->
 
 
-<!--
+
+
 <div class="payment">
 
 <h6>
@@ -92,7 +87,7 @@ click Pay Now
 </form>
 
 </div>
--->
+
 
 
 
@@ -105,7 +100,7 @@ click Pay Now
 
 
 <div id="entries_center">
-<iframe width='810' height='390' frameborder='0' src='https://docs.google.com/spreadsheet/pub?key=0Aloq6hwfreAWdDVKaGg3bDNaTlRhV3VLQ24teWxiMXc&output=html&widget=true'></iframe>
+<iframe width='810' height='390' frameborder='0' src='https://docs.google.com/spreadsheets/d/e/2PACX-1vS0YUTGC3WJMPIsS5A_6vSOMCPkgs3WWRPF_e8TaCtqUlDtf-T84sSwWHgZGvBsl5Sge4JrDYn5IcnT/pubhtml'></iframe>
 
 </div>
 <!-- id="entries" end -->

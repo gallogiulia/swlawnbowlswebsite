@@ -360,15 +360,19 @@ MARCH
 <td class="tourn_location_other">Sun City Center, FL</td>
 <td class="tourn_flyer">&nbsp;</td>
 </tr>
-
+<!-- 
 <tr>
 <td class="begin_end">&nbsp;5 Tue - 13 Wed</td>
 <td></td>
+
 <td class="tourn_name_other"><img src="tournaments/images/non_swd.png" width="20" height="10" alt="Non-SWD Event">World Cup<img src="tournaments/images/non_swd.png" width="20" height="10" alt="Non-SWD Event"></td>
+
 <td></td>
 <td class="tourn_location_other">Warilla, NSW, Australia</td>
+
 <td class="tourn_flyer"></td>
 </tr>
+ -->
 <tr>
 <td class="begin_end">14 Sat - 21 Fri</td>
 <td></td>
@@ -380,10 +384,10 @@ MARCH
 <tr>
 <td class="begin_end">14 Sat - 15 Sun</td>
 <td class="points_cell"><img src="tournaments/images/points_women.png" alt="" width="10" height="10" class="points_button"></td>
-<td class="tourn_name_swwd"><span class="rules_txt"><a href="documents/rules_w/play.pdf">Rules</a></span><a href="tournaments/swwd_play_2/swwd_play_2.php">US Singles Playdo</a>w<a href="tournaments/swwd_play_2/swwd_play_2.php">ns</a> <span class="font_12 text_black"><em>(Prelim)</em></span></td>
+<td class="tourn_name_swwd"><span class="rules_txt"><a href="documents/rules_w/play.pdf">Rules</a></span><a href="tournaments/swwd_play_1/swwd_play_1.php">US Singles Playdowns</a><a href="tournaments/swwd_play_1/swwd_play_1.php"></a> <span class="font_12 text_black"><em>(Prelim)</em></span></td>
 <td></td>
 <td class="tourn_location">Newport Harbor</td>
-<td class="tourn_flyer"><a href="tournaments/swwd_play_2/swwd_play_2.php">former</a></td>
+<td class="tourn_flyer"><a href="tournaments/swwd_play_1/swwd_play_1.php">former</a></td>
 </tr>
 <tr>
 <td class="begin_end">14 Sat - 15 Sun</td>
@@ -410,15 +414,15 @@ MARCH
 <tr>
 <td class="begin_end">21 Sat - 22 Sun</td>
 <td class="points_cell"><img src="tournaments/images/points_women.png" alt="" width="10" height="10" class="points_button"></td>
-<td class="tourn_name_swwd"><span class="rules_txt"><a href="documents/rules_w/play.pdf">Rules</a></span><a href="tournaments/swwd_play_2/swwd_play_2.php">US Singles Playdo</a>w<a href="tournaments/swwd_play_2/swwd_play_2.php">ns</a> <span class="font_12 text_black"><em>(Final)</em></span></td>
+<td class="tourn_name_swwd"><span class="rules_txt"><a href="documents/rules_w/play.pdf">Rules</a></span><a href="tournaments/swwd_play_1/swwd_play_1.php">US Singles Playdowns</a><a href="tournaments/swwd_play_1/swwd_play_1.php"></a> <span class="font_12 text_black"><em>(Final)</em></span></td>
 <td></td>
 <td class="tourn_location">Newport Harbor</td>
-<td class="tourn_flyer"><a href="tournaments/swwd_play_2/swwd_play_2.php">former</a></td>
+<td class="tourn_flyer"><a href="tournaments/swwd_play_1/swwd_play_1.php">former</a></td>
 </tr>
 <tr>
 <td class="begin_end">21 Sat - 22 Sun</td>
 <td class="points_cell" ><img src="tournaments/images/points_men.png" alt="" width="10" height="10" class="points_button"></td>
-<td class="tourn_name_swlba"><span class="rules_txt"><a href="documents/rules_m/play_1.pdf">Rules</a></span>US Singles Playdowns <span class="font_12 text_black"><em>(Final)</em></span></td>
+<td class="tourn_name_swlba"><span class="rules_txt"><a href="documents/rules_m/play_1.pdf">Rules</a></span>US Singles Playdowns<span class="font_12 text_black"><em>(Final)</em></span></td>
 <td></td>
 <td class="background_light_yellow">TBD</td>
 <td class="tourn_flyer"><a href="tournaments/swlba_play_1/swlba_play_1.php">former</a></td>

@@ -22,19 +22,21 @@
 
 <?php include("../0_banner_results_other.txt"); ?>
 <h3>Amador Martinez Triples <a href="#about"><span class="about_link">(about)</span></a></h3>
+
 <div id="announce">
 
 
 
 <h4>Oxnard - Sunday, March 1, 2020</h4>
+    <div align="center">
+        <?php
+        if (file_exists('2020_flyer_martinez.pdf'))
+        {
+            echo '<div id="get_the_flyer"><a href="2020_flyer_martinez.pdf"> get the flyer for full tournament and entry details </a></div>';
+        }
+        ?>
 
-
-<?php 
-if (file_exists('2020_flyer_martinez.pdf')) 
-{
-echo '<div id="get_the_flyer"><a href="2020_flyer_martinez.pdf">get the flyer for full tournament and entry details</a></div>';
-}
-?>
+</div>
 
 
 <!--

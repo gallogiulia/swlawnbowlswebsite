@@ -39,9 +39,9 @@ are listed below <br>
 <table id="limits">
 
 <tr>
-<td class="updates_men">men only</td>
+<td class="updates_men">men</td>
 <td class="updates_mixed">mix/match</td>
-<td class="updates_women">women only</td>
+<td class="updates_women">women</td>
 </tr>
 
 </table>
@@ -138,8 +138,10 @@ end sample -->
 <td width="60" class="gender">Men -</td>
 <td>Feb 15 - AGM</td>
 </tr>
+
 <tr>
-<td class="gender">Women - </td>
+<td width="60" class="gender">Women -</td>
+<td>Feb 15 - AGM</td>
 <td>&nbsp;</td>
 </tr>
 </table>
@@ -181,6 +183,8 @@ e-mail alerts</a>
 <h1><center>
 RECENT NEWS
 </center></h1>
+    <h3>SWLBA AGM Meeting on Feb 15</h3>
+    <p>The AGM meeting for the Men's Division will take place on February 15, 2020 at Santa Anita. All club representatives will be attending the meeting.
 <h3>Holiday Lunch at Laguna Woods</strong> for Ladies's Day </h3>
 <p>Do you know how to draw a <em>"Snowman" toucher? </em>Read the article written by Diana and Shelley to find out how the Ladies's Day group celebrated the end of 2019 at Laguna Woods. 
 Click <a href="https://swlawnbowls.org/ladies_day.php">here.</a></p>

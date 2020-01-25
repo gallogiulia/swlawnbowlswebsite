@@ -55,7 +55,7 @@
 <td class="rank">1</td>
 <td class="name_women">Anne Nunes</td>
 <td class="rank">6</td>
-<td class="name_women">See McSparran</td>
+<td class="name_women">Dee McSparran</td>
 <td></td>
 <td class="rank">1</td>
 <td class="name_men">Barry Hayes</td>

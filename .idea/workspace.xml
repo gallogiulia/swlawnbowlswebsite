@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e56a396f-0854-475f-8bc9-c1954c82ac97" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/tournaments/swwd_vnmm_3/2020_swwd_vnmm_3_cop.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tournaments/swwd_vnmm_3/2020_swwd_vnmm_3_cop_two.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/_notes/dwsync.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/_notes/dwsync.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calendar.php" beforeDir="false" afterPath="$PROJECT_DIR$/calendar.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tournaments/cambria/cambria.php" beforeDir="false" afterPath="$PROJECT_DIR$/tournaments/cambria/cambria.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tournaments/swwd_mumma/mumma.php" beforeDir="false" afterPath="$PROJECT_DIR$/tournaments/swwd_mumma/mumma.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tournaments/swwd_vnmm_3/swwd_vnmm_3.php" beforeDir="false" afterPath="$PROJECT_DIR$/tournaments/swwd_vnmm_3/swwd_vnmm_3.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

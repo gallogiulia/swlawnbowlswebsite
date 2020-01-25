@@ -285,7 +285,7 @@ FEBRUARY
 <tr>
 <td class="begin_end">29 Sat</td>
 <td></td>
-<td class="tourn_name_swwd"><span class="rules_txt"><a href="documents/rules_w/vnmm_3.pdf">Rules</a></span>Vet-Novice Mix/Match Triples</td>
+<td class="tourn_name_swwd"><span class="rules_txt"><a href="tournaments/swwd_vnmm_3/2020_swwd_vnmm_3_cop_two.pdff">Rules</a></span><a href="tournaments/swwd_vnmm_3/swwd_vnmm_3.php">Vet-Novice Mix/Match Triples</td>
 <td></td>
 <td class="tourn_location">Santa Anita</td>
 <td class="tourn_flyer"><a href="tournaments/swwd_vnmm_3/swwd_vnmm_3.php">former</a></td>

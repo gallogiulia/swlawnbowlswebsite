@@ -183,8 +183,8 @@ e-mail alerts</a>
 <h1><center>
 RECENT NEWS
 </center></h1>
-    <h3>SWLBA AGM Meeting on Feb 15</h3>
-    <p>The AGM meeting for the Men's Division will take place on February 15, 2020 at Santa Anita. All club representatives will be attending the meeting.
+    <h3>AGM Meeting on Feb 15</h3>
+    <p>The AGM meeting for the Men's and the Ladies' Division will take place on February 15, 2020 at Santa Anita. 
 <h3>Holiday Lunch at Laguna Woods</strong> for Ladies's Day </h3>
 <p>Do you know how to draw a <em>"Snowman" toucher? </em>Read the article written by Diana and Shelley to find out how the Ladies's Day group celebrated the end of 2019 at Laguna Woods. 
 Click <a href="https://swlawnbowls.org/ladies_day.php">here.</a></p>

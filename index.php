@@ -107,6 +107,12 @@ end sample -->
                   <img class="fltrt" src="tournaments/images/points_women.png" alt="" width="10" height="10" title="women's point events">
                   <span class="indent_40"><a href="tournaments/swwd_mumma/mumma.php">SWWD Mumma Mixed Pairs</a></span></strong></td>
             </tr>
+			<tr>
+              <td width="12" valign="top"></td>
+              <td class="updates_women"><strong><a href="tournaments/swwd_vnmm_3/2020_flyer_swwd_vnmm_3.pdf"><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Feb 29 - Santa Anita<br>
+                  <img class="fltrt" src="tournaments/images/points_women.png" alt="" width="10" height="10" title="women's point events">
+                  <span class="indent_40"><a href="tournaments/swwd_vnmm_3/swwd_vnmm_3.php">SWWD Mix/Match Vet-Novice Triples</a></span></strong></td>
+            </tr>
 
             <tr>
               <td width="12" valign="top"></td>
@@ -120,12 +126,14 @@ end sample -->
                   <span class="indent_40"><a href="tournaments/carnival/carnival.php">Carnival</a></span></strong></td>
             </tr>
 
+
             <tr>
               <td width="12" valign="top"></td>
-              <td class="updates_women"><strong><a href="tournaments/swwd_vnmm_3/2020_flyer_swwd_vnmm_3.pdf"><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Feb 29 - Santa Anita<br>
-                  <img class="fltrt" src="tournaments/images/points_women.png" alt="" width="10" height="10" title="women's point events">
-                  <span class="indent_40"><a href="tournaments/swwd_vnmm_3/swwd_vnmm_3.php">SWWD Mix/Match Vet-Novice Triples</a></span></strong></td>
+              <td class="updates_mixed"><strong><a href=""><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Mar 28-29 - Cambria<br>
+                  <span class="indent_40"><a href="tournaments/cambria/cambria.php">Cambria Open Singles</a></span></strong></td>
             </tr>
+
+
 
           </table>
 
@@ -174,7 +182,7 @@ end sample -->
           e-mail alerts</a>
         <br><br>
         <a href="https://www.facebook.com/swbowls"><img src="index/facebook.png" width="80" height="80" alt="" title="visit our Facebook page" /></a>
-      </div>
+  </div>
 
 
       <p>Welcome to the home of bowls (<em>a.k.a., lawn bowling</em>) in Southern California. The Southwest is one of seven divisions of <a href="http://bowlsusa.us/"><em>Bowls USA</em></a>.</p>
@@ -193,22 +201,36 @@ end sample -->
         <p>Congratulations to all the players who were selected to represent the USA at the upcoming international events! The Southwest Men's and Women's Division are well represented!</em>
           Click <a href="http://www.bowlsusa.us/us-players-by-event.html">here</a> to find out where our players will go play.<p>&nbsp;</p>
 
-    <h3>SWLBA and SWWD AGM Meetings on Feb 15 from 1-3 PM</h3>
-  <p>The men's and women's AGM's will both be held at Santa Anita on Sat Feb 15, from 1-3 PM. </p>Here are the nominations for the SWLBA Board for 2020:
+  <h3>SWLBA and SWWD AGM Meetings on Feb 15 from 1-3 PM</h3>
+  <p>The men's and women's AGM's will both be held at Santa Anita on Sat Feb 15, from 1-3 PM.</p>
+  <p> Here are the nominations for the SWLBA Board for 2020: </p>
   <center>
                 <dl>
-                  <font size="2">
+                  
                     <dt>President: Howard Harris</dt>
                     <dt>Vice-President: Mike Ruggles</dt>
                     <dt>Treasurer: Tom Hargraves</dt>
                     <dt>Secretary: Tony Head</dt>
                     <dt>Councilor: Gary Barnes</dt>
-                </dl>
-                </font>
+    </dl>
+              
+  </center>
+	<p>&nbsp;</p>
+	<center><p>Here are the nominations for the SWWD Board for 2020: </p>
+  <center>
+                <dl>
+                  
+                    <dt>President: Linda Roberts</dt>
+                    <dt>Vice-President: Jan Hargraves</dt>
+                    <dt>Treasurer: Tracy Manzi</dt>
+                    <dt>Secretary: Candy DeFazio</dt>
+                    <dt>Councilor: Melanie Vizenor</dt>
+    </dl>
+  </center>            
   </center>
 
   <p>
-              <h3>Holiday Lunch at Laguna Woods for Ladies's Day </h3>
+  <h3>Holiday Lunch at Laguna Woods for Ladies's Day </h3>
 <p>Do you know how to draw a <em>"Snowman" toucher? </em>Read the article written by Diana and Shelley to find out how the Ladies's Day group celebrated the end of 2019 at Laguna Woods.
                 Click <a href="https://swlawnbowls.org/ladies_day.php">here.</a></p>
               <p>&nbsp;</p></p>

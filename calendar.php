@@ -285,7 +285,7 @@ FEBRUARY
 <tr>
 <td class="begin_end">29 Sat</td>
 <td></td>
-<td class="tourn_name_swwd"><span class="rules_txt"><a href="tournaments/swwd_vnmm_3/2020_swwd_vnmm_3_cop_two.pdff">Rules</a></span><a href="tournaments/swwd_vnmm_3/swwd_vnmm_3.php">Vet-Novice Mix/Match Triples</td>
+<td class="tourn_name_swwd"><span class="rules_txt"><a href="tournaments/swwd_vnmm_3/2020_swwd_vnmm_3_cop_two.pdf">Rules</a></span><a href="tournaments/swwd_vnmm_3/swwd_vnmm_3.php">Vet-Novice Mix/Match Triples</td>
 <td></td>
 <td class="tourn_location">Santa Anita</td>
 <td class="tourn_flyer"><a href="tournaments/swwd_vnmm_3/swwd_vnmm_3.php">former</a></td>
@@ -427,14 +427,16 @@ MARCH
 <td class="background_light_yellow">TBD</td>
 <td class="tourn_flyer"><a href="tournaments/swlba_play_1/swlba_play_1.php">former</a></td>
 </tr>
-<tr>
 <td class="begin_end">28 Sat - 29 Sun</td>
 <td></td>
-<td class="tourn_name_club">Cambria Open Singles</td>
+<td class="tourn_name_club"><span class="rules_txt"><a href="tournaments/cambria/CambriaSingles_v0.6_GG.pdf">Rules</a></span>
+	<a href="tournaments/cambria/cambria.php">Cambria Open Singles</td>
 <td></td>
 <td class="tourn_location">Cambria</td>
 <td class="tourn_flyer">new</td>
 </tr>
+	
+	
 <tr>
 <td class="begin_end">28 Sat</td>
 <td></td>
@@ -580,6 +582,14 @@ Women's Cal 5's</td>
 <td></td>
 <td class="tourn_location">Santa Ana</td>
 <td class="tourn_flyer"><a href="tournaments/stirrat/stirrat_triples.php">former</a></td>
+</tr>
+<tr>
+<td class="begin_end">25 Sat - 28 Tue</td>
+<td></td>
+<td class="tourn_name_other"><img src="tournaments/images/non_swd.png" width="20" height="10" alt="Non-SWD Event">2020 PBA qualifiers<img src="tournaments/images/non_swd.png" width="20" height="10" alt="Non-SWD Event"></td>
+<td></td>
+<td class="tourn_location_other">Beverly Hills Lawn Bowls Club, CA</td>
+<td class="tourn_flyer"></td>
 </tr>
 
 <tr>
@@ -778,7 +788,7 @@ JUNE</td>
 <td class="tourn_flyer"><a href="tournaments/coronado/coronado.php">former</a></td>
 </tr>
 <tr>
-<td class="begin_end">14 Sun</td>
+<td class="begin_end">21 Sun</td>
 <td></td>
 <td><span class="tourn_holiday">FATHER'S DAY</span></td>
 <td></td>
@@ -876,7 +886,7 @@ JULY</td>
 <td class="points_cell"><img src="tournaments/images/points_women.png" alt="" width="10" height="10" class="points_button"></td>
 <td class="tourn_name_swwd"><span class="rules_txt"><a href="documents/rules_w/aus_2.pdf">Rules</a></span>Heidi Rittner Australian Pairs</td>
 <td></td>
-<td class="tourn_location">Santa Ana</td>
+<td class="tourn_location">Long Beach</td>
 <td class="tourn_flyer"><a href="tournaments/swwd_aus_2/swwd_aus_2.php">former</a></td>
 </tr>
 <tr>
@@ -953,7 +963,6 @@ JULY</td>
 <a name="08"></a>
 AUGUST</td>
 </tr>
-
 <tr>
   <td></td>
 </tr>
@@ -963,7 +972,7 @@ AUGUST</td>
  <td class="points_cell"><img src="tournaments/images/points_women.png" alt="" width="10" height="10" class="points_button"></td>
  <td class="tourn_name_swwd"><span class="rules_txt"><a href="documents/rules_w/rinks.pdf">Rules</a></span>Division Rinks</td>
 <td></td>
- <td>(TBA)</td>
+ <td>Santa Ana</td>
  <td class="tourn_flyer"><a href="tournaments/swwd_rinks/swwd_rinks.php">former</a></td>
 </tr>
 
@@ -1046,14 +1055,6 @@ AUGUST</td>
 <td></td>
 <td class="tourn_location">Santa Ana</td>
 <td class="tourn_flyer"><a href="tournaments/skins/skins.php">former</a></td>
-</tr>
-<tr>
-<td class="begin_end">30 Sun</td>
-<td></td>
-<td class="tourn_name_club">Quinell Rinks</td>
-<td></td>
-<td class="tourn_location">Santa Monica</td>
-<td class="tourn_flyer"><a href="tournaments/beckley_rinks/beckley_rinks.php">former</a></td>
 </tr>
 
 <tr>
@@ -1264,6 +1265,16 @@ OCTOBER</td>
 <td class="tourn_location">Santa Anita</td>
 <td class="tourn_flyer"><a href="tournaments/swwd_mx_2_men_skip/mx_2_men_skip.php">former</a></td>
 </tr>
+
+<tr>
+<td class="begin_end">25 Sun</td>
+<td></td>
+<td class="tourn_name_club">Quinell Rinks</td>
+<td></td>
+<td class="tourn_location">Santa Monica</td>
+<td class="tourn_flyer"><a href="tournaments/beckley_rinks/beckley_rinks.php">former</a></td>
+</tr>
+
 
 <tr>
  <td class="begin_end">26 Mon - 1 Nov</td>

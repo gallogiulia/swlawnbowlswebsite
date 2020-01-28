@@ -21,7 +21,7 @@
 <div class="container">
 
 <?php include("../0_banner_results_other.txt"); ?>
-<h3>Cambria Open Singles <a href="#about"><span class="about_link">(about)</span></a></h3>
+<h3>Cambria Open Singles</h3>
 
 <div id="announce">
 
@@ -30,9 +30,9 @@
 <h4>Cambria - Saturday/Sunday, March 28-29, 2020</h4>
     <div align="center">
         <?php
-        if (file_exists('CambriaSingles_v2.1_GG.pdf'))
+        if (file_exists('CambriaSingles_v0.6_GG.pdf'))
         {
-            echo '<div id="get_the_flyer"><a href="CambriaSingles_v2.1_GG.pdf"> get the flyer for full tournament and entry details </a></div>';
+            echo '<div id="get_the_flyer"><a href="CambriaSingles_v0.6_GG.pdf"> get the flyer for full tournament and entry details </a></div>';
         }
         ?>
 
@@ -40,7 +40,7 @@
 
 
 
-<img src="CambriaSingles_v2.2_GG.png" alt="Flyer" width="800" height="1150" >
+<img src="CambriaSingles_v0.6_GG.png" alt="Flyer" width="800" height="1100" >
 
 
 <!-- announce end --></div>

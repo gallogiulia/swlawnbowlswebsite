@@ -104,16 +104,18 @@ h3
     margin-left: 10px;
     margin-bottom: 10px;
     padding-right: 5px;
-	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #FFFFFF;
+    height: 1500px;
 }
 
 .updates_box
 {
- float: left;
- width: 100%;
- background-color: #F1F1F1;
- padding-bottom: 5px;
- padding-right: 0px;
+    float: left;
+    width: 100%;
+    background-color: #FFFFFF;
+    padding-bottom: 5px;
+    padding-right: 0px;
 }
 
 .updates_box h4
@@ -162,7 +164,7 @@ h3
     font-weight: normal;
     margin-right: 45px;
     margin-left: 45px;
-    background-color: #B7FFB7;
+    background-color: #ffffff;
     margin-bottom: 10px;
     border: 1px solid #000;
 }
@@ -515,7 +517,7 @@ th
 #limits tr td.updates_mixed
 {
     font-size: 12px;
-    background-color: #BBFFD7;
+    background-color: #FFFFFF;
     text-align: center;
     line-height: 1.2em;
 }
@@ -548,8 +550,11 @@ th
 
 .bg_B7FFB7
 {
-    background-color: #B7FFB7;
+    /*background-color: #b7ffb7;*/
+    background-color: #ff2831
 }
+
+
 
 #slides
 {
@@ -743,7 +748,7 @@ p img.open
 
 .background_white
 {
-	background-color: #FFFFFF;
+    background-color: #FFFFFF;
 }
 
 .margin_right_30

@@ -45,16 +45,20 @@
 <p>The  <span class="text_men">men</span> and <span class="text_red">women</span> Southwest division coaches and club affiliations are shown below. If your name should be on the list but isn't, <a href="mailto:sw.bowls@gmail.com?subject=Coach Page" target="_blank">let us know</a>.</p>
 <p align="right"><a href="coach_print.php">(printable page with just names and clubs)</a></p>
 
-<div align="center" class="font_12"><em><span class="background_light_yellow">&nbsp;note: click on</span></em><span class="font_green_060 font_16 font_regular"> <em>Green </em></span><em><span class="background_light_yellow">column headings to re-sort the chart&nbsp;</span></em>
+<a name="entries"></a>
 
-<?php include("coach.txt"); ?>
+
+<div id="entries_center">
+<iframe width='810' height='900' frameborder='0' src='https://docs.google.com/spreadsheets/d/e/2PACX-1vQKVemCnWoOg0dzvge2asf88BlHefoRw6Sj6_T_s94-KZrIuhQ_EH5QFNY0odbdwmj9kNrMirgUCvsw/pubhtml?gid=327088669&single=true'></iframe>
+
+</div>
+<!-- id="entries" end -->
+
 
 
 </div>
 
-<!--
-<?php include("coach.txt"); ?>
--->
+
 
 
 <div class="clearfloat"></div>

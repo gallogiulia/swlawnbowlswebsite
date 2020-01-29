@@ -43,6 +43,28 @@
 <img src="CambriaSingles_v0.6_GG.png" alt="Flyer" width="800" height="1100" >
 
 
+
+<div class="payment">
+
+<h6>
+Enter your information below
+</h6>
+
+
+<form action="https://paypal.me/CambriaLBC" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="A8TXWUL68SNCN">
+<table>
+<tr><td><input type="hidden" name="on0" value="Player Name">Player Name</td></tr><tr><td><input type="text" name="os0" maxlength="200"></td></tr>
+<tr><td><input type="hidden" name="on1" value="email-address">Email-Address</td></tr><tr><td><input type="text" name="os1" maxlength="200"></td></tr>
+<tr><td><input type="hidden" name="on1" value="club-affiliation">Club affiliation</td></tr><tr><td><input type="text" name="os1" maxlength="200"></td></tr>
+</table>
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+</div>
+
 <!-- announce end --></div>
 
 

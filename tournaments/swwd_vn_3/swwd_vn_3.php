@@ -28,16 +28,16 @@
 <div id="rules_ref_w">
 
 
-<!--
 <a href="../../documents/rules_w/vn_3.pdf">SWWD Rules</a><br>
--->
+
+<a href="2020_cop_two.pdf">2020 Conditions of Play</a>
 
 </div>
 
 <div id="announce">
 
 
-<h4>Oaks North - Saturday March 23, 2019</h4>
+<h4>Oaks North - Saturday March 8, 2020</h4>
 
 
 <?php 
@@ -48,9 +48,7 @@ echo '<div id="get_the_flyer"><a href="2020_flyer_swwd_vn_3.pdf">get the flyer f
 ?>
 
 
-<!--
 <img src="2020_flyer_swwd_vn_3.png" width="800" height="723" alt="">
--->
 
 <!--
 <img src="2019_cop.png" width="800" height="1931" alt="">
@@ -60,7 +58,7 @@ echo '<div id="get_the_flyer"><a href="2020_flyer_swwd_vn_3.pdf">get the flyer f
 <!-- announce end --></div>
 
 
-<!--
+
 <div class="payment">
 
 <h6>Enter online via PayPal</h6>
@@ -77,7 +75,6 @@ echo '<div id="get_the_flyer"><a href="2020_flyer_swwd_vn_3.pdf">get the flyer f
 </form>
 
 </div>
--->
 
 
 <a name="entries"></a>
@@ -96,10 +93,16 @@ echo '<div id="get_the_flyer"><a href="2020_flyer_swwd_vn_3.pdf">get the flyer f
 <table class="res2" width="500">
 <tbody>
 <tr>
+<th>2020</th>
+<td class="results"></td>
+<td class="results"></td>
+<td class="results"></td>
+</tr>
+<tr>
 <th>2019</th>
 <td class="results">Joanne Hedgespeth</td>
 <td class="results">Mary Thompson</td>
-<td class="results">Traci Manzi</td>
+<td class="results">Tracy Manzi</td>
 </tr>
 <tr>
 <th>2018</th>

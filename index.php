@@ -119,12 +119,19 @@ end sample -->
               <td class="updates_mixed"><strong><a href=""><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Mar 1 - Oxnard<br>
                   <span class="indent_40"><a href="tournaments/martinez/martinez.php">Amador Martinez Triples</a></span></strong></td>
             </tr>
-
             <tr>
               <td width="12" valign="top"></td>
               <td class="updates_mixed"><strong><a href=""><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Mar 7 - Long Beach<br>
                   <span class="indent_40"><a href="tournaments/carnival/carnival.php">Carnival</a></span></strong></td>
             </tr>
+
+            <tr>
+              <td width="12" valign="top"></td>
+              <td class="updates_women"><strong><a href="tournaments/swwd_vn_3/2020_flyer_swwd_vn_3.pdf"><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Mar 8 - Oaks North <br>
+                  <img class="fltrt" src="tournaments/images/points_women.png" alt="" width="10" height="10" title="women's point events">
+                  <span class="indent_40"><a href="tournaments/swwd_vn_3/swwd_vn_3.php">SWWD Veteran Novice Triples</a></span></strong></td>
+            </tr>
+			  
 
 
             <tr>

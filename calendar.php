@@ -4,7 +4,7 @@
 
 <?php include('0_sitewide_meta_tags.txt'); ?>
 
-<title>2018 Calendar of Events</title>
+<title>Calendar of Events</title>
 
 <link href="0_css_master.css" rel="stylesheet" type="text/css">
 <link href="0_css_site_wide.css" rel="stylesheet" type="text/css">
@@ -1106,15 +1106,6 @@ SEPTEMBER</td>
  <td class="tourn_flyer"><a href="tournaments/swwd_ca_bears/ca_bears.php">former</a></td>
 </tr>
 
-<tr>
- <td class="begin_end">&nbsp;6 Sun</td>
- <td></td>
- <td class="tourn_name_club">The Groves Mixed Triples</td>
-<td></td>
- <td class="tourn_location">The Groves</td>
- <td class="tourn_flyer"><a href="tournaments/groves/groves.php">former</a></td>
-</tr>
-<tr>
 <td class="begin_end">10 Thu - 12 Sat</td>
 <td></td>
 <td class="tourn_name_other"><img src="tournaments/images/non_swd.png" width="20" height="10" alt="Non-SWD Event">North American Challenge<img src="tournaments/images/non_swd.png" width="20" height="10" alt="Non-SWD Event"></td>
@@ -1159,6 +1150,15 @@ SEPTEMBER</td>
 <td></td>
 <td class="tourn_location">Long Beach</td>
 <td class="tourn_flyer"><a href="tournaments/swwd_forbes_vn_3/swwd_forbes_vn_3.php">former</a></td>
+</tr>
+
+<tr>
+ <td class="begin_end">20 Sun</td>
+ <td></td>
+ <td class="tourn_name_club">The Groves Mixed Triples</td>
+<td></td>
+ <td class="tourn_location">The Groves</td>
+ <td class="tourn_flyer"><a href="tournaments/groves/groves.php">former</a></td>
 </tr>
 <tr>
 <td class="begin_end">26 Sat</td>
@@ -2010,6 +2010,23 @@ OCTOBER 2021</td>
  <td></td>
  <td></td>
  <td></td>
+</tr>
+
+<tr>
+ <td></td>
+</tr>
+
+</table>
+
+
+
+<?php require('include/php_footer.txt'); ?>
+
+<!-- end container --></div>
+
+</body>
+</html>
+</td>
 </tr>
 
 <tr>

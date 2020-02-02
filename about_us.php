@@ -85,7 +85,7 @@ Ruggles<br>
 <td class="text_women">Candy<br> 
  DeFazio<br>
 <span class="text_smaller_italic">Long Beach</span></td>
-<td><img src="about_us/z_pending.png" width="150" height="150" alt=""></td>
+<td><img src="about_us/defazio_candy1.png" width="150" height="150" alt=""></td>
 </tr>
 <tr>
 <td><img src="about_us/hargraves_tom.png" width="150" height="150" alt=""></td>

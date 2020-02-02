@@ -13,7 +13,7 @@
 </head>
 
 <body>
-
+	
 <a name="top"></a>
 
 <div class="container">
@@ -22,17 +22,12 @@
 
 <?php include('0_menu_main_short.txt'); ?>
 
+
 <div class="content">
 
-<h1>About Us
-</h1>
-
-<!-- end content --></div>
+<h1>ABOUT US</h1>
 
 
-
-
-<div class="content_2">
 <p>We are a <em>Bowls USA</em> division that includes two independent organizations:</p>
 
 
@@ -54,7 +49,7 @@ Southwest Women's Division (SWWD). </strong>The SWWD is governed by its Delegate
 <tr>
 <th colspan="2" class="text_men"><h3>Southwest Lawn Bowls<br>
 Association (SWLBA)</h3></th>
-<td>2019 Officers</td>
+<td>2020 Officers</td>
 <th colspan="2" class="text_women"><h3>Southwest Women's<br>
 Division (SWWD)</h3></th>
 </tr>
@@ -64,10 +59,10 @@ Division (SWWD)</h3></th>
 McMorris<br>
 <span class="text_smaller_italic">Alhambra</span></td>
  <td class="offices">President</td>
-<td class="text_women">Kottia<br>
-Spangler <br>
-<span class="text_smaller_italic">Riverside</span></td>
-<td><img src="about_us/spangler_kottia.png" width="150" height="150" alt=""></td>
+<td class="text_women">Linda <br>
+  Roberts&nbsp; <br>
+<span class="text_smaller_italic">Laguna Beach</span></td>
+<td><img src="about_us/roberts_linda.png" width="150" height="150" alt=""></td>
 </tr>
 <tr>
 <td><img src="about_us/ruggles_mike.png" width="150" height="150" alt=""></td>
@@ -75,10 +70,10 @@ Spangler <br>
 Ruggles<br>
 <span class="text_smaller_italic">Newport Harbor</span></td>
 <td class="offices">Vice President</td>
-<td class="text_women">Linda<br>
- Roberts<br>
-<span class="text_smaller_italic">Laguna Beach</span></td>
-<td><img src="about_us/roberts_linda.png" width="150" height="150" alt=""></td>
+<td class="text_women">Jan&nbsp;<br>
+ Hargraves<br>
+<span class="text_smaller_italic">Newport Beach</span></td>
+<td><img src="about_us/hargraves_jan.png" width="150" height="150" alt=""></td>
 </tr>
 <tr>
 <td><img src="about_us/barnes_gary.png" width="150" height="150" alt=""></td>
@@ -87,22 +82,24 @@ Ruggles<br>
 <br>
 <span class="text_smaller_italic">Laguna Beach</span></td>
 <td class="offices">Secretary</td>
-<td class="text_women">Verna<br> 
- Wallace<br>
-<span class="text_smaller_italic">Sun City</span></td>
-<td><img src="about_us/wallace_verna.png" width="150" height="150" alt=""></td>
+<td class="text_women">Candy<br> 
+ DeFazio<br>
+<span class="text_smaller_italic">Long Beach</span></td>
+<td><img src="about_us/z_pending.png" width="150" height="150" alt=""></td>
 </tr>
 <tr>
 <td><img src="about_us/hargraves_tom.png" width="150" height="150" alt=""></td>
 <td class="text_men">Tom<br> 
  Hargraves
 <br>
-<span class="text_smaller_italic">Newport Harbor</span></td>
+<span class="text_smaller_italic">Newport Beach</span></td>
+	
 <td class="offices">Treasurer</td>
-<td class="text_women">Nancy Doss<br>
-<span class="text_smaller_italic">Sun City</span></td>
-<td><img src="about_us/doss_nancy.png" width="150" height="150" alt=""/></td>
+<td class="text_women">Tracy Manzi<br>
+<span class="text_smaller_italic">Laguna Beach</span></td>
+<td><img src="about_us/z_pending.png" width="150" height="150" alt=""/></td>
 </tr>
+	
 <tr>
 <td><img src="about_us/barnes_gary.png" width="150" height="150" alt=""></td>
 <td class="text_men">Gary<br>
@@ -110,11 +107,11 @@ Barnes <br>
 <span class="text_smaller_italic">Laguna Beach</span></td>
 <td class="offices">Bowls USA<br>
 Councilor</td>
-<td class="text_women">Margi<br> 
-Rambo
+<td class="text_women">Melanie<br> 
+Vizenor
 <br>
-<span class="text_smaller_italic">Santa Anita</span></td>
-<td><img src="about_us/rambo_margi.png" width="150" height="150" alt=""></td>
+<span class="text_smaller_italic">San Diego</span></td>
+<td><img src="about_us/z_pending.png" width="150" height="150" alt=""></td>
 </tr>
 <tr>
  <td><img src="about_us/dunn_phil.png" width="150" height="150" alt=""></td>
@@ -123,16 +120,16 @@ Dunn<br>
  <span class="text_smaller_italic">Laguna Beach</span></td>
  <td class="offices">Immediate Past<br>
   President</td>
-<td class="text_women">Cheri<br> 
- Cabot<br>
-<span class="text_smaller_italic">Alhambra</span></td>
-<td><img src="about_us/cabot_cheri.png" width="150" height="150" alt=""></td>
+<td class="text_women">Kottia<br> 
+ Spangler<br>
+<span class="text_smaller_italic">Riverside</span></td>
+<td><img src="about_us/spangler_kottia.png" width="150" height="150" alt=""></td>
 </tr>
 </table>
 
 <div class="clearfloat"></div>
 
-<h2>2019 Committees</h2>
+<h2>2020 Committees</h2>
 
 
 
@@ -527,243 +524,9 @@ Sharene Greene</td>
 
 <h2>Recent Former Officers</h2>
 
-<table cellpadding="2" cellspacing="2" id="fmr_off">
-<tr>
-<td><strong>President</strong></td>
-<td><strong>Vice<br>President</strong></td>
-<td><strong>Secretary</strong></td>
-<td><strong>Treasurer</strong></td>
-<td><strong>Councilor</strong></td>
-<td><strong><br>
-</strong></td>
-<td><strong>President</strong></td>
-<td><strong>Vice<br>President</strong></td>
-<td><strong>Secretary</strong></td>
-<td><strong>Treasurer</strong></td>
-<td><strong>Councilor</strong></td>
-</tr>
-<tr>
-<td>Phil<br>
-Dunn</td>
-<td>Sean<br>
-McMorris</td>
-<td>Gary<br>
-Barnes</td>
-<td>Tom<br>
-Hargraves</td>
-<td>Charlie<br>
-Herbert</td>
-<td>2018</td>
-<td>Kottia<br>
-Spangler</td>
-<td>Linda<br>
-Roberts</td>
-<td>Verna<br>
-Wallace</td>
-<td>Nancy<br>
-Doss</td>
-<td>Margi<br>
-Rambo</td>
-</tr>
-<tr>
-<td>Phil<br>
-Dunn</td>
-<td>Sean<br>
-McMorris</td>
-<td>Gary<br>
-Barnes</td>
-<td>Tom<br>
-Hargraves</td>
-<td>Charlie<br>
-Herbert</td>
-<td>2017</td>
-<td>Cheri<br>
-Cabot</td>
-<td>Kottia<br>
-Spangler</td>
-<td>Micky<br>
-Alexander</td>
-<td>Nancy<br>
-Doss</td>
-<td>Jan<br>
-Hargraves</td>
-</tr>
-<tr>
- <td>Scott<br>
-  Roberts</td>
- <td>Phil<br>
-  Dunn</td>
- <td>Tony<br>
-  Head</td>
- <td>Kelly<br>
-  Warren</td>
- <td>Charlie<br>
-  Herbert</td>
- <td>2016</td>
- <td>Cheri<br>
-  Cabot</td>
- <td>Evelyn<br>
-  Lucero</td>
- <td>Micky<br>
-  Alexander</td>
- <td>Nancy<br>
-  Doss</td>
- <td>Jan<br>
-  Hargraves</td>
- </tr>
-<tr>
- <td>Scott<br>
-  Roberts</td>
- <td>Phil<br>
-  Dunn</td>
- <td>Tony<br>
-  Head</td>
- <td>Kelly<br>
-  Warren</td>
- <td>Sam<br>
-  DeLisle</td>
- <td>2015</td>
- <td>Patricia<br>
-  Gonzales</td>
- <td>Cheri<br>
-  Cabot</td>
- <td>Alice<br>
-  Birkinshaw</td>
- <td>Dee<br>
-  McSparran</td>
- <td>Jan<br>
-  Hargraves</td>
- </tr>
-<tr>
- <td>Patrick<br>
-  Collins</td>
- <td>Keno<br>
-  Shaw</td>
- <td>Scott<br>
-  Roberts</td>
- <td>Kelly<br>
-  Warren</td>
- <td>Charlie<br>
-  Herbert</td>
- <td>2014</td>
- <td>Patricia<br>
-  Gonzales</td>
- <td>Cheri<br>
-  Cabot</td>
- <td>Jackie<br>
-  Huisman</td>
- <td>Dee<br>
-  McSparran</td>
- <td>Jan<br>
-  Hargraves</td>
-</tr>
-<tr>
-<td>Patrick<br>Collins</td>
-<td>Tony<br>
-Head</td>
-<td>Scott<br>Roberts</td>
-<td>Kelly<br>Warren</td>
-<td>Sam<br>DeLisle</td>
-<td><strong>2013</strong></td>
-<td>Melanie<br>Vizenor</td>
-<td>Carol<br>
-Poto</td>
-<td>Candy<br>DeFazio</td>
-<td>Dee<br>McSparran</td>
-<td>Carrie<br>Fossati</td>
-</tr>
-<tr>
-<td>Conrad<br>Melton</td>
-<td>Ryan<br>Neptune</td>
-<td>Jim<br>Semanek</td>
-<td>Kelly<br>Warren</td>
-<td>Sam<br>DeLisle</td>
-<td><strong>2012</strong></td>
-<td>Melanie<br>Vizenor</td>
-<td>Georgie<br>Deno</td>
-<td>Candy<br>DeFazio</td>
-<td>Dee<br>McSparran</td>
-<td>Carrie<br>Fossati</td>
-</tr>
-<tr>
-<td>Conrad<br>Melton</td>
-<td>Ryan<br>Neptune</td>
-<td>Jim<br>Semanek</td>
-<td>Kelly<br>Warren</td>
-<td>Sam<br>DeLisle</td>
-<td><strong>2011</strong></td>
-<td>Jan<br>Hargraves</td>
-<td>Melanie<br>Vizenor</td>
-<td>Patty<br>Lucas</td>
-<td>Dee<br>McSparran</td>
-<td>Carrie<br>Fossati</td>
-</tr>
-<tr>
-<td>Howard<br>Harris</td>
-<td>Phil<br>
-Dunn</td>
-<td>Tom<br>Hargraves</td>
-<td>Brian<br>Studwell</td>
-<td>Sam<br>DeLisle</td>
-<td><strong>2010</strong></td>
-<td>Jan<br>Hargraves</td>
-<td>Melanie<br>Vizenor</td>
-<td>Patty<br>Lucas</td>
-<td>Dee<br>McSparran</td>
-<td>Carrie<br>Fossati</td>
-</tr>
-<tr>
-<td>Howard<br>Harris</td>
-<td>Phil<br>Luth</td>
-<td>Tom<br>Hargraves</td>
-<td>Brian<br>Studwell</td>
-<td>Sam<br>DeLisle</td>
-<td><strong>2009</strong></td>
-<td>Maryna<br>Hyland</td>
-<td>Jan<br>Hargraves</td>
-<td>Linda<br>Jahraus</td>
-<td>Dee<br>McSparran</td>
-<td>Heather<br>Stewart</td>
-</tr>
-<tr>
-<td>Mert<br>Isaacman</td>
-<td>Howard<br>Harris</td>
-<td>Conrad<br>Melton</td>
-<td>Brian<br>Studwell</td>
-<td>Sam<br>DeLisle</td>
-<td><strong>2008</strong></td>
-<td>Maryna<br>Hyland</td>
-<td>Jan<br>Hargraves</td>
-<td>Linda<br>Jahraus</td>
-<td>Dee<br>McSparran</td>
-<td>Barbara<br>McCowan</td>
-</tr>
-<tr>
-<td>Mert<br>Isaacman</td>
-<td>Howard<br>Harris</td>
-<td>Conrad<br>Melton</td>
-<td>Brian<br>Studwell</td>
-<td>Sam<br>DeLisle</td>
-<td><strong>2007</strong></td>
-<td>Shirley<br>Price</td>
-<td>Maryna<br>Hyland</td>
-<td>Linda<br>Jahraus</td>
-<td>Dee<br>McSparran</td>
-<td>Barbara<br>McCowan</td>
-</tr>
-<tr>
-<td>Mert<br>Isaacman</td>
-<td>Howard<br>Harris</td>
-<td>Conrad<br>Melton</td>
-<td>Brian<br>Studwell</td>
-<td>Sam<br>DeLisle</td>
-<td><strong>2006</strong></td>
-<td>Shirley<br>Price</td>
-<td>Maryna<br>Hyland</td>
-<td>Verna<br>Wallace</td>
-<td>Sybil<br>Bernash</td>
-<td>Barbara<br>McCowan</td>
-</tr>
+
+
+<iframe width='1600' height='660' frameborder='0'src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT-HZPerH4UuGUHwnouzrJm9mLX7KA9Z_6252ufLTDmSXL_UJs2SkP-Y6kmpbraGPTeBA3yS5Nvh6wZ/pubhtml?gid=1099021709&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 <!--
 <tr>
@@ -1326,8 +1089,6 @@ Ashton-Phillips</td>
 </tr>
 -->
 
-</table>
-
 
 <h2>Former Presidents <em><span class="font_14">(from information in Southwest Division Yearbook and Directory of Clubs)</span></em></h2>
 
@@ -1753,8 +1514,6 @@ Southwest Women (SWWD)</th>
 </table>
 
 
-
-<!-- end content2 --></div>
 
 <?php require('include/php_footer.txt'); ?>
 

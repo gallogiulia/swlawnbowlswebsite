@@ -213,12 +213,13 @@ end sample -->
                     <dt>Secretary: Tony Head</dt>
                     <dt>Councilor: Gary Barnes</dt>
     </dl>
-              
-  </center>
-	<p>&nbsp;</p>
-	<center><p>Here are the nominations for the SWWD Board for 2020: </p>
-  <center>
-                <dl>
+	  </center>
+	  <p> </p>
+	  <p> </p>
+	
+<p>On January 30th, the SWWD installed its new board:</p>
+	<center>
+	  			              <dl>
                   
                     <dt>President: Linda Roberts</dt>
                     <dt>Vice-President: Jan Hargraves</dt>
@@ -226,7 +227,7 @@ end sample -->
                     <dt>Secretary: Candy DeFazio</dt>
                     <dt>Councilor: Melanie Vizenor</dt>
     </dl>
-  </center>            
+              
   </center>
 
   <p>

@@ -36,6 +36,16 @@
 
 <br>
 
+	
+<div id="rules_ref_w">
+
+
+<a href="../../documents/rules_w/play.pdf">SWWD Rules</a><br>
+
+
+<a href="2020_cop_swwd_play_1.pdf">2020 Conditions of Play</a>
+
+</div>
 <!--
 <a href="../../documents/rules_w/play.pdf">SWWD Rules</a>
 
@@ -49,9 +59,9 @@
 
 
 <h4>Prelim: Newport Harbor - 
-Sat &amp; Sun, July 13 &amp; 14, 2019<br>
+Sat &amp; Sun, Mar 14 &amp; 15, 2020<br>
 Final: Newport Harbor - 
-Sat &amp; Sun, Jul 20 &amp; 21 , 2019</h4>
+Sat &amp; Sun, Mar 21 &amp; 22 , 2020</h4>
 
 
 <?php 
@@ -61,9 +71,7 @@ echo '<div id="get_the_flyer"><a href="2020_flyer_swwd_play_1.pdf">get the flyer
 }
 ?>
 
-<!--
 <img src="2020_flyer_swwd_play_1.png" width="800" height="887" alt=""/>
--->
 
 <!--
 <img src="2020_cop_play_1.png" width="800" height="2171" alt=""/>

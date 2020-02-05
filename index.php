@@ -131,6 +131,12 @@ end sample -->
                   <img class="fltrt" src="tournaments/images/points_women.png" alt="" width="10" height="10" title="women's point events">
                   <span class="indent_40"><a href="tournaments/swwd_vn_3/swwd_vn_3.php">SWWD Veteran Novice Triples</a></span></strong></td>
             </tr>
+			  <tr>
+              <td width="12" valign="top"></td>
+              <td class="updates_women"><strong><a href="tournaments/swwd_play_1/2020_flyer_swwd_play_1.pdf"><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Mar 14-15 - Newport<br>
+                  <img class="fltrt" src="tournaments/images/points_women.png" alt="" width="10" height="10" title="women's point events">
+                  <span class="indent_40"><a href="tournaments/swwd_play_1/swwd_play_1.php">SWWD Singles Playdowns</a></span></strong></td>
+            </tr>
 			  
 
 

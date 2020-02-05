@@ -440,7 +440,7 @@ MARCH
 <tr>
 <td class="begin_end">28 Sat</td>
 <td></td>
-<td class="tourn_name_club">Mix/Match Aussie Pairs</td>
+<td class="tourn_name_club"><a href="tournaments/sun_city_aus_2/sun_city_aus_2.php">Mix/Match Aussie Pairs</a></td>
 <td></td>
 <td class="tourn_location">Sun City</td>
 <td class="tourn_flyer"><a href="tournaments/sun_city_aus_2/sun_city_aus_2.php">former</a></td>

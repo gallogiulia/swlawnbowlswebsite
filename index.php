@@ -145,6 +145,12 @@ end sample -->
               <td class="updates_mixed"><strong><a href=""><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Mar 28-29 - Cambria<br>
                   <span class="indent_40"><a href="tournaments/cambria/cambria.php">Cambria Open Singles</a></span></strong></td>
             </tr>
+			
+            <tr>
+              <td width="12" valign="top"></td>
+              <td class="updates_mixed"><strong><a href=""><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Mar 28 Sun City<br>
+                  <span class="indent_40"><a href="tournaments/sun_city_aus_2/sun_city_aus_2.php">Sun City Aussie Pairs</a></span></strong></td>
+            </tr>
 
 
 

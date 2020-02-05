@@ -22,14 +22,9 @@
 
 <?php include('0_menu_main_short.txt'); ?>
 
-<div class="content_top">
+
 <h1>2020 Tournament Schedule</h1>
-</div>
-<div class="content">
-
-
-
-<p><span class="fltrt_20"><a href="https://docs.google.com/document/d/e/2PACX-1vQLbOcNXNyVoefaSIy_VgxVL4dnyf4KJsvl0h4F3lAOLfz532OwqyYZZ6JIn4_kRlO5xaar_7zdbBWs/pub">Printer-Friendly Version</a></span>For questions or comments, contact:<br>
+<p>For questions or comments, contact:<br>
 <span class="indent_100">Men's Sponsor - <a href="mailto:scottroberts1269@gmail.com">Scott Roberts</a></span><br>
 <span class="indent_100">Women's Sponsor - <a href="mailto:anne.nunes@roadrunner.com">Anne Nunes</a></span><br>
 <span class="indent_100">Club Events - Club President</span></p>
@@ -73,11 +68,10 @@
 </h1>
 
 
-<!-- content end --></div>
-
+	
 <?php require('include/php_footer.txt'); ?>
-
-<!-- container end --></div>
+<!-- container end -->
+</div>
 
 </body>
 </html>

@@ -19,21 +19,15 @@
 
 <?php include('0_menu_main_short.txt'); ?>
 
-<div class="content">
 
 <h1>TOURNAMENT RESULTS</h1>
 
-<!-- end content --></div>
 
-<div class="clearfloat"></div>
-
-<div class="title">
 <p>Results for scheduled division tournaments are listed below (most recent on top).<br>
 For more information inlcuding players, prior winners, flyers<br>
 and photos (when available), click on the &quot;go to web page&quot; links.
 <br>
 <span class="font_color_men"><strong>Men's Division (Blue)</strong></span><strong> - <span class="font_color_women">Women's Division (Red)</span> - Club (Black)</strong></p>
-</div>
 
 
 <div class="tour_results">
@@ -2726,11 +2720,8 @@ Riverside</h3>
 &nbsp;8 'B' entries</p>
 <span class="web_page"><a href="tournaments/swwd_mumma/mumma.php">go to web page</a></span>
 </div>
-</div>
 
 
-
-</div><!-- end tour_results -->
 
 <?php require('include/php_footer.txt'); ?>
 

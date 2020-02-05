@@ -6,16 +6,6 @@
 <title>Clubs</title>
 <link href="0_css_master.css" rel="stylesheet" type="text/css">
 <link href="0_css_site_wide.css" rel="stylesheet" type="text/css">
-<link href="clubs.css" rel="stylesheet" type="text/css">
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script> 
-<script type="text/javascript" src="0_javascript/jquery.tablesorter.js"></script>
-	<script type="text/javascript">
-	$(document).ready(function() 
-    { 
-        $("#clubs").tablesorter(); 
-    } 
-);     
-	</script>
 
 </head>
 
@@ -31,33 +21,7 @@
 
 <div class="content">
 
-<h1>CLUBS<br>
-
-</h1>
-
-<!-- end content --></div>
-
-<div class="clearfloat"></div>
-
-<!--
-<table id="districts">
-<tr>
-<th class="distCentral">Central </th>
-<th class="distCitrus"> Citrus  </th>
-<th class="distCoast">  Coast   </th>
-<th class="distNorth">  North   </th>
-<th class="distOrange"> Orange  </th>
-<th class="distSouth">  South   </th>
-<th class="distWest">   West    </th>
-</tr>
-</table>
--->
-
-<div class="clearfloat"></div>
-
-<table id="intro">
-<tr>
-<td>
+<h1>CLUBS</h1>
 
 <p>The Southwest Division includes twenty-eight affiliated clubs. The SWLBA groups them into seven geographical districts as shown here. Several non-affiliated clubs lie within the division boundaries.</p>
 
@@ -495,7 +459,7 @@ Club Representatives: Please <a href="mailto:sw.bowls@gmail.com?subject=Club%20I
 
 
 
-
+</div>
 
 <?php require('include/php_footer.txt'); ?>
 

@@ -37,7 +37,7 @@ Australian Pairs<br>
 <div id="announce">
 
 
-<h4>Sun City - Sunday, April 28, 2019</h4>
+<h4>Sun City - Saturday, March 28, 2020</h4>
 
 
 <?php 
@@ -48,15 +48,15 @@ echo '<div id="get_the_flyer"><a href="2020_flyer_aus_2.pdf">get the flyer for f
 ?>
 
 
-<!--
+
 <img src="2020_flyer_aus_2.png" width="800" height="1059" alt="">
--->
+
 
 
 <!-- announce end --></div>
 
 
-<!--
+
 <div class="payment">
 
 <h6>PayPal Entry </h6>
@@ -75,7 +75,7 @@ echo '<div id="get_the_flyer"><a href="2020_flyer_aus_2.pdf">get the flyer for f
 </form>
 
 </div>
--->
+
 
 
 <a name="entries"></a>

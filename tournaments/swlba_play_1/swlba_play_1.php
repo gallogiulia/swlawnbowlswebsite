@@ -29,9 +29,19 @@
 
 <div id="rules_ref_w">
 <a href="http://www.bowlsusa.us/uploads/5/6/6/6/56665383/domestic_regulations_2015-09-04-1.pdf#champ">BowlsUSA Rules</a><br>
-<a href="../../documents/rules_m/play_1.pdf">SWLBA ("Blue Book") Rules</a></div>
+<a href="../../documents/rules_m/play_1.pdf">SWLBA ("Blue Book") Rules</a><br>
+	<a href="2020_cop_swlba_play_1.pdf">2020 Conditions of Play</a>
+
+	</div>
 
 <div id="announce">
+
+
+<h4>Prelim: Newport Harbor - 
+Sat &amp; Sun, Mar 14 &amp; 15, 2020<br>
+Final: Newport Harbor - 
+Sat &amp; Sun, Mar 21 &amp; 22 , 2020</h4>
+
 
 <?php 
 if (file_exists('2020_flyer_swlba_play_1.pdf')) 
@@ -40,10 +50,15 @@ echo '<div id="get_the_flyer"><a href="2020_flyer_swlba_play_1.pdf">get the flye
 }
 ?>
 
+<img src="2020_flyer_swlba_play_1.png" width="800" height="887" alt=""/>
 
-<h4>Newport Harbor<br>
-Prelim: Saturday &amp; Sunday, June 1 &amp; 2, 2019<br>
-Final: Saturday &amp; Sunday, June 8 &amp; 9, 2019</h4>
+<!--
+<img src="2020_cop_play_1.png" width="800" height="2171" alt=""/>
+-->
+
+</div><!-- announce end -->
+
+
 
 
 <!--
@@ -54,7 +69,7 @@ Final: Saturday &amp; Sunday, June 8 &amp; 9, 2019</h4>
 <!-- announce end --></div>
 
 
-<!--
+
 <div class="payment">
 
 <h6>PayPal Entry&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h6>
@@ -70,7 +85,7 @@ Final: Saturday &amp; Sunday, June 8 &amp; 9, 2019</h4>
 </form>
 
 </div>
--->
+
 
 
 <a name="entries"></a>

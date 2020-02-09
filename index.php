@@ -138,6 +138,13 @@ end sample -->
                   <span class="indent_40"><a href="tournaments/swwd_play_1/swwd_play_1.php">SWWD Singles Playdowns</a></span></strong></td>
             </tr>
 			  
+			  <tr>
+              <td width="12" valign="top"></td>
+              <td class="updates_men"><strong><a href="tournaments/swlba_play_1/2020_flyer_swlba_play_1.pdf"><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Mar 14-15 - Newport<br>
+                  <img class="fltrt" src="tournaments/images/points_men.gif" alt="" width="10" height="10" title="men's point events">
+                  <span class="indent_40"><a href="tournaments/swlba_play_1/swlba_play_1.php">SWLBA Singles Playdowns</a></span></strong></td>
+            </tr>
+			  
 
 
             <tr>

@@ -392,7 +392,7 @@ MARCH
 <tr>
 <td class="begin_end">14 Sat - 15 Sun</td>
 <td class="points_cell" ><img src="tournaments/images/points_men.png" alt="" width="10" height="10" class="points_button"></td>
-<td class="tourn_name_swlba"><span class="rules_txt"><a href="documents/rules_m/play_1.pdf">Rules</a></span>US Singles Playdowns <span class="font_12 text_black"><em>(Prelim)</em></span></td>
+<td class="tourn_name_swlba"><span class="rules_txt"><a href="documents/rules_m/play_1.pdf">Rules</a><a href="tournaments/swlba_play_1/swlba_play_1.php"></span>US Singles Playdowns <span class="font_12 text_black"><em>(Prelim)</em></span></td>
 <td></td>
 <td class="background_light_yellow">TBD</td>
 <td class="tourn_flyer"><a href="tournaments/swlba_play_1/swlba_play_1.php">former</a></td>
@@ -422,7 +422,7 @@ MARCH
 <tr>
 <td class="begin_end">21 Sat - 22 Sun</td>
 <td class="points_cell" ><img src="tournaments/images/points_men.png" alt="" width="10" height="10" class="points_button"></td>
-<td class="tourn_name_swlba"><span class="rules_txt"><a href="documents/rules_m/play_1.pdf">Rules</a></span>US Singles Playdowns<span class="font_12 text_black"><em>(Final)</em></span></td>
+<td class="tourn_name_swlba"><span class="rules_txt"><a href="documents/rules_m/play_1.pdf">Rules</a><a href="tournaments/swlba_play_1/swlba_play_1.php"></span>US Singles Playdowns <span class="font_12 text_black"><em> (Final)</em></span></td>
 <td></td>
 <td class="background_light_yellow">TBD</td>
 <td class="tourn_flyer"><a href="tournaments/swlba_play_1/swlba_play_1.php">former</a></td>

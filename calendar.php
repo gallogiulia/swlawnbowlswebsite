@@ -481,9 +481,9 @@ APRIL</td>
 <tr>
 <td class="begin_end">&nbsp;4 Sat</td>
 <td></td>
-<td class="tourn_name_swwd"><!--
-  <span class="rules_txt"><a href="documents/rules_w/five_star.pdf">Rules</a></span>
--->
+<td class="tourn_name_swwd">
+  <span class="rules_txt"><a href="documents/rules_w/five_star.pdf">Rules</a><a href="tournaments/swwd_cal_5s/swwd_cal_5s.php"></span>
+
 Women's Cal 5's</td>
 <td></td>
 <td class="tourn_location">Laguna Woods</td>

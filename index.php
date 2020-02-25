@@ -68,38 +68,11 @@
               <td colspan="2"></td>
             </tr>
 
-
-            <!-- ------Begin Tournaments------- -->
-
-            <!--
-<tr>
-<td width="12" valign="top" class="results_box"><a href="tournaments/swlba_waterbury/waterbury.php#results">R</a></td>
-<td class="updates_mixed"><strong><a href="https://docs.google.com/spreadsheet/pub?key=0Aloq6hwfreAWdGF5d3IwMGFRV0g5LU1BSWxuNjEtNmc&output=html&widget=true"><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Nov 16 - Newport Harbor<br>
-<span class="indent_40"><a href="tournaments/swlba_waterbury/waterbury.php">Waterbury</a></span><br>
-<span class="indent_40"><a href="https://docs.google.com/spreadsheets/d/1HHf3uqn2WHtZVaw1vQnKzuHnCVgcrCqDHIbHuPPsPLE/edit?ts=5dcb4471#gid=0">CHART</a></span></strong></td>
-</tr>
--->
-
-
-
-
-
             <tr>
               <td width="12" height="46" valign="top"></td>
               <td class="updates_general">&nbsp;</td>
             </tr>
 
-
-
-            <!-- sample listing with points -->
-            <!--
-<tr>
-<td width="12" valign="top"></td>
-<td class="updates_women"><strong><a href="https://docs.google.com/spreadsheet/pub?key=0Aloq6hwfreAWdExfWDV2bE5QTkVHNWktbnFjdVI1aGc&output=html&widget=true"><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Sep 7 - Laguna Beach<br>
-<img class="fltrt" src="tournaments/images/points_women.png" alt="" width="10" height="10" title="women's point events">
-<span class="indent_40"><a href="tournaments/swwd_ca_bears/ca_bears.php">California Bears</a></span></strong></td>
-</tr>
-end sample -->
 
             <tr>
               <td width="12" valign="top"></td>
@@ -204,17 +177,17 @@ end sample -->
           HOME
         </center>
       </strong></h1>
-<div class="alerts"> <a href="alerts_2016.php"><img src="index/alerts.png" width="80" height="80" alt="E-Mail Alerts">sign up for<br>
-          e-mail alerts</a>
-        <br><br>
-        <a href="https://www.facebook.com/swbowls"><img src="index/facebook.png" width="80" height="80" alt="" title="visit our Facebook page" /></a>
-  </div>
+  <div class="alerts"> <a href="alerts_2016.php"><img src="index/alerts.png" width="80" height="80" alt="E-Mail Alerts">sign up for<br>
+            e-mail alerts</a>
+          <br><br>
+          <a href="https://www.facebook.com/swbowls"><img src="index/facebook.png" width="80" height="80" alt="" title="visit our Facebook page" /></a>
+    </div>
 
 
       <p>Welcome to the home of bowls (<em>a.k.a., lawn bowling</em>) in Southern California. The Southwest is one of seven divisions of <a href="http://bowlsusa.us/"><em>Bowls USA</em></a>.</p>
 
       <p>New to the sport? Everything you'll need to know is contained in the <a href="documents/WorldBowlsIntroductionToLawnBowls.pdf">Introductory Manual to Lawn Bowls</a>. </p>
-
+f
       <p>Upcoming division tournaments and other events appear on the right as they are announced. Visit the <em><a href="calendar.php">Calendar</a></em> for complete details or the <em><a href="tournaments.php">Tournaments</a></em> page for just the schedule.<span class="font_12"></span></p>
 
 

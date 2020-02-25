@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<head>
+    <title>Test Google Calendar</title>
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+</head>
+<body>
+
+<div class="wrap">
+    <h1>Google Calendar Events</h1>
+
+    <h2>Demo 1 - Full Display</h2>
+    <div class="google_cal_1"></div>
+
+    <h2>Demo 2 - Titles Only</h2>
+    <div class="google_cal_2"></div>
+</div>
+
+<script src="dist/jquery-google-calendar-events.js"></script>
+<script>
+	$('.google_cal_1').google_calendar_events({
+		key: 'AIzaSyAKXxFqSA8EztDIYorwtCnpktdyhnhZ0c4', // Add your google api key here
+		calendar: 'en.christian#holiday@group.v.calendar.google.com',
+	});
+
+	$('.google_cal_2').google_calendar_events({
+		key: 'AIzaSyAKXxFqSA8EztDIYorwtCnpktdyhnhZ0c4', // Add your google api key here
+		calendar: 'usa__en@holiday.calendar.google.com',
+		#calendar: 'en.christian#holiday@group.v.calendar.google.com',
+	});
+</script>
+
+</body>
+</html>

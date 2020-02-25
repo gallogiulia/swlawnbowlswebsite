@@ -26,6 +26,10 @@
 
 <h1>LINKS</h1>
 <p>For Southwest Division club websites, visit the <strong>Clubs</strong> link at left.</p>
+<p><a href="green_jack.php">The Green Jack</p>
+<p><a href="etiquette.php">Bowling Etiquette</p>
+<p><a href="glossary.php">Bowling Glossary</p>
+<p><a href="rules.php">Bowling Rules</p>
 
 <div class="linksGroup">
 

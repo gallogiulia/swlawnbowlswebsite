@@ -42,7 +42,9 @@
 
 <p>Team Southwest is recognition of top tournament performance in certain men's and women's division tournaments for a calendar year (they are identified like this <img src="tournaments/_images/points_men.gif" width="10" height="10" alt="Men's Points"> or this <img src="tournaments/_images/points_women.gif" width="10" height="10" alt="Women's Points"> on the Home and Calendar pages). The men's division recognizes the top fourteen players and the women recognize nine. The individuals are announced at the respective January Annual General Meetings.</p>
 
-<p>See the <strong><em>Standings</em></strong> pages for complete points results.</p>
+<p>See the <strong><em>Standings</em></strong> pages for complete points results:></p>
+<p><a href="standings_m.php">Men's Standings</p>
+<p><a href="standings_w.php">Women's Standings</p>
 
 
 <table class="team_sw">

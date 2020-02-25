@@ -29,19 +29,19 @@
 
 <div id="rules_ref_w">
 
-<!--<a href="../../documents/rules_w/five_star.pdf">SWWD Rules</a>
--->
+<a href="../../documents/rules_w/five_star.pdf">SWWD Rules</a>
 
-<!--
-<a href="2019_cop_cal5s.pdf">Conditions of Play</a>
--->
+</div>
+<div id="rules_ref_w">
+<a href="2020_COP_Cal5s.pdf">Conditions of Play</a>
+
  
 </div>
 
 <div id="announce">
  
 
-<h4>Laguna Woods - Saturday, July 6, 2019</h4>
+<h4>Laguna Woods - Saturday, April 4, 2020</h4>
 
 
 <?php 
@@ -51,16 +51,16 @@ echo '<div id="get_the_flyer"><a href="2020_flyer_cal5s.pdf">get the flyer for f
 }
 ?>
 
-<!--
+
 <img src="2020_flyer_cal5s.png" width="800" height="841" alt=""/>
--->
+
 
 <!--
 <img src="2020_cop_cal5s.png" width="800" height="1942" alt=""/>
 -->
 
 
-<!--
+
 <div class="payment">
 
 <h6>
@@ -78,7 +78,7 @@ Enter online via PayPal
 </form>
 
 </div>
--->
+
 
 
 <!-- announce end --></div>

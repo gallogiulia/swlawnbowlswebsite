@@ -100,13 +100,14 @@
 <span class="indent_40"><a href="tournaments/swwd_ca_bears/ca_bears.php">California Bears</a></span></strong></td>
 </tr>
 end sample -->
-
+<!--
             <tr>
               <td width="12" valign="top"></td>
               <td class="updates_women"><strong><a href="tournaments/swwd_mumma/2020_flyer_mumma.pdf"><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Feb 22 - Riverside<br>
                   <img class="fltrt" src="tournaments/images/points_women.png" alt="" width="10" height="10" title="women's point events">
                   <span class="indent_40"><a href="tournaments/swwd_mumma/mumma.php">SWWD Mumma Mixed Pairs</a></span></strong></td>
             </tr>
+-->
 			<tr>
               <td width="12" valign="top"></td>
               <td class="updates_women"><strong><a href="tournaments/swwd_vnmm_3/2020_flyer_swwd_vnmm_3.pdf"><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Feb 29 - Santa Anita<br>
@@ -140,7 +141,7 @@ end sample -->
 			  
 			  <tr>
               <td width="12" valign="top"></td>
-              <td class="updates_men"><strong><a href="tournaments/swlba_play_1/2020_flyer_swlba_play_1.pdf"><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Mar 14-15 - Newport<br>
+              <td class="updates_men"><strong><a href="tournaments/swlba_play_1/2020_flyer_swlba_play_1.pdf"><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Mar 14-15 - Long Beach<br>
                   <img class="fltrt" src="tournaments/images/points_men.gif" alt="" width="10" height="10" title="men's point events">
                   <span class="indent_40"><a href="tournaments/swlba_play_1/swlba_play_1.php">SWLBA Singles Playdowns</a></span></strong></td>
             </tr>
@@ -157,6 +158,12 @@ end sample -->
               <td width="12" valign="top"></td>
               <td class="updates_mixed"><strong><a href=""><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Mar 28 Sun City<br>
                   <span class="indent_40"><a href="tournaments/sun_city_aus_2/sun_city_aus_2.php">Sun City Aussie Pairs</a></span></strong></td>
+            </tr>
+			             <tr>
+              <td width="12" valign="top"></td>
+              <td class="updates_women"><strong><a href="tournaments/swwd_cal_5s/2020_flyer_cal5s.png"><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Apr 4 - Laguna Woods<br>
+                  <img class="fltrt" src="tournaments/images/points_women.png" alt="" width="10" height="10" title="women's point events">
+                  <span class="indent_40"><a href="tournaments/swwd_cal_5s/swwd_cal_5s.php">SWWD Cal 5's</a></span></strong></td>
             </tr>
 
 
@@ -223,7 +230,13 @@ end sample -->
         <center>
           RECENT NEWS
         </center>
+
+      <h3> TOURNAMENT CANCELLATION </h3>
+
+      <p><b>The Mumma Mixed Pairs Tournament in Riverside scheduled for Saturday Feb 22 has been cancelled due to forecasts of rain for the entire morning. </b>Mother Nature is not helping us welcome the 2020 Tournament Season. <b>Thank you to all the club members at Riverside</b> for the time and effort they have spent getting ready for this event. We do appreciate all their efforts. And a special thank you to <b>Jo Mumma</b> for her willingness to sponsor this tournament year after year! All teams will be contacted but please help spread the word. Thank you.</p>
+        
         <h3>2020 Team USA announced! </h3>
+
         <p>Congratulations to all the players who were selected to represent the USA at the upcoming international events! The Southwest Men's and Women's Division are well represented!</em>
           Click <a href="http://www.bowlsusa.us/us-players-by-event.html">here</a> to find out where our players will go play.<p>&nbsp;</p>
 

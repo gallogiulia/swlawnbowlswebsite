@@ -26,7 +26,7 @@
 
 <h1>MEN'S STANDINGS</h1>
 
-<p>Men's Standings are based on bowler performance in the SWLBA-sponsored events shown (detailed in the <a href="documents/SWLBA_Blue_Book_2019_03_06.pdf">Blue&nbsp;Book</a>). The events are noted on the calendar by a blue square (<img src="tournaments/_images/points_men.gif" width="10" height="10" alt="Men's Point Tournaments">).</p>
+<p>Men's Standings are based on bowler performance in the SWLBA-sponsored events shown (detailed in the <a href="documents/SWLBA_Blue_Book_2019_SR_021920.pdf">Blue&nbsp;Book</a>). The events are noted on the calendar by a blue square (<img src="tournaments/_images/points_men.gif" width="10" height="10" alt="Men's Point Tournaments">).</p>
 
 
 <!--

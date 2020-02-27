@@ -44,15 +44,14 @@ echo '<div id="get_the_flyer"><a href="2020_flyer_socal_3.pdf">get the flyer for
 ?>
 
 
-<!--
 <img src="2020_flyer_socal_3.png" alt="Flyer" width="800" height="948" />
--->
+
 
 
 <!-- announce end --></div>
 
 
-<!--
+
 <div class="payment">
 
 <h6>Enter online via PayPal</h6>
@@ -71,7 +70,7 @@ echo '<div id="get_the_flyer"><a href="2020_flyer_socal_3.pdf">get the flyer for
 </form>
 
 </div>
--->
+
 
 <!--
 <p class="corrections"><span class="background_yellow">send corrections to</span>: <a href="mailto:scottroberts1269@gmail.com">scottroberts1269@gmail.com</a></p>

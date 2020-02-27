@@ -492,7 +492,7 @@ Women's Cal 5's</td>
 <tr>
 <td class="begin_end">&nbsp;4 Sat - &nbsp;5 Sun</td>
 <td class="points_cell"><img src="tournaments/images/points_men.png" alt="" width="10" height="10" class="points_button"></td>
-<td class="tourn_name_swlba"><span class="rules_txt"><a href="documents/rules_m/socal_3_4.pdf">Rules</a></span>SoCal Triples</td>
+<td class="tourn_name_swlba"><span class="rules_txt"><a href="documents/rules_m/socal_3_4.pdf">Rules</a><a href="tournaments/swlba_socal_3/so_cal_3.php"></span>SoCal Triples</td>
 <td></td>
 <td class="tourn_location">San Diego</td>
 <td class="tourn_flyer"><a href="tournaments/swlba_socal_3/so_cal_3.php">former</a></td>

@@ -165,6 +165,13 @@ end sample -->
                   <img class="fltrt" src="tournaments/images/points_women.png" alt="" width="10" height="10" title="women's point events">
                   <span class="indent_40"><a href="tournaments/swwd_cal_5s/swwd_cal_5s.php">SWWD Cal 5's</a></span></strong></td>
             </tr>
+			  
+			    <tr>
+              <td width="12" valign="top"></td>
+              <td class="updates_men"><strong><a href="tournaments/swlba_socal_3/2020_flyer_socal_3.pdf"><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Apr 4-5 - San Diego<br>
+                  <img class="fltrt" src="tournaments/images/points_men.gif" alt="" width="10" height="10" title="men's point events">
+                  <span class="indent_40"><a href="tournaments/swlba_socal_3/so_cal_3.php">SWLBA Southern California Triples</a></span></strong></td>
+            </tr>
 
 
 

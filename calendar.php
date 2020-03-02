@@ -919,22 +919,16 @@ JULY</td>
 <td class="tourn_location">Long Beach</td>
 <td class="tourn_flyer"><a href="tournaments/gonzales/gonzales.php">former</a></td>
 </tr>
+	
 <tr>
-<td class="begin_end">25 Sat</td>
+ <td class="begin_end">&nbsp;25 Sat - &nbsp;26 Sun</td>
+ <td></td>
+ <td class="tourn_name_club">Laguna Beach Open Pairs<br></td>
 <td></td>
-<td class="tourn_name_club">San Diego Mixed Triples</td>
-<td></td>
-<td class="tourn_location">San Diego</td>
-<td class="tourn_flyer"><a href="tournaments/sand_trips/sand_trips.php">former</a></td>
+ <td class="tourn_location">Laguna Beach</td>
+ <td class="tourn_flyer"><a href="tournaments/lagb_pairs/lagb_pairs.php">former</a></td>
 </tr>
-<tr>
-<td class="begin_end">26 Sun</td>
-<td></td>
-<td class="tourn_name_club">Wasserman Mixed Pairs</td>
-<td></td>
-<td class="tourn_location">San Diego</td>
-<td class="tourn_flyer"><a href="tournaments/sand_pairs/sand_pairs.php">former</a></td>
-</tr>
+
 
  <tr>
   <td></td>
@@ -985,15 +979,25 @@ AUGUST</td>
   <td class="tourn_flyer"><a href="tournaments/swlba_cary_mac/cary_mac.php">former</a></td>
 </tr>
 
-<tr>
- <td class="begin_end">&nbsp;8 Sat - &nbsp;9 Sun</td>
- <td></td>
- <td class="tourn_name_club">Laguna Beach Open Pairs<br></td>
-<td></td>
- <td class="tourn_location">Laguna Beach</td>
- <td class="tourn_flyer"><a href="tournaments/lagb_pairs/lagb_pairs.php">former</a></td>
-</tr>
 
+<tr>
+<td class="begin_end">8 Sat</td>
+<td></td>
+<td class="tourn_name_club">San Diego Mixed Triples</td>
+<td></td>
+<td class="tourn_location">San Diego</td>
+<td class="tourn_flyer"><a href="tournaments/sand_trips/sand_trips.php">former</a></td>
+</tr>
+<tr>
+<td class="begin_end">9 Sun</td>
+<td></td>
+<td class="tourn_name_club">Wasserman Mixed Pairs</td>
+<td></td>
+<td class="tourn_location">San Diego</td>
+<td class="tourn_flyer"><a href="tournaments/sand_pairs/sand_pairs.php">former</a></td>
+</tr>	
+	
+	
 <tr>
 <td class="begin_end">15 Sat</td>
 <td></td>

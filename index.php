@@ -235,13 +235,24 @@ end sample -->
       <h2>&nbsp;</h2>
       <h3>
         <center>
+          Tournament Results
+        </center>
+        
+        <h3>SWWD Mix/Match Vet-Novice Triples </h3>
+
+        <em>Congratulations to all players and novices!</em><p>
+        <h2>&nbsp;</h2>
+        <iframe width='400' height='400' frameborder='0' 
+        src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQFiCo14ljY45x9eIf7tD3KWpB5JHJwboNJJQHe861dIeitBOU6mrSZo4mxj61Hx45jauMCgzSZnUA7/pubhtml?gid=908697081&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+        
+        <p>Click <a href="https://swlawnbowls.org/tournaments/swwd_vnmm_3/swwd_vnmm_3.php">here</a> to look at the overall results.<p>&nbsp;</p>
+      <h2>&nbsp;</h2>
+      <h3>
+        <center>
           RECENT NEWS
         </center>
 
-      <h3> TOURNAMENT CANCELLATION </h3>
-
-      <p><b>The Mumma Mixed Pairs Tournament in Riverside scheduled for Saturday Feb 22 has been cancelled due to forecasts of rain for the entire morning. </b>Mother Nature is not helping us welcome the 2020 Tournament Season. <b>Thank you to all the club members at Riverside</b> for the time and effort they have spent getting ready for this event. We do appreciate all their efforts. And a special thank you to <b>Jo Mumma</b> for her willingness to sponsor this tournament year after year! All teams will be contacted but please help spread the word. Thank you.</p>
-        
+      
         <h3>2020 Team USA announced! </h3>
 
         <p>Congratulations to all the players who were selected to represent the USA at the upcoming international events! The Southwest Men's and Women's Division are well represented!</em>

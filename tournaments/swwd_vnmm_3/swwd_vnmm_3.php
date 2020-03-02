@@ -110,9 +110,22 @@ click Pay Now
 
 
 <h2>Veteran-Novice
-Mix or Match Triples - RESULTS</h2>
+Mix or Match Triples - First Places</h2>
 
 
+<iframe width='1200' height='400' frameborder='0'
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQFiCo14ljY45x9eIf7tD3KWpB5JHJwboNJJQHe861dIeitBOU6mrSZo4mxj61Hx45jauMCgzSZnUA7/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+<h2>Veteran-Novice
+Mix or Match Triples - Historical Results</h2>
+
+<iframe width='1000' height='1050' frameborder='0'
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQFiCo14ljY45x9eIf7tD3KWpB5JHJwboNJJQHe861dIeitBOU6mrSZo4mxj61Hx45jauMCgzSZnUA7/pubhtml?gid=1902548542&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+
+
+
+<!--
 <table class="res2" width="800">
 <tbody>
 <tr>
@@ -714,8 +727,7 @@ It was a great sunny spring day at Santa Anita BGC and thank you to the  members
 </tr>
 </table>
 </div>
-
-
+-->
 <?php require('../../include/php_footer.txt'); ?>
 
 <!-- container end --></div>

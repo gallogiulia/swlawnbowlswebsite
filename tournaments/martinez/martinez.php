@@ -74,6 +74,19 @@
 
 <a name="results"></a>
 
+
+<h2>Amador Martinez Triples - First Places</h2>
+
+
+<iframe width='1200' height='400' frameborder='0'
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSWTkuPHZvrt6mXqAU3UU_hn0qnVMiZ5-y5PlBnT3C--hSx6H7WzM-vB9sa5v4rKO-I4q6kxfkNu26B/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+<h2>Amador Martinez Triples - Historical Results</h2>
+
+<iframe width='1000' height='1050' frameborder='0'
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSWTkuPHZvrt6mXqAU3UU_hn0qnVMiZ5-y5PlBnT3C--hSx6H7WzM-vB9sa5v4rKO-I4q6kxfkNu26B/pubhtml?gid=1902548542&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+<!--
 <h2>
 Amador Martinez Triples - RESULTS
 </h2>
@@ -179,7 +192,7 @@ Amador Martinez Triples - RESULTS
 
 
 <p>&nbsp;</p>
-<!--
+
 <div class="results_trips_one_class">
   <div class="results_title">
     <div class="place">Oxnard</div>
@@ -211,7 +224,7 @@ Amador Martinez Triples - RESULTS
     </tr>
   </table>
 </div>
--->
+
 	
 <p>&nbsp;</p>
 	
@@ -450,14 +463,14 @@ Amador Martinez Triples - RESULTS
 <td>Jim Lyons</td>
 </tr>
 
-<!--
+
 <tr>
  <td colspan="4">&nbsp;</th>
 </tr>
 <tr>
  <th colspan="4"><p>Full details on <a href="http://www.oxnardlbc.com/">Oxnard website</a>... </p></th>
  </tr>
---> 
+
  
 </table>
 </div>
@@ -543,10 +556,10 @@ Amador Martinez Triples - RESULTS
 2014: Norm Wiles - Barry Pickup - Bud Viard
 
 
-<!--
+
 <br>
 <a href="http://oxnardlbc.com/Tournaments/MartinezTriples/AmadorMartinezTriples2014.html">Visit this Oxnard page for full details</a>
--->
+
 
 </div>
 
@@ -741,6 +754,7 @@ Ref:  The above information was obtained through live interview with Amador Mar
 
 <div class="back_to_top"><a href="#top">back to top</a>
 </div>
+-->
 
 <?php require('../../include/php_footer.txt'); ?>
 

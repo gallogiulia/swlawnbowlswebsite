@@ -237,7 +237,17 @@ end sample -->
         <center>
           Tournament Results
         </center>
+
+        <h3>Amador Martinez Triples</h3>
+
+        <em>Congratulations to all players</em><p>
+        <h2>&nbsp;</h2>
+        <iframe width='400' height='200' frameborder='0' 
+        src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSWTkuPHZvrt6mXqAU3UU_hn0qnVMiZ5-y5PlBnT3C--hSx6H7WzM-vB9sa5v4rKO-I4q6kxfkNu26B/pubhtml?gid=908697081&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
         
+        <p>Click <a href="https://swlawnbowls.org/tournaments/martinez/martinez.php">here</a> to look at the overall results.<p>&nbsp;</p>
+        <h2>&nbsp;</h2>
+        <h3>
         <h3>SWWD Mix/Match Vet-Novice Triples </h3>
 
         <em>Congratulations to all players and novices!</em><p>

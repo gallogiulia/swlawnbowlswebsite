@@ -61,6 +61,10 @@ echo '<div id="get_the_flyer"><a href="2020_flyer_carnival.pdf">get the flyer fo
 <h2>Carnival - RESULTS <em><span class="font_12 font_black">(scroll down for full results)</span></em></h2>
 
 
+<iframe width='1000' height='400' frameborder='0'
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR-xa-2dFg_eRcYxBVuuKmJQixtS6Nl68eVkKGnunca8ML2hIprq3FR9aYliKL8JiAxYUJoeMKHM3uY/pubhtml?gid=544547481&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+<!--
 <table class="res2" width="600">
 <tbody>
 <tr>
@@ -169,7 +173,7 @@ echo '<div id="get_the_flyer"><a href="2020_flyer_carnival.pdf">get the flyer fo
 </table>
 
 
-
+-->
 
 <div class="results_fours_one_class">
 <div class="results_title"><span class="place">Long Beach</span>2019 - Mar 9 <a href="2019_flyer_carnival.pdf">(flyer)</a></div>

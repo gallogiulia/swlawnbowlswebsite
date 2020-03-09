@@ -238,6 +238,16 @@ end sample -->
           Tournament Results
         </center>
 
+        <h3> Carnival</h3>
+
+        <em>Congratulations to all players</em><p>
+
+        <iframe width='400' height='350' frameborder='0' 
+        src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR-xa-2dFg_eRcYxBVuuKmJQixtS6Nl68eVkKGnunca8ML2hIprq3FR9aYliKL8JiAxYUJoeMKHM3uY/pubhtml?gid=361935243&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+        <p>Click <a href="https://swlawnbowls.org/tournaments/carnival/carnival.php">here</a> to look at the overall results.<p>&nbsp;</p>
+        <h2>&nbsp;</h2>
+        <h3>
+        
         <h3>Amador Martinez Triples</h3>
 
         <em>Congratulations to all players</em><p>
@@ -302,6 +312,8 @@ end sample -->
 <p>Do you know how to draw a <em>"Snowman" toucher? </em>Read the article written by Diana and Shelley to find out how the Ladies's Day group celebrated the end of 2019 at Laguna Woods.
                 Click <a href="https://swlawnbowls.org/ladies_day.php">here.</a></p>
               <p>&nbsp;</p></p>
+
+ <!--           
   <h1><strong> OTHER NEWS</strong></h1>
 <h3>New Webmaster</h3>
               <p>Giulia Gallo is the new webmaster. To get in touch, use <a href="mailto:sw.bowls@gmail.com">this</a> email address.</p>
@@ -352,7 +364,8 @@ end sample -->
 
 
 </div>
-              <!-- end content -->
+-->
+            
     </div>
     <?php require('include/php_footer.txt'); ?>
     <!-- end container -->

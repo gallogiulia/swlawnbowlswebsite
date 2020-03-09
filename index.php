@@ -238,6 +238,16 @@ end sample -->
           Tournament Results
         </center>
 
+        <h3>SWWD Vet/Novice Triples </h3>
+
+        <em>Congratulations to all players and novices!</em><p>
+        <h2>&nbsp;</h2>
+        <iframe width='400' height='400' frameborder='0' 
+        src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT4PNxlPtkrVjGyT3E0Lnr3TaY7_FCLIa7VxFrstjRgDw7KSGc1MjixCESnSWv_vUnylHqVFtn_yeFp/pubhtml?gid=908697081&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+        <p>Click <a href="https://swlawnbowls.org/tournaments/swwd_vn_3/swwd_vn_3.php">here</a> to look at the overall results.<p>&nbsp;</p>
+      <h2>&nbsp;</h2>
+      <h3>
+
         <h3> Carnival</h3>
 
         <em>Congratulations to all players</em><p>

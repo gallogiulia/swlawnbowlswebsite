@@ -86,8 +86,14 @@ echo '<div id="get_the_flyer"><a href="2020_flyer_swwd_vn_3.pdf">get the flyer f
 
 <a name="results"></a>
 
-<h2>SWWD Veteran-Novice Triples - RESULTS</h2>
+<h2>SWWD Veteran-Novice Triples - First Places</h2>
 
+<iframe width='500' height='400' frameborder='0'
+ src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT4PNxlPtkrVjGyT3E0Lnr3TaY7_FCLIa7VxFrstjRgDw7KSGc1MjixCESnSWv_vUnylHqVFtn_yeFp/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<h2>SWWD Veteran-Novice Triples - Historical Results</h2>
+
+<iframe width='600' height='1050' frameborder='0'
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT4PNxlPtkrVjGyT3E0Lnr3TaY7_FCLIa7VxFrstjRgDw7KSGc1MjixCESnSWv_vUnylHqVFtn_yeFp/pubhtml?gid=1902548542&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 <table class="res2" width="500">

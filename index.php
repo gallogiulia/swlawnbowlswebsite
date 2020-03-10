@@ -107,7 +107,7 @@ end sample -->
                   <img class="fltrt" src="tournaments/images/points_women.png" alt="" width="10" height="10" title="women's point events">
                   <span class="indent_40"><a href="tournaments/swwd_mumma/mumma.php">SWWD Mumma Mixed Pairs</a></span></strong></td>
             </tr>
--->
+
 			<tr>
               <td width="12" valign="top"></td>
               <td class="updates_women"><strong><a href="tournaments/swwd_vnmm_3/2020_flyer_swwd_vnmm_3.pdf"><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Feb 29 - Santa Anita<br>
@@ -132,6 +132,7 @@ end sample -->
                   <img class="fltrt" src="tournaments/images/points_women.png" alt="" width="10" height="10" title="women's point events">
                   <span class="indent_40"><a href="tournaments/swwd_vn_3/swwd_vn_3.php">SWWD Veteran Novice Triples</a></span></strong></td>
             </tr>
+  -->
 			  <tr>
               <td width="12" valign="top"></td>
               <td class="updates_women"><strong><a href="tournaments/swwd_play_1/2020_flyer_swwd_play_1.pdf"><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Mar 14-15 - Newport<br>
@@ -159,7 +160,7 @@ end sample -->
               <td class="updates_mixed"><strong><a href=""><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Mar 28 Sun City<br>
                   <span class="indent_40"><a href="tournaments/sun_city_aus_2/sun_city_aus_2.php">Sun City Aussie Pairs</a></span></strong></td>
             </tr>
-			             <tr>
+			      <tr>
               <td width="12" valign="top"></td>
               <td class="updates_women"><strong><a href="tournaments/swwd_cal_5s/2020_flyer_cal5s.png"><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Apr 4 - Laguna Woods<br>
                   <img class="fltrt" src="tournaments/images/points_women.png" alt="" width="10" height="10" title="women's point events">
@@ -171,6 +172,20 @@ end sample -->
               <td class="updates_men"><strong><a href="tournaments/swlba_socal_3/2020_flyer_socal_3.pdf"><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Apr 4-5 - San Diego<br>
                   <img class="fltrt" src="tournaments/images/points_men.gif" alt="" width="10" height="10" title="men's point events">
                   <span class="indent_40"><a href="tournaments/swlba_socal_3/so_cal_3.php">SWLBA Southern California Triples</a></span></strong></td>
+            </tr>
+
+            <tr>
+              <td width="12" valign="top"></td>
+              <td class="updates_women"><strong><a href="tournaments/swwd_open/2020_flyer_swwd_open.pdf"><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Apr 18-23 - Santa Anita<br>
+                  <img class="fltrt" src="tournaments/images/points_women.png" alt="" width="10" height="10" title="women's point events">
+                  <span class="indent_40"><a href="tournaments/swwd_open/swwd_open.php">Southwest Women's Division Open</a></span></strong></td>
+            </tr>
+			  
+			    <tr>
+              <td width="12" valign="top"></td>
+              <td class="updates_men"><strong><a href="tournaments/swlba_open/2020_flyer_swlba_open.pdf"><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Apr 18-23 - Santa Anita<br>
+                  <img class="fltrt" src="tournaments/images/points_men.gif" alt="" width="10" height="10" title="men's point events">
+                  <span class="indent_40"><a href="tournaments/swlba_open/swlba_open.php">Southwest Men's Division Open</a></span></strong></td>
             </tr>
 
 
@@ -242,7 +257,7 @@ end sample -->
 
         <em>Congratulations to all players and novices!</em><p>
         <h2>&nbsp;</h2>
-        <iframe width='400' height='400' frameborder='0' 
+        <iframe width='550' height='400' frameborder='0' 
         src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT4PNxlPtkrVjGyT3E0Lnr3TaY7_FCLIa7VxFrstjRgDw7KSGc1MjixCESnSWv_vUnylHqVFtn_yeFp/pubhtml?gid=908697081&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
         <p>Click <a href="https://swlawnbowls.org/tournaments/swwd_vn_3/swwd_vn_3.php">here</a> to look at the overall results.<p>&nbsp;</p>
       <h2>&nbsp;</h2>
@@ -252,7 +267,7 @@ end sample -->
 
         <em>Congratulations to all players</em><p>
 
-        <iframe width='400' height='350' frameborder='0' 
+        <iframe width='550' height='350' frameborder='0' 
         src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR-xa-2dFg_eRcYxBVuuKmJQixtS6Nl68eVkKGnunca8ML2hIprq3FR9aYliKL8JiAxYUJoeMKHM3uY/pubhtml?gid=361935243&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
         <p>Click <a href="https://swlawnbowls.org/tournaments/carnival/carnival.php">here</a> to look at the overall results.<p>&nbsp;</p>
         <h2>&nbsp;</h2>
@@ -262,7 +277,7 @@ end sample -->
 
         <em>Congratulations to all players</em><p>
         <h2>&nbsp;</h2>
-        <iframe width='400' height='200' frameborder='0' 
+        <iframe width='550' height='200' frameborder='0' 
         src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSWTkuPHZvrt6mXqAU3UU_hn0qnVMiZ5-y5PlBnT3C--hSx6H7WzM-vB9sa5v4rKO-I4q6kxfkNu26B/pubhtml?gid=908697081&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
         
         <p>Click <a href="https://swlawnbowls.org/tournaments/martinez/martinez.php">here</a> to look at the overall results.<p>&nbsp;</p>
@@ -272,7 +287,7 @@ end sample -->
 
         <em>Congratulations to all players and novices!</em><p>
         <h2>&nbsp;</h2>
-        <iframe width='400' height='400' frameborder='0' 
+        <iframe width='550' height='400' frameborder='0' 
         src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQFiCo14ljY45x9eIf7tD3KWpB5JHJwboNJJQHe861dIeitBOU6mrSZo4mxj61Hx45jauMCgzSZnUA7/pubhtml?gid=908697081&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
         
         <p>Click <a href="https://swlawnbowls.org/tournaments/swwd_vnmm_3/swwd_vnmm_3.php">here</a> to look at the overall results.<p>&nbsp;</p>

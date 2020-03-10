@@ -54,18 +54,18 @@ echo '<div id="get_the_flyer"><a href="2020_flyer_swlba_open.pdf">&nbsp;get the 
 
 
 <h4>Santa Anita<br>
-Pairs: Sat &amp; Sun, April 6 &amp; 7, 2019<br>
-Fours: Mon &amp; Tue, April 8 &amp; 9, 2019<br>
-Singles: Wed &amp; Thu, April 10 &amp; 11, 2019</h4>
+Pairs: Sat &amp; Sun, April 18 &amp; 19, 2020<br>
+Fours: Mon &amp; Tue, April 20 &amp; 21, 2020<br>
+Singles: Wed &amp; Thu, April 22 &amp; 23, 2020</h4>
 
 
 
-<!--
-<img src="2019_flyer_swlba_open.png" alt="Flyer" width="800" height="850"  />
--->
+
+<img src="2020_flyer_swlba_open.png" alt="Flyer" width="800" height="850"  />
 
 
-<!--
+
+
 <table id="pay">
 <tbody>
 <tr>
@@ -73,15 +73,15 @@ Singles: Wed &amp; Thu, April 10 &amp; 11, 2019</h4>
 </tr>
 <tr>
  <td><span class="font_24">Pairs</span><br>
-  April 6 &amp; 7<br />
+  April 18 &amp; 19<br />
   (Sat &amp; Sun)<br />
   $60</td>
  <td><span class="font_24">Fours</span><br>
-  April 8 &amp; 9<br />
+  April 20 &amp; 21<br />
   (Mon &amp; Tue)<br />
   $120</td>
 <td><span class="font_24">Singles</span><br>
- April 10 &amp; 11<br />
+ April 22 &amp; 23<br />
  (Wed &amp; Thu)<br />
  $30</td>
 </tr>
@@ -226,7 +226,8 @@ END PKCS7-----
 
 </tbody>
 </table>
--->
+
+
 
 </div>
 

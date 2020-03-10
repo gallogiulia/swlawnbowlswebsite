@@ -32,7 +32,7 @@
 <div id="announce">
 
 
-<h2><a href="2019_cop_open.pdf">2019 Conditions of Play</a><br>
+<h2><a href="2020_COP.pdf">2020 Conditions of Play</a><br>
 
 <!--
 Rinks Chart - <a href="https://docs.google.com/spreadsheets/d/17mPnfuXNihs_pieM-4wmPZhO-5Qh4Hlx2r4BxMdNm34/edit?ts=5ca6fc9b#gid=204344177">Day 1</a> - <a href="https://docs.google.com/spreadsheets/d/1U29dKSWPjX-uSzzPPO-17NMpxKhEfpEHyFfL90S9Guw/edit?ts=5ca82ada#gid=0">Day 2</a><br>
@@ -45,21 +45,21 @@ Singles Chart - <a href="https://docs.google.com/spreadsheets/d/1wfZ_mNZV5Yb3our
 
 
 <h4>
-Fours: Santa Anita - Sat &amp; Sun, April 6 &amp; 7, 2019
+Fours: Santa Anita - Sat &amp; Sun, April 18 &amp; 19, 2020
 
 <!--
 - <span class="text_red"><a href="2018_COP.pdf">Rules</a></span>
 -->
 
 <br>
-Pairs: Santa Anita - Mon &amp; Tue, April 8 &amp; 9, 2019
+Pairs: Santa Anita - Mon &amp; Tue, April 20 &amp; 21, 2020
 
 <!--
 - <span class="text_red"><a href="2018_COP.pdf">Rules</a></span>
 -->
 
 <br>
-Singles: Santa Anita - Wed &amp; Thu, April 10 &amp; 11, 2019
+Singles: Santa Anita - Wed &amp; Thu, April 22 &amp; 23, 2020
 
 <!--
 - <span class="text_red"><a href="2018_COP.pdf">Rules</a></span>
@@ -81,11 +81,11 @@ echo '<div id="get_the_flyer"><a href="2020_flyer_swwd_open.pdf">get full tourna
 </p>
 
 
-<!--
-<img src="2020_flyer_swwd_open.png" width="800" height="729" alt="Flyer">
--->
 
-<!--
+<img src="2020_flyer_swwd_open.png" width="800" height="729" alt="Flyer">
+
+
+
 <table id="pay">
  <tbody>
   <tr>
@@ -93,15 +93,15 @@ echo '<div id="get_the_flyer"><a href="2020_flyer_swwd_open.pdf">get full tourna
   </tr>
   <tr>
    <td><span class="font_24">Fours</span><br>
-    April 6 &amp; 7<br />
+    April 18 &amp; 19<br />
     (Sat &amp; Sun)<br />
     $100</td>
    <td><span class="font_24">Pairs</span><br>
-    April 8 &amp; 9<br />
+    April 20 &amp; 21<br />
     (Mon &amp; Tue)<br />
     $50</td>
    <td><span class="font_24">Singles</span><br>
-    April 10 &amp; 11<br />
+    April 22 &amp; 23<br />
     (Wed &amp; Thu)<br />
     $25</td>
   </tr>
@@ -147,7 +147,7 @@ echo '<div id="get_the_flyer"><a href="2020_flyer_swwd_open.pdf">get full tourna
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
--->
+
    
 </td>
 </tr>

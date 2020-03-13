@@ -1,3 +1,4 @@
+
 <!DOCTYPE HTML>
 <html>
 
@@ -160,6 +161,13 @@ end sample -->
               <td class="updates_mixed"><strong><a href=""><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Mar 28 Sun City<br>
                   <span class="indent_40"><a href="tournaments/sun_city_aus_2/sun_city_aus_2.php">Sun City Aussie Pairs</a></span></strong></td>
             </tr>
+
+            <tr>
+              <td width="12" valign="top"></td>
+              <td class="updates_mixed"><strong><a href=""><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Mar 29 Sun City<br>
+                  <span class="indent_40"><a href="division_days.php">Division Days</a></span></strong></td>
+            </tr>
+
 			      <tr>
               <td width="12" valign="top"></td>
               <td class="updates_women"><strong><a href="tournaments/swwd_cal_5s/2020_flyer_cal5s.png"><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Apr 4 - Laguna Woods<br>
@@ -263,6 +271,8 @@ end sample -->
       <h2>&nbsp;</h2>
       <h3>
 
+
+       
         <h3> Carnival</h3>
 
         <em>Congratulations to all players</em><p>

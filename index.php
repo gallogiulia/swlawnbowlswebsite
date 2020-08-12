@@ -170,7 +170,7 @@ end sample -->
 
 			      <tr>
               <td width="12" valign="top"></td>
-              <td class="updates_women"><strong><a href="tournaments/swwd_cal_5s/2020_flyer_cal5s.png"><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Apr 4 - Laguna Woods<br>
+              <td class="updates_dday"><strong><a href="tournaments/swwd_cal_5s/2020_flyer_cal5s.png"><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Apr 4 - Laguna Woods<br>
                   <img class="fltrt" src="tournaments/images/points_women.png" alt="" width="10" height="10" title="women's point events">
                   <span class="indent_40"><a href="tournaments/swwd_cal_5s/swwd_cal_5s.php">SWWD Cal 5's</a></span></strong></td>
             </tr>

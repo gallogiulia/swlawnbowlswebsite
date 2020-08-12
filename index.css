@@ -259,6 +259,18 @@ th
     padding-bottom: 2px;
 }
 
+#updates tr td.updates_dday
+{
+    font-size: 12px;
+    width: 175px;
+    padding-left: 10px;
+    background-color:yellow;
+    text-align: left;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+
 #updates tr td.updates_men
 {
     font-size: 12px;

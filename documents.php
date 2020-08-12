@@ -30,7 +30,7 @@
 <table cellspacing="5" id="documents">
 
 <tr>
-<th><a href="tournaments.php">2019 Tournament Schedule</a></th>
+<th><a href="tournaments.php">2020 Tournament Schedule</a></th>
 <td>&nbsp;</td>
 </tr>
 <tr>

@@ -18,20 +18,35 @@
 <body>
 
 
+
 <div class="container">
 
+    <?php include('0_banner.txt'); ?> 
+   
 
-    <?php include('0_banner.txt'); ?>
 
-    <?php include('0_menu_main_full.txt'); ?>
-
+<div class="content">
+      <h3>
+		  <center>
+      Consolidation Information.
+      Download the document <a href="SWD Consolidation.pdf#toolbar=0&navpanes=0&scrollbar=0"> here</a>
+      <embed src="SWD Consolidation.pdf" width="100%" height="1090px"></embed>
+			</center>
+     
+</div>
+   
       <div id="sidebar_right">
 
+		  
         <div class="updates_box">
+        <!-- ------Begin Tournaments------- 
           <h5><span class="font_18"><a href="tournaments.php">2020
                 SW Schedule</a><br>
+                -->
+
               <a href="http://www.bowlsusa.us/tournament-calendar.html" class="font_16">BowlsUSA Calendar</a></span><br>
             <br>
+			
             Recent and Upcoming Events<br>
             are listed below <br>
             (in calendar order) </h5>
@@ -133,7 +148,7 @@ end sample -->
                   <img class="fltrt" src="tournaments/images/points_women.png" alt="" width="10" height="10" title="women's point events">
                   <span class="indent_40"><a href="tournaments/swwd_vn_3/swwd_vn_3.php">SWWD Veteran Novice Triples</a></span></strong></td>
             </tr>
-  -->
+ 
 			  <tr>
               <td width="12" valign="top"></td>
               <td class="updates_women"><strong><a href="tournaments/swwd_play_1/2020_flyer_swwd_play_1.pdf"><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Mar 14-15 - Newport<br>
@@ -155,7 +170,7 @@ end sample -->
               <td class="updates_mixed"><strong><a href=""><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Mar 28-29 - Cambria<br>
                   <span class="indent_40"><a href="tournaments/cambria/cambria.php">Cambria Open Singles</a></span></strong></td>
             </tr>
-			
+<!--
             <tr>
               <td width="12" valign="top"></td>
               <td class="updates_mixed"><strong><a href=""><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Mar 28 Sun City<br>
@@ -164,13 +179,13 @@ end sample -->
 
             <tr>
               <td width="12" valign="top"></td>
-              <td class="updates_mixed"><strong><a href=""><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Mar 29 Sun City<br>
+              <td class="updates_dday"><strong><a href=""><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Mar 29 Sun City<br>
                   <span class="indent_40"><a href="division_days.php">Division Days</a></span></strong></td>
             </tr>
 
 			      <tr>
               <td width="12" valign="top"></td>
-              <td class="updates_dday"><strong><a href="tournaments/swwd_cal_5s/2020_flyer_cal5s.png"><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Apr 4 - Laguna Woods<br>
+              <td class="updates_women"><strong><a href="tournaments/swwd_cal_5s/2020_flyer_cal5s.png"><img src="tournaments/entreez.png" width="12" height="12" alt="" class="fltrt" /></a>Apr 4 - Laguna Woods<br>
                   <img class="fltrt" src="tournaments/images/points_women.png" alt="" width="10" height="10" title="women's point events">
                   <span class="indent_40"><a href="tournaments/swwd_cal_5s/swwd_cal_5s.php">SWWD Cal 5's</a></span></strong></td>
             </tr>
@@ -196,15 +211,15 @@ end sample -->
                   <span class="indent_40"><a href="tournaments/swlba_open/swlba_open.php">Southwest Men's Division Open</a></span></strong></td>
             </tr>
 
-
+-->
 
           </table>
 
           <!-- ---End Tournaments--- -->
 
 
-
-          <h5><a href="calendar.php">&nbsp;go to the SW calendar for more info&nbsp;</a></h5>
+<!--
+          <h5><a href="calendar.php">&nbsp;go to the SW calendar for more info&nbsp;</a></h5> -->
           <p>&nbsp;</p>
           <table class="div_mtg">
             <tr>
@@ -212,20 +227,21 @@ end sample -->
             </tr>
             <tr>
               <td width="60" class="gender">Men -</td>
-              <td>Feb 15 - AGM</td>
+              <td></td>
             </tr>
 
             <tr>
               <td width="60" class="gender">Women -</td>
-              <td>Feb 15 - AGM</td>
+              <td>Sept 12, 10:00am - Board Meeting</td>
               <td>&nbsp;</td>
             </tr>
           </table>
         </div><!-- end updates_box -->
-
+        
+        <!-- 
         <div class="stuff_store"> <img src="stuff/collage_200.png" alt="Southwest Stuff" width="200" height="200"><br>
           <p> Looking for something that shows you're a member or fan of the Southwest? See some of the selections and learn where to get things on the <a href="sw_stuff.php">Southwest Stuff</a> page. </p>
-        </div><!-- end stuff_store -->
+        </div> end stuff_store -->
 
         <div class="sr_info">
           <h4><strong>Who's an Umpire?</strong></h4>
@@ -236,11 +252,13 @@ end sample -->
 
       </div><!-- end sidebar_right -->
 
-      <h1><strong>
-        <center>
-          HOME
-        </center>
-      </strong></h1>
+
+      <div id="sidebar_left">
+      <?php include('0_menu_main_full.txt'); ?>
+      </div>
+
+
+
 <div class="alerts"> <a href="alerts_2016.php"><img src="index/alerts.png" width="80" height="80" alt="E-Mail Alerts">sign up for<br>
           e-mail alerts</a>
         <br><br>
@@ -248,15 +266,54 @@ end sample -->
   </div>
 
 
+  <h1><strong>
+        <center>
+          HOME
+        </center>
+      </strong></h1>
       <p>Welcome to the home of bowls (<em>a.k.a., lawn bowling</em>) in Southern California. The Southwest is one of seven divisions of <a href="http://bowlsusa.us/"><em>Bowls USA</em></a>.</p>
 
       <p>New to the sport? Everything you'll need to know is contained in the <a href="documents/WorldBowlsIntroductionToLawnBowls.pdf">Introductory Manual to Lawn Bowls</a>. </p>
-
+      <!--   
       <p>Upcoming division tournaments and other events appear on the right as they are announced. Visit the <em><a href="calendar.php">Calendar</a></em> for complete details or the <em><a href="tournaments.php">Tournaments</a></em> page for just the schedule.<span class="font_12"></span></p>
+-->
 
+
+      
+		  <center>
+      Recommendation for possible guidelines when greens are allowed to reopen.
+      Download the document <a href="Bowls is back guidelines 050820 v2.docx"> here</a>
+      <h2>&nbsp;</h2>
+			</center>
 
       <h2>&nbsp;</h2>
+   
+		  <center>
+      Dear Bowlers, as you may have noticed we have temporarily removed access to the tournament schedule, due to the current health crises. The men’s and women’s tournament committees are monitoring all of the individual club reopening procedures. Once there is more evidence that we can resume tournament bowling, without endangering our membership, we will announce a modified tournament schedule.
+      <h2>&nbsp;</h2>
+			</center>
+	</div>
+ <!--      
+		   <center>
+          Statement about Coronavirus (COVID-19)
+			    <h2>&nbsp;</h2>
+	     	<p>Due to the Coronavirus (COVID-19), the SWLBA and SWWD are postponing the U.S. Singles Playdowns indefinitely. In addition the SWLBA is postponing the So Cal Triples indefinitely, and the SWWD is postponing the Cal 5's indefinitely. Refunds will be issued to all in a few days. Holding the SW Open will be evaluated in the coming weeks with a definitive answer made by the end of this month. Thanks to Long Beach, SDLBC, Newport, Laguna Woods and Santa Anita for their willingness to host those events. Hopefully things will go back to normal soon.
+        </center>
+		  <center>
+			  <p>The Sun City Aussie Pairs and Division Day event are postponed indefinitely.<p>
+		  </center>
+	  <h2>&nbsp;</h2>
       <h3>
+		<center>
+		  <p>With all the concern about the coronavirus threat, CLBC has decided to postpone the Singles Tournament scheduled for March 28-29.  Although such a gathering would meet government guidelines, like most everyone else, we are erring on the side of caution.  We also don’t know how those guidelines might change as the tournament approaches.  The new tournament dates have not been set, but we are looking at this fall.  We all hope things will return to normal well before then.
+
+We hope you will stay registered with us.  If that is not possible, entry fee refunds will be sent.  Just reply to this email with a request for a refund.
+
+Cambria Lawn Bowls Club
+
+Jim Hollingshead, President </p>
+		  </center>
+
         <center>
           Tournament Results
         </center>
@@ -400,6 +457,7 @@ end sample -->
 
 </div>
 -->
+
             
     </div>
     <?php require('include/php_footer.txt'); ?>

@@ -264,13 +264,19 @@ th
     font-size: 12px;
     width: 175px;
     padding-left: 10px;
-    background-color:yellow;
+    background-color:#E2F703;
     text-align: left;
     padding-top: 2px;
     padding-bottom: 2px;
 }
 
-
+#limits tr td.updates_dday
+{
+    font-size: 10px;
+    background-color: #E2F703;
+    text-align: center;
+    line-height: 1.2em;
+}
 #updates tr td.updates_men
 {
     font-size: 12px;

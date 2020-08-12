@@ -3,7 +3,6 @@
   <ul class="nav">
    <li><a href="index.php">              Home                    </a></li>
    <li><a href="about_us.php">           About Us                </a></li>
-   <li><a href="calendar.php">           Calendar                </a></li>
    <li><a href="clubs.php">              Clubs                   </a></li>
    <li><a href="coach.php">              Coaches                 </a></li>
    <li><a href="documents.php">          Documents               </a></li>
@@ -24,7 +23,6 @@
    <li><a href="standings_w.php">        Standings (W)           </a></li>
    <li><a href="support.php">        	 Support Lawn Bowls      </a></li>
    <li><a href="team_sw.php">            Team SW                 </a></li>
-   <li><a href="tournaments.php">        Tournaments             </a></li>
    <li><a href="results.php">            Tourn. Results          </a></li>
    <li><a href="umpires.php">            Umpires                 </a></li>
    <li><a href="http://usedlawnbowlsforsale.weebly.com/">            Used Bowls              </a></li>
